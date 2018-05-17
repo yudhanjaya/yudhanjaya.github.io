@@ -2,16 +2,22 @@
 #
 
 # Site settings
-title: Spectral
+title: Four authors. One future.
 description: |
-  Another fine responsive  
-  site template freebie  
-  crafted by [HTML5 UP](http://html5up.net)
-owner: Your Name # or company name
-first_published: 2016 # if migrating another site, the year of your first publish
-email: your-email@domain.com
+Welcome to 2054, 
+where memory hackers carve up your mind, 
+sex bots lurk behind every corner, 
+and the religious wear impenetrable skins.
+ 
+Explore the ocean depths with AI-enhanced octopods. 
+Learn your past might not be what you remember. 
+Take a bot into your marriage bed, and fall in love across an impenetrable divide.
+
+owner: project2054
+first_published: 2018 # if migrating another site, the year of your first publish
+email: project2054@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://project2054.com" # the base hostname & protocol for your site
 social:
   twitter: https://twitter.com/<username>
   github: https://github.com/<username>
