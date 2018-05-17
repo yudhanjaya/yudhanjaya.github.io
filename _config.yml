@@ -4,14 +4,12 @@
 # Site settings
 title: Four authors. One future.
 description: |
-Welcome to 2054, 
-where memory hackers carve up your mind, 
-sex bots lurk behind every corner, 
-and the religious wear impenetrable skins.
- 
-Explore the ocean depths with AI-enhanced octopods. 
-Learn your past might not be what you remember. 
-Take a bot into your marriage bed, and fall in love across an impenetrable divide.
+  Welcome to 2054, where memory hackers carve up your mind, 
+  sex bots lurk behind every corner, 
+  and the religious wear impenetrable skins.
+  Explore the ocean depths with AI-enhanced octopods. 
+  Learn your past might not be what you remember. 
+  Take a bot into your marriage bed, and fall in love across an impenetrable divide.
 
 owner: project2054
 first_published: 2018 # if migrating another site, the year of your first publish
