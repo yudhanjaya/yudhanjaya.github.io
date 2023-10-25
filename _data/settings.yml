@@ -31,7 +31,7 @@ menu__settings:
 author:
   author__name: Yudhanjaya Wijeratne
   author__bio: One must imagine Sisyphus to be happy. 
-  author__avatar: '/images/yudha.jpg'
+  author__avatar: '/images/icon.jpg'
 
 social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com"}
@@ -51,7 +51,7 @@ hero:
   enable: true
   hero__title: Hi. I'm Yudhanjaya Wijeratne.
   hero__description: I'm an award-winning author, data scientist, occasional game designer and AI programmer. I'm from Colombo, Sri Lanka. Welcome to my portfolio and digital garden.
-  hero__image: '/images/icon.png'
+  hero__image: '/images/yudha.png'
 
 
 #-------------------------------
