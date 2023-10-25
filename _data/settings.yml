@@ -99,7 +99,7 @@ mailchimp:
 work:
   enable: true
   work__title: Books
-  work__description: My stories have won the Gratiean award, been nominated for the Nebula and Independent Games Festival awards, appeared in venues like Wired, ForeignPolicy and Slate, and been Washington Post and Audible bestsellers.  
+  work__description: My stories have won the Gratiean Prize, been nominated for the Nebula and Independent Games Festival awards, appeared in venues like Wired, ForeignPolicy and Slate, and been Washington Post and Audible bestsellers.  
 
 
 #-------------------------------
@@ -107,8 +107,8 @@ work:
 testimonials:
   enable: true
 
-testimonial__title: Clients
-testimonial__description:
+testimonial__title: Institutions
+testimonial__description: I've worked at or with a number of very interesting organizations, including: 
 
 testimonial__items:
   - name: "Hanna Septimus"
