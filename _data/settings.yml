@@ -31,7 +31,7 @@ menu__settings:
 author:
   author__name: Yudhanjaya Wijeratne
   author__bio: One must imagine Sisyphus to be happy. 
-  author__avatar: '/images/icon.png'
+  author__avatar: '/images/icon2.png'
 
 social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com"}
