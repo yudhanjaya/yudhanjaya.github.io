@@ -98,8 +98,8 @@ mailchimp:
 # Work Settings
 work:
   enable: true
-  work__title: Work
-  work__description: I shows only the best websites and portfolios built completely with passion, simplicity & creativity!
+  work__title: Books
+  work__description: My stories have won the Gratiean award, been nominated for the Nebula and Independent Games Festival awards, appeared in venues like Wired, ForeignPolicy and Slate, and been Washington Post and Audible bestsellers.  
 
 
 #-------------------------------
