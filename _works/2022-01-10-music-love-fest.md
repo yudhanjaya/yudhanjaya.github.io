@@ -6,7 +6,7 @@ category: Print Design
 date: 2022-01-10 08:01:35 +0300
 client: Music Fest
 role: Graphic Designer
-image: '/images/salvage-cover.jpg'
+image: '/images/salvage-cover.png'
 image_caption: 'Also available on Audible, narrated by Nathan Fillion'
 ---
 
