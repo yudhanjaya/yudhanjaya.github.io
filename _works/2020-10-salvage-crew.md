@@ -1,8 +1,7 @@
 ---
 title: The Salvage Crew
 description: AI x language games x space colonization x poetry x Buddhism. Narrated by Nathan Fillion.
-
-blurb: An AI overseer and a human crew arrive on a distant planet to salvage an ancient UN starship. The overseer is unhappy. The crew, well, they're certainly no A-team. Not even a C-team on the best of days. And worse? Urmagon Beta, the planet, is at the ass-end of nowhere. Everybody expects this to be a long, ugly, and thankless job. Then it all goes disastrously wrong. What they thought was an uninhabited backwater turns out to be anything but empty. Megafauna roam the land, a rival crew with some terrifyingly high-powered gear haunts the dig site, and a secret that will change humanity forever is waiting in the darkness.
+An AI overseer and a human crew arrive on a distant planet to salvage an ancient UN starship. The overseer is unhappy. The crew, well, they're certainly no A-team. Not even a C-team on the best of days. And worse? Urmagon Beta, the planet, is at the ass-end of nowhere. Everybody expects this to be a long, ugly, and thankless job. Then it all goes disastrously wrong. What they thought was an uninhabited backwater turns out to be anything but empty. Megafauna roam the land, a rival crew with some terrifyingly high-powered gear haunts the dig site, and a secret that will change humanity forever is waiting in the darkness.
 
 category: Novel
 date: October, 2020
