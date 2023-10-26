@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
 title: Yudhanjaya
-logo: '/images/icon.png'
+#logo: '/images/icon.png'
 description: Portfolio, links, contact details and more for Yudhanjaya Wijeratne.
 color_scheme: light # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
@@ -123,11 +123,11 @@ testimonial__items:
     link: "https://dangerousspeech.org"
     content : "Studying ethnic hatred and justifications of war crimes centered around the Sri Lankan Civil War and the historical context that led up to it."
 
-  - name: "CoFutures, University of Oslo"
-    image: "/images/institutions/3.png"
-    designation: "Creator, MOOC"
-    link: "https://cofutures.org"
-    content : "Developing a syllabus and materials on how to write and develop SFF, with examples and lessons from around the world."
+ # - name: "CoFutures, University of Oslo"
+ #   image: "/images/institutions/3.png"
+ #   designation: "Creator, MOOC"
+ #   link: "https://cofutures.org"
+ #   content : "Developing a syllabus and materials on how to write and develop SFF, with examples and lessons from around the world."
 
   - name: "Sci-Fi Economics Lab"
     image: "/images/institutions/4.png"
@@ -147,11 +147,11 @@ testimonial__items:
     link: "https://wso2.com/"
     content : "Worked on marketing materials and white papers of middleware implementations, as well as design and implementation of data projects such as the WSO2 Election Monitor."
 
-  - name: "Readme.lk"
-    image: "/images/institutions/7.png"
-    designation: "Founding Editor"
-    link: "https://readme.lk/"
-    content : "Sri Lanka's oldest consistent tech news hub. Undertook daily content as well as harder-hitting investigations, built a team, and had a whale of a time,"
+ # - name: "Readme.lk"
+ #   image: "/images/institutions/7.png"
+ #   designation: "Founding Editor"
+ #   link: "https://readme.lk/"
+ #   content : "Sri Lanka's oldest consistent tech news hub. Undertook daily content as well as harder-hitting investigations, built a team, and had a whale of a time,"
 
  
 
@@ -161,7 +161,7 @@ blog:
   enable: true
 
 blog__settings:
-  blog__title: Writing
+  blog__title: Blogposts
   blog__description:
 
 
@@ -171,6 +171,7 @@ footer__background__image: "/images/bg.jpg"
 
 #-------------------------------
 # Contact Settings
+
 contact:
   email: your@email.com # Add your form_id
   description: Akio comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
