@@ -115,7 +115,7 @@ testimonial__items:
     image: "/images/institutions/1.png"
     designation: "Cofounder + CEO + Editor in Chief"
     link: "https://watchdog.team"
-    content :"Watchdog is a multidisciplinary team of journalists, researchers and software engineers, operating under the Appendix umbrella. We hunt misinformation, investigate matters of public welfare, and build software tools. We've been called an “open-source intelligence research collective”, and that's fairly accurate. We use a lot of OSINT techniques - a combination of data scraping, analysis of publicly available documents and datasets, paired with old-school boots-on-the-ground journalism. As a core part of Appendix, we also design and act as a testing ground for new technology. This includes work like the #AskWatchdog AI and various parts of our data scraping, information extraction and archive operations."
+    content :"Watchdog is a multidisciplinary team of journalists, researchers and software engineers, operating under the Appendix umbrella. We hunt misinformation, investigate matters of public welfare, and build software tools. We use a lot of OSINT techniques - a combination of data scraping, analysis of publicly available documents and datasets, paired with old-school boots-on-the-ground journalism. As a core part of Appendix, we also design and act as a testing ground for new technology. This includes work like the #AskWatchdog AI and various parts of our data scraping, information extraction and archive operations."
 
   - name: "Carla Rosser"
     image: "/images/client-2.jpg"
