@@ -71,7 +71,7 @@ logo__items:
 
   - name: Rest of World
     link: "https://restofworld.org/2022/meet-the-fact-checkers-decoding-sri-lankas-meltdown/"
-    image: "/images/restofworld.png"
+    image: "/images/row.svg"
 
   - name: Foreign Policy
     link: "https://foreignpolicy.com/2019/05/07/big-tech-is-as-monolingual-as-americans/"
