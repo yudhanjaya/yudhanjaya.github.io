@@ -50,7 +50,7 @@ social:
 hero:
   enable: true
   hero__title: Hi. I'm Yudhanjaya Wijeratne.
-  hero__description: I'm an award-winning author, data scientist, occasional game designer and AI programmer. I'm from Colombo, Sri Lanka. Welcome to my portfolio and digital garden.
+  hero__description: I'm a storyteller from Colombo, Sri Lanka. I show up in many different guises - an award-winning author, OSINT journalist, data scientist, occasional game designer and AI programmer. Welcome to my portfolio and digital garden.
   hero__image: '/images/yudha.jpg'
 
 
@@ -61,29 +61,29 @@ logos:
   logos__title: I’ve been featured in some interesting places. 
 
 logo__items:
-  - name: Google
-    link: "https://www.google.com/"
+  - name: Google Research
+    link: "https://arxiv.org/pdf/2211.05030.pdf"
     image: "/images/google.svg"
 
-  - name: Spotify
-    link: "https://www.spotify.com/"
-    image: "/images/spotify.svg"
+  - name: Thew New York Times
+    link: "https://www.nytimes.com/interactive/2023/06/01/opinion/ai-technology-future.html"
+    image: "/images/NewYorkTimes.svg"
 
-  - name: Pinterest
-    link: "https://www.pinterest.com/"
-    image: "/images/pinterest.svg"
+  - name: Rest of World
+    link: "https://restofworld.org/2022/meet-the-fact-checkers-decoding-sri-lankas-meltdown/"
+    image: "/images/restofworld.svg"
 
-  - name: Netlify
-    link: "https://www.netlify.com/"
-    image: "/images/netlify.svg"
+  - name: Foreign Policy
+    link: "https://foreignpolicy.com/2019/05/07/big-tech-is-as-monolingual-as-americans/"
+    image: "/images/foreignpolicy.png"
 
-  - name: Apple
-    link: "https://www.apple.com/"
-    image: "/images/apple.svg"
+  - name: Wired
+    link: "https://www.wired.com/story/future-of-work-work-ethics-yudhanjaya-wijeratne/"
+    image: "/images/wired.svg"
 
-  - name: Adobe
-    link: "https://www.adobe.com/"
-    image: "/images/adobe.svg"
+  - name: Himal Southasian
+    link: "https://www.himalmag.com/contemporary-speculative-fiction-fantasy-sri-lanka/"
+    image: "/images/himal.svg"
 
 #-------------------------------
 # Newsletter
