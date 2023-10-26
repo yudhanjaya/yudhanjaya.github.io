@@ -1,7 +1,6 @@
 ---
 title: The Salvage Crew
-description: AI x language games x space colonization x poetry x Buddhism. An AI overseer and a human crew arrive on a distant planet to salvage an ancient UN starship. The overseer is unhappy. The crew, well, they're certainly no A-team. Not even a C-team on the best of days. And worse? Urmagon Beta, the planet, is at the ass-end of nowhere. Everybody expects this to be a long, ugly, and thankless job. Then it all goes disastrously wrong. What they thought was an uninhabited backwater turns out to be anything but empty. Megafauna roam the land, a rival crew with some terrifyingly high-powered gear haunts the dig site, and a secret that will change humanity forever is waiting in the darkness.  Narrated by Nathan Fillion.
-
+description: AI x language games x space colonization x poetry x Buddhism. 
 category: Novel
 date: October, 2020
 
@@ -9,7 +8,8 @@ image: '/images/salvage-cover.png'
 image_caption: 'Also available on Audible, narrated by Nathan Fillion'
 ---
 
-Hardcover books have a stiff binding. Paperback books have cheaper, flexible covers which tend to be less durable. An alternative to paperback is the glossy cover, otherwise known as a dust cover, found on magazines, and comic books. Spiral-bound books are bound by spirals made of metal or plastic. Examples of spiral-bound books include teachers' manuals and puzzle books (crosswords, sudoku).
+An AI overseer and a human crew arrive on a distant planet to salvage an ancient UN starship. The overseer is unhappy. The crew, well, they're certainly no A-team. Not even a C-team on the best of days. And worse? Urmagon Beta, the planet, is at the ass-end of nowhere. Everybody expects this to be a long, ugly, and thankless job. Then it all goes disastrously wrong. What they thought was an uninhabited backwater turns out to be anything but empty. Megafauna roam the land, a rival crew with some terrifyingly high-powered gear haunts the dig site, and a secret that will change humanity forever is waiting in the darkness.  Narrated by Nathan Fillion.
+
 
 <div class="gallery-box">
   <div class="gallery">
