@@ -1,11 +1,12 @@
 ---
 title: The Salvage Crew
-description: An AI overseer and a human crew arrive on a distant planet to salvage an ancient UN starship. The overseer is unhappy. The crew, well, they're certainly no A-team. Not even a C-team on the best of days. And worse? Urmagon Beta, the planet, is at the ass-end of nowhere. Everybody expects this to be a long, ugly, and thankless job. Then it all goes disastrously wrong. What they thought was an uninhabited backwater turns out to be anything but empty. Megafauna roam the land, a rival crew with some terrifyingly high-powered gear haunts the dig site, and a secret that will change humanity forever is waiting in the darkness.
+description: AI x language games x space colonization x poetry x Buddhism. Narrated by Nathan Fillion.
 
-category: Print Design
-date: 2022-01-10 08:01:35 +0300
-client: Music Fest
-role: Graphic Designer
+blurb: An AI overseer and a human crew arrive on a distant planet to salvage an ancient UN starship. The overseer is unhappy. The crew, well, they're certainly no A-team. Not even a C-team on the best of days. And worse? Urmagon Beta, the planet, is at the ass-end of nowhere. Everybody expects this to be a long, ugly, and thankless job. Then it all goes disastrously wrong. What they thought was an uninhabited backwater turns out to be anything but empty. Megafauna roam the land, a rival crew with some terrifyingly high-powered gear haunts the dig site, and a secret that will change humanity forever is waiting in the darkness.
+
+category: Novel
+date: October, 2020
+
 image: '/images/salvage-cover.png'
 image_caption: 'Also available on Audible, narrated by Nathan Fillion'
 ---
