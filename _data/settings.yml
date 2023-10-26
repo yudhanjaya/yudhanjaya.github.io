@@ -71,7 +71,7 @@ logo__items:
 
   - name: Rest of World
     link: "https://restofworld.org/2022/meet-the-fact-checkers-decoding-sri-lankas-meltdown/"
-    image: "/images/restofworld.svg"
+    image: "/images/restofworld.png"
 
   - name: Foreign Policy
     link: "https://foreignpolicy.com/2019/05/07/big-tech-is-as-monolingual-as-americans/"
@@ -98,7 +98,7 @@ mailchimp:
 # Work Settings
 work:
   enable: true
-  work__title: Books
+  work__title: Work
   work__description: My stories have won the Gratiean Prize, been nominated for the Nebula and Independent Games Festival awards, appeared in venues like Wired, ForeignPolicy and Slate, and been Washington Post and Audible bestsellers.  
 
 
