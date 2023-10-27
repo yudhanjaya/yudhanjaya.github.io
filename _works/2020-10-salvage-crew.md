@@ -9,13 +9,13 @@ image: '/images/salvage-cover.png'
 image_caption: 'Also available on Audible, narrated by Nathan Fillion'
 ---
 
+> "Yudhanjaya Wijeratne's ingeniously crafted The Salvage Crew starts with a comforting science-fictional familiarity, before using its A.I.-co-authored idiosyncrasies to hurtle headlong into the gravity well of its considerable ambition. A novel of meteoric energy, flaring brighter and brighter as it falls further into its world." (Indrapamit Das, Lambda Award-winning author of The Devourers)
+> 
 Blurb: An AI overseer and a human crew arrive on a distant planet to salvage an ancient UN starship. The overseer is unhappy. The crew, well, they're certainly no A-team. Not even a C-team on the best of days. And worse? Urmagon Beta, the planet, is at the ass-end of nowhere. Everybody expects this to be a long, ugly, and thankless job. Then it all goes disastrously wrong. What they thought was an uninhabited backwater turns out to be anything but empty. Megafauna roam the land, a rival crew with some terrifyingly high-powered gear haunts the dig site, and a secret that will change humanity forever is waiting in the darkness. 
 
-Links: [Amazon](https://www.amazon.com/Salvage-Crew-Yudhanjaya-Wijeratne-ebook/dp/B08J977YVQ) | [Audible](https://www.audible.com/pd/The-Salvage-Crew-Audiobook/1774246775)
+Links: [Amazon](https://www.amazon.com/Salvage-Crew-Yudhanjaya-Wijeratne-ebook/dp/B08J977YVQ), [Audible](https://www.audible.com/pd/The-Salvage-Crew-Audiobook/1774246775)
 
 At its heart, the Salvage Crew is dark, snarky space adventure with a stirring of Wittgenstein and Buddhism in the broth. It features a depressed, C-team crew, a bored-as-fuck AI poet, an actual alien AI, first contact, giant furry sloths, and interstellar capitalism in a gig economy. It's also a love letter to Rimworld and Dwarf Fortress. The audiobook was narrated by Nathan Fillion.
-
-> "Yudhanjaya Wijeratne's ingeniously crafted The Salvage Crew starts with a comforting science-fictional familiarity, before using its A.I.-co-authored idiosyncrasies to hurtle headlong into the gravity well of its considerable ambition. A novel of meteoric energy, flaring brighter and brighter as it falls further into its world." (Indrapamit Das, Lambda Award-winning author of The Devourers)
 
 The Salvage Crew was a technical step forward for me in exploring my human+AI thesis; for this book, the voice of the machine poet was an OpenAI GPT-117M model that I retrained on translations of Tang dynasty poetry by the likes of Du Fu and Li Bai, generating thousands of poems that I sifted through, looking for both utility for the story and that ever-so-slight disconnect of style and translation. 
 
