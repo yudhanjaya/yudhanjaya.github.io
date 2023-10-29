@@ -1,10 +1,10 @@
-/* Works */
-.work {
+/* wips */
+.wip {
   margin-bottom: 32px;
   transition: transform .2s;
 }
 
-.work__image {
+.wip__image {
   position: relative;
   display: block;
   width: 100%;
@@ -39,17 +39,17 @@
   }
 }
 
-.work__info {
+.wip__info {
   margin-top: 28px;
 
-  .work__category {
+  .wip__category {
     margin-bottom: 4px;
     font-size: 16px;
     font-weight: 500;
     color: var(--heading-font-color);
   }
 
-  .work__title {
+  .wip__title {
     display: inline-block;
     margin-bottom: 0;
     font-size: 32px;
@@ -62,7 +62,7 @@
     }
   }
 
-  .work__description {
+  .wip__description {
     display: -webkit-box;
     margin-top: 20px;
     margin-bottom: 0;
@@ -74,7 +74,7 @@
   }
 
   @media (max-width: $desktop) {
-    .work__title {
+    .wip__title {
       font-size: 28px;
     }
   }
@@ -82,7 +82,7 @@
   @media (max-width: $tablet) {
     margin-top: 24px;
 
-    .work__category {
+    .wip__category {
       font-size: 14px;
     }
   }
