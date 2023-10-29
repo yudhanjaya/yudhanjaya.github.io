@@ -16,6 +16,8 @@ menu__settings:
       url: '/about/'
     - title: 'Work'
       url: '/work/'
+    - title: 'In Progress'
+      url: '/wip/'
     - title: 'Writing'
       url: '/blog/'
     - title: 'Pages'
@@ -100,6 +102,13 @@ work:
   enable: true
   work__title: Work
   work__description: My stories have won the Gratiean Prize, been nominated for the Nebula and Independent Games Festival awards, appeared in venues like Wired, ForeignPolicy and Slate, and been Washington Post and Audible bestsellers.  
+
+#-------------------------------
+# WIP Settings
+wip:
+  enable: true
+  wip__title: In Progress
+  wip__description: Lorem ipsum.
 
 
 #-------------------------------
