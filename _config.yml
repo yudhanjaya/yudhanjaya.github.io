@@ -27,6 +27,9 @@ collections:
   works:
     output: true
     permalink: /work/:slug
+  wips:
+    output: true
+    permalink: /wip/:slug
 
 # Pages Path
 defaults:
@@ -49,6 +52,11 @@ defaults:
       type: "works"
     values:
       layout: "work"
+  - scope:
+      path: ""
+      type: "wips"
+    values:
+      layout: "wip"
 
 sass:
   sass_dir: _sass
