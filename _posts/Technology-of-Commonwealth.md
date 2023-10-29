@@ -1,12 +1,19 @@
+---
+layout: post
+title: The Technology of the Commonwealth Empires
+description: Notes on the directions that the world took in an alternate future
+date: 2018-05-0 
+image: '/images/inhumanrace.png'
+tags: [workflow, notes, study]
+---
+
 
 
 One of the key challenges of designing the alternate-reality world of the Commonwealth Empires  is getting the technologies of the world right.
 
 When I started writing, I knew a few things about this alternate British Empire. One, they  never went through the first world war as we know it. The first world war led to enormous advances in mechanization; this is a war that started on horses and ended in tanks. The second world war saw immense leaps communications technology (as allies and axis struggled to coordinate assets worldwide while simultaneously trying to crack the others’ networks).
 
-So my Britain, I theorized,  invested enormous amounts of effort on robotics and human modification. And food supply, seeing as how it had to manage the large and unwieldy nati
-![](https://yudhanjaya.com/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F5747ab0c-680c-4536-8687-462be799afb7%2FUntitled.png?table=block&id=96fdf632-9f87-40d5-853e-66839d191bb3&spaceId=0fb973de-6644-43df-9b8b-49f27488d218&width=2000&userId=&cache=v2)
-on of India.  All of this came at the expense of communication, so we have soldiers that routine undergo surgery and body modifications – but no Internet. There are radiograms – radio shrunk down to the size of mobile phone – but no undersea data cables or satellite links. Technology, devoid of the Internet services we take for granted, would largely be decentralized: the electronic paper that Eliot Grimme carries operates on solar power, is highly rugged and resilient, and can slot in with other ‘sheets’ to form larger displays with more compute power.
+So my Britain, I theorized,  invested enormous amounts of effort on robotics and human modification. And food supply, seeing as how it had to manage the large and unwieldy nation of India.  All of this came at the expense of communication, so we have soldiers that routine undergo surgery and body modifications – but no Internet. There are radiograms – radio shrunk down to the size of mobile phone – but no undersea data cables or satellite links. Technology, devoid of the Internet services we take for granted, would largely be decentralized: the electronic paper that Eliot Grimme carries operates on solar power, is highly rugged and resilient, and can slot in with other ‘sheets’ to form larger displays with more compute power.
 
 In fact, the only thing even closely resembling geostationary satellite networks are the three Angels Interitus: three very crude satellites that will drop a tungsten payload from low-Earth orbit, obliterating cities outright. This is American scifi writer Jerry Pournelle’s idea resurrected; it’s something that the present-day US (in our world) seems to be giving serious thought to.  The Angels and Britain’s Tin Soldiers – walking semi-amphibious dreadnoughts crewed by advanced AI – form the bulk of my Britain’s military might. A touch of Pacific Rim there.
 
