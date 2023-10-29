@@ -16,7 +16,7 @@ menu__settings:
       url: '/about/'
     - title: 'Work'
       url: '/work/'
-    - title: 'In Progress'
+    - title: 'Works In Progress'
       url: '/wip/'
     - title: 'Writing'
       url: '/blog/'
