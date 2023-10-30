@@ -82,6 +82,10 @@ logo__items:
     link: "https://www.himalmag.com/contemporary-speculative-fiction-fantasy-sri-lanka/"
     image: "/images/himal.svg"
 
+  - name: Forbes
+    link: "https://www.forbes.com/profile/yudhanjaya-wijeratne/?sh=4d316db0173a"
+    image: "/image/forbes.png"
+
 #-------------------------------
 # Newsletter
 mailchimp:
