@@ -1,6 +1,6 @@
 ---
 title: The Salvage Crew 2 aka Humble Cosmic Pilgrim
-description: AI x deep space journeys x Buddhism 
+description: AI x deep space journeys x first contact x Buddhism 
 category: Novel
 published by: tbr
 date: November, 2023
