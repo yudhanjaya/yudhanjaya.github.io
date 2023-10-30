@@ -4,7 +4,7 @@ description: My long-held dream of living as sustainably as possible, with the p
 category: Homestead
 date: April, 2020
 
-image: '/images/wretched.png'
+image: '/images/land-photo-3.png'
 image_caption: 'The joint winner of the Gratiaen Prize, 2023.'
 ---
 
