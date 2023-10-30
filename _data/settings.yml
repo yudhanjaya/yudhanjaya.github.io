@@ -12,20 +12,15 @@ menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
-    - title: 'About'
+    - title: 'Portfolio'
       url: '/about/'
     - title: 'Work'
       url: '/work/'
     - title: 'In Progress'
       url: '/wip/'
-    - title: 'Writing'
+    - title: 'Blogposts'
       url: '/blog/'
-    - title: 'Pages'
-      submenu:
-      - url: '/contact/'
-        title: 'Contact'
-      - url: '/elements/'
-        title: 'Elements'
+
 
 
 #-------------------------------
