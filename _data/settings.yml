@@ -137,19 +137,19 @@ testimonial__items:
     image: "/images/institutions/4.png"
     designation: "Architect"
     link: "https://witness.scifieconomicslab.net"
-    content : "I functioned as lead designer and writer of Project Witness, an open-source climate-addled future exploring alternate economic structures and their societies. Working with the very multi-disciplinary folks over at Edgeryders, I co-designed societies, built religions, fleshed out institutions, interactions and lore, and built a card game where different types of societies react to Black Swan events."
+    content : "I functioned as lead designer and writer of Project Witness, an open-source climate-addled future exploring alternate economic structures and their societies. Working with the very multi-disciplinary folks over at Edgeryders, I co-designed societies, built religions, fleshed out institutions, interactions and lore, and built a card game where different types of societies react to Black Swan events. Because of the team, and the sheer variety and depth and understanding of very different economic principles that they held, I came away with a lot more knowledge than I walked in with."
 
   - name: "LIRNEasia"
     image: "/images/institutions/5.png"
     designation: "Senior Researcher, Big Data For Development"
     link: "https://lirneasia.net/"
-    content : "Data science x public policy in the Global South. My work included grounded futurisms, examinations of digital laws, and academic work on corpus linguistics, social networks and machine learning."
+    content : "Our unit was centered on data science x public policy in the Global South - things like using millions of call detail records to identify where we need better road infrastructure. My work included grounded futurisms, examinations of digital laws, and academic work on corpus linguistics, social networks and machine learning, occasionally carrying out research collaborations with the University of Moratuwa. It greatly honed my understanding of the world and my technical skills, esepcially around linguistics; the majority of outputs from this time are easily available via Google Scholar."
 
   - name: "WSO2"
     image: "/images/institutions/6.png"
     designation: "Marketing exec, Big Data neophyte"
     link: "https://wso2.com/"
-    content : "Worked on marketing materials and white papers of middleware implementations, as well as design and implementation of data projects such as the WSO2 Election Monitor."
+    content : "At WSO2 I worked on marketing materials and white papers of middleware implementations. These included projects with folks ranging from Transport for London to the Govt of Maldova. Later, I worked on data projects such as the WSO2 Election Monitor, from design to prototyping to implementation. This was where I got into data science proper."
 
  # - name: "Readme.lk"
  #   image: "/images/institutions/7.png"
