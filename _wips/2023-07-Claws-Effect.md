@@ -5,7 +5,7 @@ category: Novel
 published by: tbr
 date: tbr
 
-image: '/images/claws-effect-ai.png'
+image: '/images/claws-effect-ai.jpeg'
 image_caption: 'Placeholder art.'
 ---
 
