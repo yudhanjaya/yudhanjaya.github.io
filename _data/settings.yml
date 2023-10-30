@@ -107,7 +107,7 @@ work:
 # WIP Settings
 wip:
   enable: true
-  wip__title: In Progress
+  wip__title: Works In Progress
   wip__description: I’m always working on several things at any given time. Sometimes these are tiny projects - sometimes they’re long, perpetual, possibly Sisyphean acts of tomfoolery. This is what I’m working on right now.
 
 
