@@ -27,16 +27,16 @@ menu__settings:
 # Author Settings
 author:
   author__name: Yudhanjaya Wijeratne
-  author__bio: One must imagine Sisyphus to be happy. 
+  author__bio: To get in touch, reach out to hello [at] yudhanjaya [dot] com, or contact fingan [at] zenoagency [dot] com to talk to my agent.  Responses from my end may take time. 
   author__avatar: '/images/icon2.png'
 
 social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com"}
 - {icon: "ion-logo-facebook", link: "https://facebook.com"}
 - {icon: "ion-logo-instagram", link: "https://instagram.com"}
-- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
+#- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
 - {icon: "ion-logo-github", link: "https://github.com"}
-- {icon: "ion-logo-vimeo", link: "https://vimeo.com"}
+#- {icon: "ion-logo-vimeo", link: "https://vimeo.com"}
 
 # Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
 # Other icons can be found at https://ionicons.com/v4/
