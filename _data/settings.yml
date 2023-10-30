@@ -119,7 +119,7 @@ testimonial__items:
     image: "/images/institutions/1.png"
     designation: "Cofounder + CEO + Editor in Chief"
     link: "https://watchdog.team"
-    content: "Watchdog is a multidisciplinary team of journalists, researchers and software engineers. Founded in 2019 by Bhanuka Harischandra, Nisal Periyapperuma and myself, Watchdog hunts misinformation, investigate matters of public welfare, and builds software tools for public good."
+    content: "Watchdog is a multidisciplinary team of journalists, researchers and software engineers. We began in April 2019, days after the Easter Sunday bombings in Sri Lanka, building a mobile app that was used by over 200,000 people to verify information and counteract rumors in their own networks. We've since moved on to identifying mass graves, doing deep data dives into public infrastructure, and building open-source software now used by the Ministry of Health and Red Cross Sri Lanka. We use a lot of OSINT techniques - a combination of data scraping, analysis of publicly available documents and datasets, paired with old-school boots-on-the-ground journalism."
 
   - name: "The Dangerous Speech Project"
     image: "/images/institutions/2.png"
