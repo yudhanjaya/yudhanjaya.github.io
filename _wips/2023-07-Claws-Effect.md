@@ -1,6 +1,6 @@
 ---
 title: Claws and Effect
-description: A magical cat and a paladin set out to hustle their way through a fantasy world
+description: A magical cat and a paladin set out to hustle their way through a fantasy world.
 category: Novel
 published by: tbr
 date: July, 2023
