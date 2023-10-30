@@ -6,10 +6,10 @@ published by: Substack / self / Perera Hussein (tbr)
 date: November, 2022
 
 image: '/images/wretched.png'
-image_caption: 'The joint winner of the Gratiaen Prize, 2023.'
+image_caption: 'Cover elements by Akila Weerasinghe; the design is mine and not yet final.'
 ---
 
->Blurb: a Kafkaesque, near-future Sri Lanka, where superpowers are a lot more common and common sense is still a rarity; about a bunch of rebels trying to overthrow a corrupt, nepotistic, dynastic government; about hopes, dreams, violence, and about the stupidity of it all.
+>Blurb: a Kafkaesque, near-future Sri Lanka, where superpowers are a lot more common and common sense is still a rarity; about a bunch of rebels trying to overthrow a corrupt, nepotistic, dynastic government; about hopes, dreams, violence, and about the stupidity of it all. Winner of the 2023 Gratiaen Prize.
 
 While some of my short stories have been set in Sri Lanka, I try to avoid expounding on Sri Lanka in my fiction. The excuse I give is that my journalistic work already covers Sri Lanka's multiple crises in painful detail, from economics to mass graves. I have said what I want to say there; for my fiction I prefer to be free to imagine, and let Sri Lanka come with me.
 
