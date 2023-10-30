@@ -2,7 +2,7 @@
 title: The Earthbag Homestead
 description: My long-held dream of living as sustainably as possible, with the peace of mind, in a home of my own.
 category: Homestead
-date: April, 2024
+date: April, 2020
 
 image: '/images/wretched.png'
 image_caption: 'The joint winner of the Gratiaen Prize, 2023.'
