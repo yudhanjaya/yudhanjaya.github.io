@@ -5,6 +5,7 @@ title: Yudhanjaya
 description: Portfolio, links, contact details and more for Yudhanjaya Wijeratne.
 color_scheme: light # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
+
 #-------------------------------
 # Navigation Settings
 menu__settings:
@@ -123,13 +124,13 @@ testimonial__items:
     image: "/images/institutions/1.png"
     designation: "Cofounder + CEO + Editor in Chief"
     link: "https://watchdog.team"
-    content: "Watchdog is a multidisciplinary team of journalists, researchers and software engineers. We hunt misinformation, investigate matters of public welfare, and build software tools for public good."
+    content: "Watchdog is a multidisciplinary team of journalists, researchers and software engineers. Founded in 2019 by Bhanuka Harischandra, Nisal Periyapperuma and myself, Watchdog hunts misinformation, investigate matters of public welfare, and builds software tools for public good."
 
   - name: "The Dangerous Speech Project"
     image: "/images/institutions/2.png"
     designation: "Research Fellow"
     link: "https://dangerousspeech.org"
-    content : "Studying ethnic hatred and justifications of war crimes centered around the Sri Lankan Civil War and the historical context that led up to it."
+    content : "As a fellow for the Dangerous Speech Project, I collected datasets and studied ethnic hatred and justifications of war crimes centered around the Sri Lankan Civil War, as well as the historical context that led up to it."
 
  # - name: "CoFutures, University of Oslo"
  #   image: "/images/institutions/3.png"
