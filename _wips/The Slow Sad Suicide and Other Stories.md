@@ -1,5 +1,5 @@
 ---
-title: The Slow Sad Suicide of Rohan Wijeratne and Other Stories
+title: The Slow Sad Suicide and Other Stories
 description: A collection of short stories written between 2017 and 2022.
 category: Anthology
 published by: Perera Hussein (tbr) 
