@@ -4,7 +4,7 @@ title: About
 description: πολυτρόπως
 permalink: /about/
 image: '/images/yudha.jpg'
-image_caption: 'Photo by [Bruce Dixon](https://unsplash.com/photos/3M9WJQVHzog) on [Unsplash](https://unsplash.com/)'
+image_caption: 'Photo by Dirk Skiba Fotografie.'
 ---
 
 ## Fiction:
