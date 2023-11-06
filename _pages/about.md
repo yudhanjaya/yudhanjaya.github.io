@@ -7,11 +7,9 @@ image: '/images/yudha.jpg'
 image_caption: 'Photo by Dirk Skiba Fotografie.'
 ---
 
-# CV, TLLDR version:
+# CV, TLDR version:
 
-
-
-* Sold (and assembled) computer hardware and managed inventory at Redline Technologies.
+* Sold (and assembled) computer hardware and managed inventory at Redline Technologies, after failing A/Ls. Saved up and started teaching myself via Coursera, edX and other paltforms.
 * Founded and served as founding editor of Readme.LK, a leading technology publication in Sri Lanka. Grew the publication and team.
 * Worked at WSO2, a major middleware provider, as a writer and data science neophyte. Worked on text copy, whitepapers around client implentations (Transport For London, Govt. of Maldova, etc), and designed, prototyped and led implementation on WSO2's election monitor.
 * Worked at LIRNEasia, a regional think tank, working on quantitative and computational social science research. Published widely (specifically, corpus linguistics, social networks, AI) on projects involving billions of call detail records, friend networks on social media, and built corpora for low-resource languages like Sinhala and Bengali. Contributed in small ways to national-level projects including Sri Lanka's data protection act.
