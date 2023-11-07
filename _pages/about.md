@@ -1,11 +1,13 @@
 ---
 layout: page
-title: About
+title: Portfolio / About me
 description: πολυτρόπως
 permalink: /about/
 image: '/images/yudha.jpg'
 image_caption: 'Photo by Dirk Skiba Fotografie.'
 ---
+
+### This section of the site is still under maintenance. I'm porting everything from Notion to Github. If you see this message, some links might still be broken.
 
 # CV, TLDR version:
 
@@ -25,9 +27,9 @@ I’ve written a number of novels (Numbercaste, The Inhuman Race and sequels, Th
 
 ## Novels and other major work
 
-[The Salvage Crew (2020)](https://www.notion.so/The-Salvage-Crew-3577b41481b2405d94ca21f1d8ede1f7?pvs=21). A C-tier salvage crew sent out to scrap a downed colony ship. An AI poet overseer fueled by an actual AI poet ([OSUN / The Poetry Machine](https://www.notion.so/OSUN-The-Poetry-Machine-d90a584526d04438a04b83f6c010456b?pvs=21)). A strange intelligence that plays the language game. This book was [**listed by Polygon as one of 2020](https://www.polygon.com/22220762/best-books-2020-sci-fi-fantasy)’**s best SFF books, became an Amazon and Washington Post bestseller, and was narrated by Nathan Fillion.
+[The Salvage Crew (2020)](https://www.notion.so/The-Salvage-Crew-3577b41481b2405d94ca21f1d8ede1f7?pvs=21). A C-tier salvage crew sent out to scrap a downed colony ship. An AI poet overseer fueled by an actual AI poet ([OSUN / The Poetry Machine](https://www.notion.so/OSUN-The-Poetry-Machine-d90a584526d04438a04b83f6c010456b?pvs=21)). A strange intelligence that plays the language game. This book was [listed by Polygon as one of 2020](https://www.polygon.com/22220762/best-books-2020-sci-fi-fantasy) ’s best SFF books, became an Amazon and Washington Post bestseller, and was narrated by Nathan Fillion.
 
-[Sonnet for the Subconcious War, and other poems from the Automaton (2019)](https://www.notion.so/OSUN-The-Poetry-Machine-d90a584526d04438a04b83f6c010456b?pvs=21). A poetry collaboration between my retrained GPT-instances and Dr. Samuel Peralta, bound for the Moon via the [**Lunar Codex project](https://www.lunarcodex.com/).**
+[Sonnet for the Subconcious War, and other poems from the Automaton (2019)](https://www.notion.so/OSUN-The-Poetry-Machine-d90a584526d04438a04b83f6c010456b?pvs=21). A poetry collaboration between my retrained GPT-instances and Dr. Samuel Peralta, bound for the Moon via the [Lunar Codex project](https://www.lunarcodex.com/).
 
 [The Commonwealth Empire trilogy (2018-present)](https://www.notion.so/The-Commonwealth-Empire-Trilogy-0db40ccfe8c14c30be0acbdbc99a33bc?pvs=21). Beginning with the *Inhuman Race,* this trilogy explores a machine uprising in a biopunk British Raj where Ceylon still remains under colonial rule.
 
