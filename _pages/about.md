@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Portfolio / About me
-description: πολυτρόπως
+description: To get in touch, reach out to hello [at] yudhanjaya [dot] com, or contact fingan [at] zenoagency [dot] com to talk to my agent. Responses from my end may take time. 
 permalink: /about/
 image: '/images/yudha.jpg'
 image_caption: 'Photo by Dirk Skiba Fotografie.'
@@ -10,12 +10,14 @@ image_caption: 'Photo by Dirk Skiba Fotografie.'
 ### This section of the site is still under maintenance. I'm porting everything from Notion to Github. If you see this message, some links might still be broken.
 
 # CV, TLDR version:
+ 
 
-* Sold (and assembled) computer hardware and managed inventory at Redline Technologies, after failing A/Ls. Saved up and started teaching myself via Coursera, edX and other paltforms.
-* Founded and served as founding editor of Readme.LK, a leading technology publication in Sri Lanka. Grew the publication and team.
+Over the years I've found it increasingly difficult to classify myself. I write, both as a fictioneer and a journalist; I investigate systems, pasts and futures; I program; I work with, think about, and even fictionalize artificial intelligence and machine learning; and in the middle of all this I try to learn how to make things grow. Here's a very short version of some of the things I've done:
+
+* Served as founding editor of Readme.LK, a leading technology publication in Sri Lanka. Grew the publication and team.
 * Worked at WSO2, a major middleware provider, as a writer and data science neophyte. Worked on text copy, whitepapers around client implentations (Transport For London, Govt. of Maldova, etc), and designed, prototyped and led implementation on WSO2's election monitor.
 * Worked at LIRNEasia, a regional think tank, working on computational social science research and machine learning. Published widely (specifically, corpus linguistics, social networks, misinformation and hate speech). Worked on projects involving billions of call detail records, friend networks on social media, and built corpora for low-resource languages like Sinhala and Bengali. Contributed in small ways to national-level projects including Sri Lanka's data protection act.
-* Published novels (multi-book deals with HarperCollins and Aethon), wrote for major publications. The Salvage Crew incorporates AI and was named a best SFF book of 2020 by Polygon.
+* Published novels (multi-book deals with HarperCollins and Aethon), wrote for major publications. The Salvage Crew incorporates AI and was named a best SFF book of 2020 by Polygon. Witness, an open-source collaborative futures design project, examines alternate economies and tries to get the underlying principles right.
 * Worked on games: Neurocracy (guest writer) and Witness: TCG (lead designer)
 * Co-founded Watchdog, a nonprofit focused on data journalism and civic technology in Sri Lanka. As CEO, raised over $300k, built a multidisplicinary team of computer scientists, journalists and researchers, and led major investigations, such as using satellite imagery analysis to locate mass graves, archiving and analysis of vast troves of government data to explain electricity and infrastructure failures, and building open-source medical donations software that is subsequently being used by the Red Cross and Ministry of Health in Sri Lanka.
 * Forbes 30 Under 30 honoree, Gratiaen Prize winner for fiction, and Nebula and IGF award-nominated author, TEDx speaker.
