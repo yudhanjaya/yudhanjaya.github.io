@@ -25,7 +25,9 @@ This is my solution:
 - A 24-inch, 1080p monitor
 - An AYN Odin Pro: a roughly $250 Android-based handheld gaming console
 - A Womier SK-71 keyboard; wireless, with stock switches (Outemu Whites, pre-lubed)
-- An $40 dock, a charger, and some USB-C and HDMI cables.
+- An $40 Ugreen dock/adapter, a charger, and some USB-C and HDMI cables.
+
+Putting it all together requires plugging in some wires. Odin to dock via USB-C. Monitor to dock via HDMI. A charger providing USB power to the dock. That's about it. 
 
 ### A gaming console for writing
 
@@ -54,6 +56,12 @@ Now to make it a bit more usable. Android launchers are interfaces, and the AYN 
 
 You can use the device itself as a large touchpad. To make it easier, navigate to the [Android Developer options and enable 'Show taps'](https://www.xda-developers.com/android-developer-options/). This will show you where you're tapping. 
 
+You also don't need a mechanical keyboard. I use them because I like them and I like putting my keyboards together, and at 80,000 words a journey I want a smooth road and a red carpet instead of a series of potholes strung together.
+
+But snobbery aside, use anything that works. The fastest I've ever typed was on a shit-tier A4Tech keyboard that cost about a dollar (Rs 320) in today's money. You can shave quite a bit off the cost of this build by opting for something lighter and cheaper. 
+
+### Alternative hardware
+
 The Odin isn't the only device that can do this. Let's forget the likes of the $1700 Ayaneo Kun for a moment. 
 
 You can go lower and do just fine. The Anbernic RG556 (which has a Unisoc T820) and the Retroid Pocket 4 (MediaTek Dimensity 1100) both hover around the $150-$190 mark, depending on which stores you have access to. 
@@ -66,11 +74,13 @@ Now, however, we're in the realm of devices that run Android, including all the 
 
 Lastly, there are two older Windows devices that merit a mention:
 
-- The AYN Loki Zero is a dual-core AMD device, roughly on par with an Intel Celeron: it launched to 'meh, this is old hardware' reviews, and is now selling at a discount https://www.aliexpress.com/item/1005006349290971.html
+- The AYN Loki Zero is a dual-core AMD device, roughly on par with an Intel Celeron: it launched to 'meh, this is old hardware' reviews, and is now [selling at a discount](https://www.aliexpress.com/item/1005006349290971.html)
 
-- The Anbernic Win600 is another dual-core AMD device that is now quite discounted (https://www.aliexpress.com/item/1005004481055763.html)
+- The Anbernic Win600 is another dual-core AMD device that is [now quite discounted](https://www.aliexpress.com/item/1005004481055763.html)
 
-These devices are now quite discounted. If you don't want to deal with Android, they run Windows, and they can handle writing just fine.  
+These devices are now quite discounted. If you don't want to deal with Android, they run Windows, and they can handle writing just fine. 
+
+Please note: the Aliexpress links I've put here are only to illustrate a point. I don't have any kind of affiliate scheme going on and am not responsible for any kind of transaction you make. 
 
 
 ### Software
@@ -81,7 +91,11 @@ Obsidian is a note-taking, second-brain sort of software that can be customized 
 
 Mine is not only customized exactly how I want it - it also pushes everything to a private Github repository when done. Not just everything I write - even its own configuration files sit there, which means any time I open up any of my devices, they download the files and adjust to anything I've changed, right down to the look and feel.
 
-With the Odin, this means I write on my low-power machine. Writing involves a fair bit of staring into the distance, pacing around, pottling about making cups of coffee, followed by frenzied bursts of action. I find that because of how Android scales text and handles apps, I lose the urge to tab out to Youtube or Reddit; switching is slightly less convenient than on a PC, and while multi-window is possible, it isn't pleasant. 
+With the Odin, this means I write on my low-power machine. Writing involves a fair bit of staring into the distance, pacing around, pottling about making cups of coffee, followed by frenzied bursts of action. 
+
+I find that because of how Android scales text and handles apps, I lose the urge to tab out to Youtube or Reddit; switching is slightly less convenient than on a PC, and while multi-window is possible, it isn't pleasant. 
+
+This has remarkable effects: I write more, and I write better. As someone who has ADHD, building environments where I can get away from the information firehose has become a critical part of functioning.
 
 Once the writing is done, I push to Github. I start up my main PC, do the edits there, convert it to a Word file, and send it off. 
 
@@ -100,6 +114,6 @@ You can email yourself your files, stick them on Google Drive, OneDrive, or even
 
 [1] Yes, laptops have terrible keyboards (no, Macbook keyboards aren't good; they're like drumming on a billet of aluminium). Laptops also have me craning my neck down to peer into a small screen. But these can be fixed by docking them as I've done with the Odin Pro here. 
 
-Why didn't I just use my laptop? Call it separation of work. I have a fully functioning M1 Macbook Pro, but I find it too full of distrations. 
+Why didn't I just use my laptop? Call it separation of duties. I have a fully functioning M1 Macbook Pro, but I find it too full of distrations, including the obligation to be online and connect with other humans that I work with. I cannot abandon these obligations, but I must firewall if I am to get anything done.
 
 [2] I've used Scrivener. I like it, but I hate the fact that its file format is proprietary; I've nearly lost a novel when the stupid thing crashed. From then on I stuck to file formats that are readable by a large variety of software. DOCX is crap and needlessly bloated, but a lot of things read DOCX; Markdown is much simpler and cleaner, but I end up converting to DOCX anyway when it's time to send off the manuscript to the agent and the publisher. 
