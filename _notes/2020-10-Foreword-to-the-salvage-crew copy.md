@@ -1,6 +1,7 @@
 ---
 title: Foreword to the Salvage Crew (2020)
 description: In which I explain my technical shenanigans involved in creating the Salvage Crew, the how, and the why.
+category: Novel
 date: October, 2020
 image: '/images/salvage-cover.png'
 

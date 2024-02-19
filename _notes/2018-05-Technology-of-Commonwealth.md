@@ -1,6 +1,7 @@
 ---
 title: The Technology of the Commonwealth Empires
 description: Notes on the directions that the world took in an alternate future
+category: Novel
 date: May, 2018
 image: '/images/inhumanrace.png'
 
