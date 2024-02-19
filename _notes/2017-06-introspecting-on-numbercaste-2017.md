@@ -1,10 +1,9 @@
 ---
-layout: post
 title: Introspecting on Numbercaste, 2017
 description: In which I instrospect on the process of writing my first novel, immediately after releasing it.
-date: 2017-06-0 
+date: June, 2017 
 image: '/images/numbercaste.png'
-tags: [workflow, notes, study]
+
 ---
 
 

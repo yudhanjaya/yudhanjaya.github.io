@@ -1,10 +1,9 @@
 ---
-layout: post
 title: The Technology of the Commonwealth Empires
 description: Notes on the directions that the world took in an alternate future
-date: 2018-05-0 
+date: May, 2018
 image: '/images/inhumanrace.png'
-tags: [workflow, notes, study]
+
 ---
 
 

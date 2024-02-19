@@ -1,10 +1,9 @@
 ---
-layout: post
 title: Foreword to the Salvage Crew (2020)
 description: In which I explain my technical shenanigans involved in creating the Salvage Crew, the how, and the why.
-date: 2020-10-0 
+date: October, 2020
 image: '/images/salvage-cover.png'
-tags: [workflow, notes, study]
+
 ---
 
 _Included in the Salvage Crew (2020)._
