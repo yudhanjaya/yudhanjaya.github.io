@@ -113,8 +113,8 @@ wip:
 # notes Settings
 note:
   enable: true
-  wip__title: Notes
-  wip__description: We all scribble down here.
+  note__title: Notes
+  note__description: We all scribble down here.
 
 
 #-------------------------------
