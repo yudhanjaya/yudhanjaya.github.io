@@ -18,8 +18,8 @@ menu__settings:
       url: '/work/'
     - title: 'In Progress'
       url: '/wip/'
-    - title: 'Blogposts'
-      url: '/blog/'
+    - title: 'Notes'
+      url: '/notes/'
 
 
 
