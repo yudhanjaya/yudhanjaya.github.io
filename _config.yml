@@ -43,7 +43,7 @@ defaults:
       layout: "page"
   - scope:
       path: ""
-      type: "posts"
+      type: "notes"
     values:
       layout: "post"
   - scope:
