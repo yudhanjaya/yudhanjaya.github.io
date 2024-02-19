@@ -12,7 +12,7 @@ plugins:
   - jekyll-sitemap
 
 paginate: 5
-paginate_path: "/notes/page/:num"
+paginate_path: "/posts/page/:num"
 
 #-------------------------------
 # Collections
@@ -22,7 +22,7 @@ collections:
     permalink: /:name
   posts:
     output: true
-    permalink: /notes/:slug
+    permalink: /posts/:slug
   works:
     output: true
     permalink: /work/:slug
@@ -43,9 +43,9 @@ defaults:
       layout: "page"
   - scope:
       path: ""
-      type: "notes"
+      type: "posts"
     values:
-      layout: "note"
+      layout: "post"
   - scope:
       path: ""
       type: "works"
