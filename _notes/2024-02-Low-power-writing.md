@@ -8,14 +8,15 @@ image_caption: 'My AYN Odin, hooked up to a keyboard and a monitor.'
 ---
 
 The image you see is my writing setup. 
-It consumes very little power. Measured at the mains, it takes up 24 watts at full usage, including the monitor. Without the monitor, it runs as low as 4 watts, or at most at 10 watts. It has a 6,600 battery, so it can run itself for a long time when the power goes out, and it has a 128 GB on onboard storage. 
+It consumes very little power. Measured at the mains, it takes up 24 watts at full usage, including the monitor. Without the monitor, it runs as low as 4 watts, or at most at 10 watts. It has a 6,600 mAh battery, so it can run itself for a long time when the power goes out, and it has a 128 GB on onboard storage. 
 
 I built this for multiple intersecting reasons:
 
 - I wanted to write without distractions. 
-- I wanted a low-power writing setup that could run on a battery for a long time; running my Ryzen 5800 X3D + RTX 3090 setup to mess around on a document seems incredibly wasteful.
+- I wanted a low-power writing setup that could run on a battery for a long time; running my Ryzen 5800 X3D + RTX 3090 setup to mess around on a document seems incredibly wasteful. At the same time, I've learned the hard way not to rely on Sri Lanka's power supply
 - I wanted a good keyboard and to not ruin my posture. 
 - I wanted the whole thing to be fixed, but easily removable if necessary
+- I wanted it to be cheap to run on solar, which I'm transitioning to for the [earthbag homestead](/wip/2020-05-Earthbag-Homestead) 
 - I wanted to use some of the stuff I already had lying around
 
 There is an obvious solution - a laptop [1]. 
