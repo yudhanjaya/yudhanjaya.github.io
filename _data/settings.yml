@@ -109,6 +109,13 @@ wip:
   wip__title: Works In Progress
   wip__description: I’m usually working on several things at any given time. Sometimes these are tiny projects - sometimes they’re long, perpetual, possibly Sisyphean acts of tomfoolery. This is what I’m working on right now.
 
+#-------------------------------
+# notes Settings
+note:
+  enable: true
+  wip__title: Notes
+  wip__description: We all scribble down here.
+
 
 #-------------------------------
 # Testimonials Section
