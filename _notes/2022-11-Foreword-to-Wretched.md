@@ -1,5 +1,5 @@
 ---
-title: Foreword to the Wretched and the Damned(2020)
+title: Foreword to the Wretched and the Damned
 description: A group of superpowered malcontents take down the corrupt, nepotistic government of Sri Lanka.
 category: Novel
 date: November, 2022
