@@ -19,7 +19,7 @@ menu__settings:
     - title: 'In Progress'
       url: '/wip/'
     - title: 'Notes'
-      url: '/notes/'
+      url: '/note/'
 
 
 
