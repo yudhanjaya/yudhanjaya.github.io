@@ -7,24 +7,25 @@ image: '/images/low-power.jpg'
 image_caption: 'My AYN Odin, hooked up to a keyboard and a monitor.'
 ---
 
-The image you see is my writing setup. It consumes very little power.Measured at the mains, it takes up 24 watts at full usage, including the monitor. Without the monitor, it runs as low as 4 watts, or at most at 10 watts. It has a 6,600 battery, so it can run itself for a long time when the power goes out, and it has a 128 GB on onboard storage. 
+The image you see is my writing setup. 
+It consumes very little power. Measured at the mains, it takes up 24 watts at full usage, including the monitor. Without the monitor, it runs as low as 4 watts, or at most at 10 watts. It has a 6,600 battery, so it can run itself for a long time when the power goes out, and it has a 128 GB on onboard storage. 
 
 I built this for multiple intersecting reasons:
 
-1) I wanted to write without distractions. 
-2) I wanted a low-power writing setup that could run on a battery for a long time; running my Ryzen 5800 X3D + RTX 3090 setup to mess around on a document seems incredibly wasteful.
-3) I wanted a good keyboard and to not ruin my posture. 
-4) I wanted the whole thing to be fixed, but easily removable if necessary
-5) I wanted to use some of the stuff I already had lying around
+- I wanted to write without distractions. 
+- I wanted a low-power writing setup that could run on a battery for a long time; running my Ryzen 5800 X3D + RTX 3090 setup to mess around on a document seems incredibly wasteful.
+- I wanted a good keyboard and to not ruin my posture. 
+- I wanted the whole thing to be fixed, but easily removable if necessary
+- I wanted to use some of the stuff I already had lying around
 
 There is an obvious solution - a laptop [1]. 
 
 This is my solution:
 
-1) A 24-inch, 1080p monitor
-2) An AYN Odin Pro: a roughly $250 Android-based handheld gaming console
-3) A Womier SK-71 keyboard; wireless, with stock switches (Outemu Whites, pre-lubed)
-4) An $40 dock, a charger, and some USB-C and HDMI cables.
+- A 24-inch, 1080p monitor
+- An AYN Odin Pro: a roughly $250 Android-based handheld gaming console
+- A Womier SK-71 keyboard; wireless, with stock switches (Outemu Whites, pre-lubed)
+- An $40 dock, a charger, and some USB-C and HDMI cables.
 
 ### A gaming console for writing
 
@@ -34,12 +35,12 @@ But below these are a different breed: much cheaper handhelds that use much slow
 
 Most of their offerings have a few things in common:
 
-1) They're battery-powered devices
-2) They have a touchscreen
-3) They have USB-C ports that can output HDMI to monitors and connect to other devices, such as keyboards and mice
-4) They have Bluetooth and WiFi
-5) They offer some degree of TDP control - ie: you get to select power consumption: you can rack it up for more demanding games or lower it for simpler apps
-6) They run Android
+- They're battery-powered devices
+- They have a touchscreen
+- They have USB-C ports that can output HDMI to monitors and connect to other devices, such as keyboards and mice
+- They have Bluetooth and WiFi
+- They offer some degree of TDP control - ie: you get to select power consumption: you can rack it up for more demanding games or lower it for simpler apps
+- They run Android
 
 The AYN Odin Pro is one of these - [see the Techradar review here](https://www.techradar.com/reviews/ayn-odin-review)). It has a Snapdragon SD845 CPU, a 6-inch screen, and 8GB of RAM. It's basically a mid-range phone with active cooling built in. 
 
@@ -65,7 +66,7 @@ Now, however, we're in the realm of devices that run Android, including all the 
 
 Lastly, there are two older Windows devices that merit a mention:
 
--The AYN Loki Zero is a dual-core AMD device, roughly on par with an Intel Celeron: it launched to 'meh, this is old hardware' reviews, and is now selling at a discount https://www.aliexpress.com/item/1005006349290971.html
+- The AYN Loki Zero is a dual-core AMD device, roughly on par with an Intel Celeron: it launched to 'meh, this is old hardware' reviews, and is now selling at a discount https://www.aliexpress.com/item/1005006349290971.html
 
 - The Anbernic Win600 is another dual-core AMD device that is now quite discounted (https://www.aliexpress.com/item/1005004481055763.html)
 
@@ -86,9 +87,9 @@ Once the writing is done, I push to Github. I start up my main PC, do the edits 
 
 Of course, you don't have to do it this way. There are plenty of easier ways: 
 
--Google Docs: works fine
--Microsoft Word for Android: works fine
--iA Writer for Android: works fine
+- Google Docs: works fine
+- Microsoft Word for Android: works fine
+- iA Writer for Android: works fine
 
 You can email yourself your files, stick them on Google Drive, OneDrive, or even save them to a USB stick. That's up to you.
 
