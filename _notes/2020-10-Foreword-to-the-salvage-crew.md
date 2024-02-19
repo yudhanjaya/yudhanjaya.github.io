@@ -7,7 +7,7 @@ image: '/images/salvage-cover.png'
 
 ---
 
-_Included in the Salvage Crew (2020)._
+### Foreword
 
 Much of the poetry you see in this book is actually AI-generated. To wit, OpenAI GPT2-117M [1], trained on a selection of my favourite translated poetry - notably the ancient Chinese Tang Dynasty poets Du Fu and Li Bai. I've performed some minor editing - sometimes stitching poems together, sometimes editing a word or two in a poem - but let me assure you that I was more surprised than you were at gems like "maidenhood is done away with the midnight bell".
 
