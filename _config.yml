@@ -29,6 +29,9 @@ collections:
   wips:
     output: true
     permalink: /wip/:slug
+  notes:
+    output: true
+    permalink: /note/:slug
 
 # Pages Path
 defaults:
@@ -43,11 +46,6 @@ defaults:
       layout: "page"
   - scope:
       path: ""
-      type: "posts"
-    values:
-      layout: "post"
-  - scope:
-      path: ""
       type: "works"
     values:
       layout: "work"
@@ -56,6 +54,11 @@ defaults:
       type: "wips"
     values:
       layout: "wip"
+  - scope:
+      path: ""
+      type: "notes"
+    values:
+      layout: "note"
 
 sass:
   sass_dir: _sass

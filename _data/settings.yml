@@ -166,7 +166,7 @@ testimonial__items:
 #-------------------------------
 # Blog Section
 blog:
-  enable: true
+  enable: false
 
 blog__settings:
   blog__title: Blogposts
