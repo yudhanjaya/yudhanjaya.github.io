@@ -22,7 +22,7 @@ collections:
     permalink: /:name
   posts:
     output: true
-    permalink: /blog/:slug
+    permalink: /blogposts/:slug
   works:
     output: true
     permalink: /work/:slug
