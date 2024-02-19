@@ -108,7 +108,9 @@ Of course, you don't have to do it this way. There are plenty of easier ways:
 
 You can email yourself your files, stick them on Google Drive, OneDrive, or even save them to a USB stick. That's up to you.
 
+### The skull?
 
+Not really essential to any of this. As with retro emulators, I had a few skulls lying around. They have to go somewhere. If you like, consider it your least favourite 1-star reviewer on Goodreads. 
 
 
 ### Notes
