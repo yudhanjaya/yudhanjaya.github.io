@@ -1,4 +1,3 @@
-
 ---
 title: Foreword to Megastructures (2020)
 description: On the Megastructures anthology and its inspirations.
