@@ -1,11 +1,10 @@
 ---
 title: Foreword to the Wretched and the Damned
 description: A group of superpowered malcontents take down the corrupt, nepotistic government of Sri Lanka.
-category: Novel
+category: Ideas
 date: November, 2022
-image: '/images/wretched.png'
-image_caption: 'Cover elements by Akila Weerasinghe; the design is mine and not yet final.'
-
+image: /images/wretched.png
+image_caption: Cover elements by Akila Weerasinghe; the design is mine and not yet final.
 ---
 
 

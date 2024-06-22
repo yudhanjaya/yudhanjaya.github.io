@@ -1,7 +1,7 @@
 ---
 title: Foreword to Megastructures (2020)
 description: On the Megastructures anthology and its inspirations.
-category: Anthology
+category: Ideas
 date: April, 2020
 image: /images/megastructures.png
 ---
