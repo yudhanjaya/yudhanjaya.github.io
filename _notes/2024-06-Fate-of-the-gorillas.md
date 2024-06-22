@@ -39,7 +39,7 @@ And then, of course, there has been the more philosophical angle. If something a
 
 I'm going to use here the example of Vafa et al, who trained a transformer model to estimate trips in New York City. The model's predictions were, in their words, quite accurate, but when they deconstructed the map of New York that the model held in its world, what they found was this strange thing underneath. 
 
-![[vafa-map.png]]
+![]({{site.baseurl}}/images/vafa-map.png)
 
 Vafa et al's paper, “Evaluating the World Model Implicit in a Generative Model”, is worth a read. What it demonstrates is how flawed the underlying world model of this current generation of intelligence is. Even if it appears to mimic intelligence, even if it can fool the stupidest among us, or write better poetry than the worst poets on Instagram, it does not truly understand the world around it. And Vafa et al., whose research questions give these types of models more credibility than just stochastic parrots, conclude ultimately that underneath is just pure nonsense. 
 
@@ -63,7 +63,7 @@ The Gutenberg Press revolutionized the acquisition of knowledge and the spread o
 
 When the Moog synthesizer was first released, there was outcry from musicians to the extent that it was banned for a period. Its original creator envisioned samples and recordings of musical instruments being worked on in different ways. But I doubt that Moog himself could have foreseen the rise of EDM or the eventual integration of almost all popular music with the synthesizer. Or of all the myriad of ways we devise to interact with it, perceiving music not just as an instrument being played, but as waveforms that could be altered at more fundamental levels.
 
-![[pexels-carlos-santos-892832-3672355.jpg]]
+![]({{site.baseurl}}/images/pexels-carlos-santos-892832-3672355.jpg)
 *Image by Carlos Santos on Pexels.com* 
 
 Even further afield would have been Fruity Loops, the licensing of music packs and effects and tunes and the variety of careers around these things, and the rise of Mongolian throat singers producing exceptionally popular music on YouTube. 
@@ -111,7 +111,7 @@ The fate of the gorillas here is an interesting thing to contemplate. This defin
 
 And importantly, we humans control the on/off button. Whether or not we believe it moral or right, the human civilization does possess the power to wipe every single gorilla off the face of this planet if it so chooses to do so. In fact, it is disturbingly routine for us to cage these creatures and preserve them as exhibits for our own entertainment, subject entirely to our own whims. 
 
-![[pexels-pierre-lescot-6694676-6063605.jpg]]
+![]({{site.baseurl}}/images/pexels-pierre-lescot-6694676-6063605.jpg)
 *Photo by Pierre LESCOT on Pexels.com*
 
 What is to us as we are to gorillas? By that account, the reigning contender for superintelligence is our current economic order. It is composed of many processes, the output of which collectively is far beyond the capability of humans to process and decipher. 
