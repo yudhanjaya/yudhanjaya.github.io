@@ -166,10 +166,14 @@ So the ultimate answer to are we creating superintelligence is yes, we are, but 
 
 Here are omega points that we may wish to avoid:
 
-1) omega points that wishes death upon the living.
+1) omega points that wish death upon the living.
+   
 2) omega points that trivialize human dignity and the fundamental rights that we have come to embrace. 
+   
 3) omega points that seeks to void the social contracts that allow us to have these thoughts and conversations in the first place; such a superintelligence stemming the free flow of ideas would seek to be the last superintelligence.
+   
 4) omega points that take agency away from humans and places it in the hands of entities for whom humans have no liability, responsibility towards or accountability for.
+   
 5) omega points that seek to place the fundamental resources of our world - that is energy, food, water, shelter - and place them in the hands of a few. 
 
 There may be more such omega points. This is not an exhaustive argument and nor is this an exhaustive list. I am after all also presenting a very simple model of the universe here. Its only scaffolding is  merely a common sense approach at logic and some small leaps of intuition. 
