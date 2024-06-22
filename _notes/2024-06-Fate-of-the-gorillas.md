@@ -9,6 +9,7 @@ image_caption:
 I would like to propose a very basic framework. I would like to propose that there are basically two types of intelligence that threaten humanity.
 
 1) Faster intelligence. 
+   
 2) Stranger Intelligence. 
 
 Faster intelligence is essentially what we can conceivably do by ourselves, only sped up significantly. To a great extent, much of modern computing is fast intelligence. Early computers were sold on the promise that yes, you could do calculations and accounts by hand, but this could do it faster for you. You can learn to paint and create a masterpiece by hand, but Photoshop will get you there faster. 
