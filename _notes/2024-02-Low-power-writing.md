@@ -3,8 +3,8 @@ title: My Low Power Writing Setup
 description: A brief guide to low-cost, low-energy writing setups
 category: Contraptions
 date: February, 2024
-image: '/images/low-power.jpg'
-image_caption: 'My AYN Odin, hooked up to a keyboard and a monitor.'
+image: /images/low-power.png
+image_caption: My AYN Odin, hooked up to a keyboard and a monitor.
 ---
 
 The image you see is my writing setup. 
