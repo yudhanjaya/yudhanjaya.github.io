@@ -14,7 +14,9 @@ I would like to propose a very basic framework. I would like to propose that the
 Faster intelligence is essentially what we can conceivably do by ourselves, only sped up significantly. To a great extent, much of modern computing is fast intelligence. Early computers were sold on the promise that yes, you could do calculations and accounts by hand, but this could do it faster for you. You can learn to paint and create a masterpiece by hand, but Photoshop will get you there faster. 
 
 Large language models, which are one of the key ingredients in the public perception of AI today, are faster intelligence. They are essentially a personal intern sped up several thousand times. Yes, given enough effort, you can learn to write that cover letter, and you can probably do a better job. But this helpful automated intern will brainstorm it with you and arrive at several dozen outputs in a fraction of a fraction of the time. Likewise, for pair programming: you can debug on your own. But in the time that it makes you to fix a cup of coffee for yourself, this thing can read your code base and point you in helpful directions. 
-![[pexels-cottonbro-5474294.jpg]]
+
+![]({{site.baseurl}}/images/pexels-cottonbro-5474294.jpg)
+
 *Photo by cottonbro studio on Pexels.com* 
 
 Faster intelligence is easy to identify, easy to quantify, and thus easy to sell. It's fidelity lies in how close it can get to being a human like intelligence, only significantly faster and thus, significantly cheaper to the end user. 
@@ -30,7 +32,9 @@ Let's try and apply this thinking to what we call AI today. As I write this, the
 Much has been made of their utility. This is largely speculation, of course, but first impressions in many fields have seem to have convinced people that these will take over the world and do so many of the tasks that interns and entry-level knowledge workers are typically hired to do. 
 
 The backlash has been just as vocal, initially technical stemming from papers that point out that these models are nothing more than sophisticated stochastic parrots. And then as the technology profilterated from consumers who saw themselves being on the receiving end of these technologies. 
-![[stochastic parrots.png]]
+
+![]({{site.baseurl}}/images/stochastic parrots.png)
+
 And then, of course, there has been the more philosophical angle. If something appears to exhibit some level of human-like reasoning, is it intelligent? Has it somehow through language absorbed some kind of facts and knowledge about the world? Has it built a map of the world and its meanings in its gguf file of a head? Is it just a Chinese room, a bunch of heuristics stapled together that can give the impression of convincing conversation without any actual thought inside? 
 
 I'm going to use here the example of Vafa et al, who trained a transformer model to estimate trips in New York City. The model's predictions were, in their words, quite accurate, but when they deconstructed the map of New York that the model held in its world, what they found was this strange thing underneath. 
