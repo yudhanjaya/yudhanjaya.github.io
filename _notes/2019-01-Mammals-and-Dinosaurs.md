@@ -3,7 +3,7 @@ title: Mammals and dinosaurs
 description: In which I introspect about the state of Indie publishing as of 2019.
 category: Ideas
 date: January, 2019
-image: /images/warringstates.png
+image: /images/Warringstatescover.png
 ---
 # Mammals and Dinosaurs
 
