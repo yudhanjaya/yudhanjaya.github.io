@@ -32,13 +32,15 @@ Let's try and apply this thinking to what we call AI today. As I write this, the
 
 Much has been made of their utility. This is largely speculation, of course, but first impressions in many fields have seem to have convinced people that these will take over the world and do so many of the tasks that interns and entry-level knowledge workers are typically hired to do. 
 
-The backlash has been just as vocal, initially technical stemming from papers that point out that these models are nothing more than sophisticated stochastic parrots. And then as the technology profilterated from consumers who saw themselves being on the receiving end of these technologies. 
+The backlash has been just as vocal, initially technical stemming from papers that point out that these models are nothing more than sophisticated stochastic parrots. And then as the technology proliferated, from consumers who saw themselves being on the receiving end of these technologies. 
 
 ![]({{site.baseurl}}/images/stochastic parrots.png)
 
 And then, of course, there has been the more philosophical angle. If something appears to exhibit some level of human-like reasoning, is it intelligent? Has it somehow through language absorbed some kind of facts and knowledge about the world? Has it built a map of the world and its meanings in its gguf file of a head? Is it just a Chinese room, a bunch of heuristics stapled together that can give the impression of convincing conversation without any actual thought inside? 
 
-I'm going to use here the example of Vafa et al, who trained a transformer model to estimate trips in New York City. The model's predictions were, in their words, quite accurate, but when they deconstructed the map of New York that the model held in its world, what they found was this strange thing underneath. 
+I'm going to use here the example of Vafa et al, who trained a transformer model to estimate trips in New York City. The model's predictions were, in their words, quite accurate. This implies that it has some understanding of what New York City is or at least it's enough of its distances and routes to make these predictions. 
+
+But when they deconstructed the map of New York that the model held in its world, what they found was this strange thing underneath. 
 
 ![]({{site.baseurl}}/images/vafa-map.png)
 
@@ -75,7 +77,7 @@ Many projects in human history have reduced the distances between us. The press,
 
 And then there is social media. It should really say the internet. But social media, I think, can be seen as the tip of the spear. And in many of our countries, it is. In national representative surveys conducted by LIRNE*asia*, for example, in countries in the global south, people may say that they do not have Internet. They do not even know what the Internet is, but they do have access to Facebook. So whether we like it or not, social media has become one of the dominant faces of the internet as a whole. \
 
-Impact of social media was goes far beyond what was originally envisioned, even by its own creators. Not only did it slowly erode institutions of communication, but it turned every single human being with access to it into a potential broadcaster in their own right. Intertwined with every potential piece of misinformation out there were entirely new forms of business entirely new forms of community entirely new ways of sharing empathy and stories and art culture shifted forming into memecomplexes that are global in nature, beyond the ability of any nation state to regulate. 
+Impact of social media was goes far beyond what was originally envisioned, even by its own creators. Not only did it slowly erode institutions of communication, but it turned every single human being with access to it into a potential broadcaster in their own right. Intertwined with every potential piece of misinformation out there were entirely new forms of business entirely new forms of community entirely new ways of sharing empathy and stories and art culture shifted forming into memeplexes that are global in nature, beyond the ability of any nation state to regulate. 
 
 These things ultimately give us new ways of thinking about the world. They are not, in and of themselves, efforts that we can imagine by just thinking of ourselves sped up by five hundred fold. The repercussions of strange intelligence, or what these things can grow to be, is not immediately apparent from the onset. They need to interact with many other things with other advances, sometimes coming from completely different fields, sometimes coming from tangential innovations to present some glimmer of promise. 
 
