@@ -146,9 +146,9 @@ The economic system as a whole is faster intelligence in that it is much faster 
 
 Another system that I would like to put into this category is nature. The collective noun is a bit of a misnomer. Nature is an incredibly complex system of systems that again, we are not even remotely close to modeling understanding and being able to predict. Humanity has fought with, attempted to subjugate, destroyed, and attempted to resurrect nature in so many instances over so many millennia. We may have sophisticated satellite imagery and very complex models that allow us to simulate weather; and yet we do not have an on/off switch; even our ability to get out of the way is extremely limited. 
 
-We may look at these systems and laugh and say there is no intelligence there. But consider how much knowledge is even required to approximate even a simple understanding of any of these systems. Consider the effects on our everyday lives. Consider how they control ultimately the fate of not just you and me but entire nations. And do also consider that despite initial appearances, they do contain intelligent components. 
+We may look at these systems and laugh and say there is no intelligence there. But consider how much knowledge is even required to approximate even a simple understanding of any of these systems. Consider the effects on our everyday lives. Consider how they control ultimately the fate of not just you and me but entire nations. 
 
-Indeed, something like the economy is really a vast conglomeration of such intelligent components: from the shopkeeper who runs a little store down the road to the most sophisticated hedge fund to various conferences of central bankers and IMF executives. We must even reluctantly consider day traders as intelligent units of this whole system. Almost individual neurons in a gigantic and very confusing globally distributed brain. The same can be said of nature. After all, despite it pre-existing us, humanity has had an outsized impact on it. 
+Do also consider that despite initial appearances, they do contain intelligent components.  Indeed, something like the economy is really a vast conglomeration of such intelligent components: from the shopkeeper who runs a little store down the road to the most sophisticated hedge fund to various conferences of central bankers and IMF executives. We must even reluctantly consider day traders as intelligent units of this whole system; almost individual neurons in a gigantic and very confusing globally distributed brain. The same can be said of nature. After all, despite it pre-existing us, humanity has had an outsized impact on it. 
 
 These systems are humans and we are the gorillas. By that definition of being able to exert power in the physical world, they are indeed superintelligence. 
 
@@ -244,3 +244,7 @@ Perhaps these can form the principles for the outputs that we desire or dislike.
 
 Hopefully this has sparked some train of thought. My apologies for the shoddy construction of the station, but I hope it serves well enough to get the train rolling.
 
+
+***
+
+*On account of a broken hand, this post has been written using Whisper voice-to-text; AI.*
