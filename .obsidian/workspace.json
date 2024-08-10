@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/The fate of the gorillas.md",
+                "file": "_notes/2024-08-Fate-of-the-gorillas.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 345.5
   },
   "right": {
     "id": "792307c292fc016f",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "drafts/The fate of the gorillas.md",
+                "file": "_notes/2024-08-Fate-of-the-gorillas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "drafts/The fate of the gorillas.md",
+                "file": "_notes/2024-08-Fate-of-the-gorillas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "drafts/The fate of the gorillas.md"
+                "file": "_notes/2024-08-Fate-of-the-gorillas.md"
               }
             }
           }
@@ -146,10 +146,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa7c3a0627596a3e",
+  "active": "0954a38d9855c237",
   "lastOpenFiles": [
+    "images/fate-gorillas/claude-screenshot.png",
+    "_notes/2024-08-Fate-of-the-gorillas.md",
+    "Pasted image 20240810144036.png",
+    "images/fate-gorillas/stochastic-parrots.png",
+    "images/fate-gorillas/fruitloops-pexels-carlos-santos.jpg",
+    "images/fate-gorillas/stocks-pexels-pixabay.jpg",
+    "images/fate-gorillas/microphone-cristian-rojas.jpg",
+    "images/fate-gorillas/gorillaface-pexels-pierre-lescot.jpg",
+    "images/fate-gorillas/typing-pexels-cottonbro.jpg",
+    "images/fate-gorillas/vafa-map.png",
+    "images/fate-gorillas/fate-gorilla.png",
+    "images/fate-gorillas",
+    "_notes/2019-01-Mammals-and-Dinosaurs.md",
+    "_notes/2018-05-Technology-of-Commonwealth.md",
+    "_notes/2022-11-Foreword-to-Wretched.md",
+    "_notes/2024-02-Low-power-writing.md",
+    "_notes/The fate of the gorillas.md",
     "drafts/Regulating super-intelligence..md",
-    "drafts/The fate of the gorillas.md",
     "_notes/2017-06-introspecting-on-numbercaste-2017.md"
   ]
 }

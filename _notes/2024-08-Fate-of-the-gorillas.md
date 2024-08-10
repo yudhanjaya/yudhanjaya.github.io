@@ -1,3 +1,12 @@
+---
+title: The fate of the gorillas
+description: A few simple thoughts on superintelligence, synthesizers, perception of value and also gorillas.
+category: Ideas
+date: August, 2024
+image: /images/fate-gorillas-fate-gorilla.png
+image_caption:
+---
+
 I would like to propose a very basic framework. I would like to propose that there are basically two types of intelligence that threaten humanity.
 
 1) Faster intelligence. 
@@ -11,6 +20,9 @@ Faster intelligence is easy to identify, easy to quantify, and thus easy to sell
 
 Faster intelligence is also easier for us to understand because ultimately it is us sped up. Minsky's definitions of an algorithm apply here. It can be achieved with someone with pen and paper and a hell of a lot of patience. The problem that it chiefly solves is not one of intelligence but of time. 
 
+![]({{site.baseurl}}/images/fate-gorillas/typing-pexels-cottonbro.jpg)
+*image by Cottonbro on Pexels*
+
 When I was in school, I studied mathematics. In our class was a fellow who could do much of pure mathematical operations entirely in his head significantly faster than we could on paper. This did not make him a better mathematician. Complex multi-part questions would routinely stump him, and ultimately he did no better than any of us on the exams. But I remember that feeling that I got when meeting him for the first time. It was a feeling of, *wow, this guy has to be really smart. He's so much faster than I am. He's top of the class for sure*. 
 
 This is the same impression that we get when interfacing with a particularly competent large language model. That this is us, but faster. 
@@ -21,21 +33,25 @@ Let's try and apply this thinking to what we call AI today. As I write this, the
 
 Much has been made of their utility. This is largely speculation, of course, but first impressions in many fields have seem to have convinced people that these will take over the world and do so many of the tasks that interns and entry-level knowledge workers are typically hired to do. 
 
-And then, of course, there has been the more philosophical angle. If something appears to exhibit some level of human-like reasoning, is it intelligent? Has it somehow through language absorbed some kind of facts and knowledge about the world? Has it built a map of the world and its meanings in its gguf file of a head? Is it just a Chinese room, a bunch of heuristics stapled together that can give the impression of convincing conversation without any actual thought inside? 
+And then, of course, there has been the more philosophical angle. If something appears to exhibit some level of human-like reasoning, is it intelligent? Has it somehow through language absorbed some kind of facts and knowledge about the world? Has it built a map of the world and its meanings in its gguf file of a head? Is it just a Chinese room, a bunch of heuristics stapled together that can give the impression of convincing conversation without any actual thought inside? Aren't these models just sophisticated stochastic parrots?
 
-The backlash has been just as vocal, initially technical stemming from papers that point out that these models are nothing more than sophisticated stochastic parrots. And then as the technology profilterated from consumers who saw themselves being on the receiving end of these technologies. And with them there is this underlying question: is this useful technology in the first place? 
+![]({{site.baseurl}}/images/fate-gorillas/stochastic-parrots.png)
+
+And then as the technology profilterated from consumers who saw themselves being on the receiving end of these technologies. And with them there is this underlying question: is this useful technology in the first place? 
 
 The practical answer seems to a little bit of column A, a little bit of column B. Leaving side the ethics of data collection just for the sake of simplifying this argument - I'll get to that in eventual post. There's been ample evidence that a question is not all that it is expected to be. The Silicon Valley executives have typed this as the grand be-all-end-all ultimate labor replacement. And yet in many fields where it has been deployed, we have seen that AI systems without immense degrees of control, customization and research are not at all reliable enough to be used in many of the activities, the world considers necessary to go around.
 
-At the same time, in more localized examples we find plenty of programmers whose lives have become a little bit easier when dealing with the muckwork of programming: converting code between languages, getting started with those first bits of scaffolding code,  debugging, commenting. One particular use case that I find genuinely interesting is in learning; I've saved myself several hours of the CUDAtoolkit and tensorflow configuration problems by describing my problem and asking for a tutorial for that specific problem.
+At the same time, in more localized examples we find plenty of programmers whose lives have become a little bit easier when dealing with the muckwork of programming: converting code between languages, getting started with those first bits of scaffolding code,  debugging, commenting. One particular use case that I find genuinely interesting is in learning; I've saved myself several hours of simple configuration problems by describing my problem and asking for a tutorial for that specific problem.
 
-inasmuch as there is intelligence here it is of that faster intelligence sort: it is the equivalent of asking some people with a lot more time on their hands than i do to help me fix a very specific problem. The AI model in this case is fast, but it is not necessarily very good. While for trivial, oft-repeated tasks, the model may indeed be better than I am, get into the weeds of a complex problem and you find it showing its ass, more often than not. You find it clawing itself into very bizarre bits that it simply cannot think its way out of because ultimately it cannot really think. 
+![]({{site.baseurl}}/images/fate-gorillas/claude-screenshot.png)
+
+Inasmuch as there is intelligence here it is of that faster intelligence sort: it is the equivalent of asking some people with a lot more time on their hands than i do to help me fix a very specific problem. The AI model in this case is fast, but it is not necessarily very good. While for trivial, oft-repeated tasks, the model may indeed be better than I am, get into the weeds of a complex problem and you find it showing its ass, more often than not. You find it clawing itself into very bizarre bits that it simply cannot think its way out of because ultimately it cannot really think. 
 
 Its strength lies in its speed and the commonality of the task, not in its first-principles thinking.
 
 Let's look at an example from a different domain. I'm going to pull up the work of Vafa et al, who trained a transformer model to estimate trips in New York City. The model's predictions were, in their words, quite accurate. Great! But when they deconstructed the map of New York that the model held in its world, what they found was this strange thing underneath. 
 
-![[Pasted image 20240621172308.png]]
+![]({{site.baseurl}}/images/fate-gorillas/vafa-map.png)
 
 Vafa et al's paper, “Evaluating the World Model Implicit in a Generative Model”, is worth a read. What it demonstrates is how flawed the underlying world model of this current generation of intelligence is. Even if it appears to mimic intelligence, even if it can fool the stupidest among us, or write better poetry than the worst poets on Instagram, it does not truly understand the world around it. And Vafa et al., whose research questions give these types of models more credibility than just stochastic parrots, conclude ultimately that underneath is just pure nonsense. 
 
@@ -56,15 +72,22 @@ I'm going to propose four examples here in what I see as increasing degrees of s
 
 The Gutenberg Press revolutionized the acquisition of knowledge and the spread of culture. In making books mass produced objects, not only did it vastly empower the spread of religion (and with it, massive expansionist empires powered by the first true multinational corporate armies), but it also greatly accelerated the sciences and the arts. Books became not just decorative objects for the ultra wealthy, but commonplace manuals of instruction for pretty much everyone. It enabled education systems that have put ideas and facts into more people's heads than ever before in human history. It created careers an objects that had scarcely existed before: from the bestselling author of platitudes to the modern day journalist to the textbooks that we use in schools and colleges to the journals in which we publish academic literature. Of course, a few monks who had spent years painstakingly hand copying and illustrating editions of the Bible got the short shrift, but civilization prospered. 
 
-When the Moog synthesizer was first released, there was outcry from musicians to the extent that it was banned for a period. Its original creator envisioned samples and recordings of musical instruments being worked on in different ways. But I doubt that Moog himself could have foreseen the rise of EDM or the eventual integration of almost all popular music with the synthesizer. Even further afield would have been Fruity Loops, the licensing of music packs and effects and tunes and the variety of careers around these things, and the rise of Mongolian throat singers producing exceptionally popular music on YouTube. 
+When the Moog synthesizer was first released, there was outcry from musicians to the extent that it was banned for a period. Its original creator envisioned samples and recordings of musical instruments being worked on in different ways. But I doubt that Moog himself could have foreseen the rise of EDM or the eventual integration of almost all popular music with the synthesizer. 
+
+![]({{site.baseurl}}/images/fate-gorillas/fruitloops-pexels-carlos-santos.jpg)
+*Image by Carlos Santos on Pexels*
+
+Even further afield would have been Fruity Loops, the licensing of music packs and effects and tunes and the variety of careers around these things, and the rise of Mongolian throat singers producing exceptionally popular music on YouTube. 
 
 Telephony is another such example. Once the telephone became widespread, and particularly once it became mobile, we as a species were allowed a degree of communication hitherto unimagined even by the most powerful and power-hungry of prophets and kings. 
 
 Many projects in human history have reduced the distances between us. The press, the telegram and radio are but a few. But telephony was an explosion in many to many connection around the world. It forever changed the shape of not just business but of how we communicate with each other. Our language, even the word hello is an introduction from this technology. 
 
-And then there is social media. It should really say the internet. But social media, I think, can be seen as the tip of the spear. And in many of our countries, it is. In national representative surveys conducted by LIRNE*asia*, for example, in countries in the global south, people may say that they do not have Internet. They do not even know what the Internet is, but they do have access to Facebook. So whether we like it or not, social media has become one of the dominant faces of the internet as a whole. \
+And then there is social media. 
 
-Impact of social media was goes far beyond what was originally envisioned, even by its own creators. Not only did it slowly erode institutions of communication, but it turned every single human being with access to it into a potential broadcaster in their own right. Intertwined with every potential piece of misinformation out there were entirely new forms of business entirely new forms of community entirely new ways of sharing empathy and stories and art culture shifted forming into memecomplexes that are global in nature, beyond the ability of any nation state to regulate. 
+(I should really say the internet. But social media, I think, can be seen as the tip of the spear. And in many of our countries, it is. In national representative surveys conducted by LIRNE*asia*, where I used to worlk, we noticed that in countries in the global south, people may say that they do not have Internet. They do not even know what the Internet is, but they do have access to Facebook. So whether we like it or not, social media has become one of the dominant faces of the internet as a whole.)
+
+But I digress. The impact of social media was goes far beyond what was originally envisioned, even by its own creators. Not only did it slowly erode institutions of communication, but it turned every single human being with access to it into a potential broadcaster in their own right. Intertwined with every potential piece of misinformation out there were entirely new forms of business entirely new forms of community entirely new ways of sharing empathy and stories and art culture shifted forming into memecomplexes that are global in nature, beyond the ability of any nation state to regulate. 
 
 These things ultimately give us new ways of thinking about the world. They are not, in and of themselves, efforts that we can imagine by just thinking of ourselves sped up by five hundred fold. The repercussions of strange intelligence, or what these things can grow to be, is not immediately apparent from the onset. They need to interact with many other things with other advances, sometimes coming from completely different fields, sometimes coming from tangential innovations to present some glimmer of promise. 
 
@@ -101,6 +124,9 @@ Nick Bostrom, who is one of the stalwarts of the of this field of thinking, wrot
 *If machine brains one day come to surpass human brains in general intelligence, then this new superintelligence could become very powerful. As the fate of the gorillas now depends more on us humans than on the gorillas themselves, so the fate of our species then would come to depend on the actions of the machine superintelligence.*
 
 *But we have one advantage: we get to make the first move. Will it be possible to construct a seed AI or otherwise to engineer initial conditions so as to make an intelligence explosion survivable? How could one achieve a controlled detonation?*
+
+![]({{site.baseurl}}/images/fate-gorillas/gorillaface-pexels-pierre-lescot.jpg)
+*Image by Pierre Lescot, from Pexels*
 
 The fate of the gorillas here is an interesting thing to contemplate. This definition of intelligence presents intelligence as power exerted in the material world. To a gorilla, humans are mysterious creatures, appearing perhaps individually weak and unworthy, but collectively phenomenal threat that it cannot escape from, a fence that rings around its world no matter where it looks. 
 
@@ -165,8 +191,12 @@ Here are omega points that we may wish to avoid:
 4) omega points that take agency away from humans and places it in the hands of entities for whom humans have no liability, responsibility towards or accountability for.
 5) omega points that seek to place the fundamental resources of our world - that is energy, food, water, shelter - and place them in the hands of a few. 
 
-There may be more such omega points. This is not an exhaustive argument and nor is this an exhaustive list. I am after all also presenting a very simple model of the universe here, and indulging in a lot of wandering rumination in the process. Its only scaffolding is  merely a common sense approach at logic and some small leaps of intuition. 
+There may be more such omega points. This is not an exhaustive argument and nor is this an exhaustive list. I am after all also presenting a very simple model of the universe here, and indulging in a lot of wandering rumination in the process.
 
+But I believe that, as the gorillas in the picture, our fate rests on what we create while we play and how these things connect and what they might unfold. I do not believe that we can predict superintelligence, but we should in the least be able to detect whether something is triggering some unsafe omega point.
+
+To do any less would be to consistently confine ourselves to being in a zoo, with something else holding the on-off switch. 
+ 
 
 ***
 
