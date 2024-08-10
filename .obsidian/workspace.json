@@ -38,6 +38,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b305123790f8da58",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
         "currentTab": 2
@@ -169,6 +177,7 @@
   },
   "active": "de85cc65179eb022",
   "lastOpenFiles": [
+    "_notes/2024-08-Fate-of-the-gorillas.md",
     "_notes/2024-02-Low-power-writing.md",
     "_notes/2022-11-Foreword-to-Wretched.md",
     "_notes/2020-10-Foreword-to-the-salvage-crew.md",
@@ -177,7 +186,6 @@
     "_notes/2018-05-Technology-of-Commonwealth.md",
     "_notes/2017-12-The-steam-hammer.md",
     "_notes/2017-06-introspecting-on-numbercaste-2017.md",
-    "_notes/2024-08-Fate-of-the-gorillas.md",
     "drafts/2024-8-The-Slow-Sad-Suicide.md",
     "drafts/Regulating super-intelligence..md",
     "images/covers/wretched.png",
