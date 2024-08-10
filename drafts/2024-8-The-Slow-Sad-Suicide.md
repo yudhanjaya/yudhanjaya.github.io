@@ -1,10 +1,10 @@
 ---
-title: Contributions to the Lunar Codex
-description: In which my work ends up on the Moon, thanks to Samuel Peralta's efforts to archive works by 30,000 artists via NASA Artemis / CLPS program partners.
-category: Archive
-published by: Incandence Corp
-date: November, 2021-November 2024
-image: /images/covers/lunar-codex-screen.png
+title: "The Slow Sad Suicide of Rohan Wijeratne: Stories"
+description: A collection of my short stories from 2017 to 2022, brought together for the first time in a print volume by Perera-Hussein in Sri Lanka.
+category: Short story collection
+published by: Perera Hussein
+date: July, 2024
+image: /images/lunar-codex-screen.png
 image_caption: Unexpectedl mindboggling.
 ---
 

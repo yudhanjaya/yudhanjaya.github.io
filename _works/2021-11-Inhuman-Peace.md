@@ -4,9 +4,8 @@ description: A biopunk Colombo from an alternate future. Colonialism. A machine 
 category: Novel
 published by: HarperCollins India
 date: November, 2021
-
-image: '/images/inhumanpeace.png'
-image_caption: 'The second book of my Commonwealth Empire trilogy.'
+image: /images/covers/inhumanpeace.png
+image_caption: The second book of my Commonwealth Empire trilogy.
 ---
 
 

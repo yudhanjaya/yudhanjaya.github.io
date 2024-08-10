@@ -1,12 +1,11 @@
 ---
 title: The Salvage Crew
-description: AI x language games x space colonization x poetry x Buddhism. 
+description: AI x language games x space colonization x poetry x Buddhism.
 category: Novel
 published by: Aethon Books and Podium Audio
 date: October, 2020
-
-image: '/images/salvage-cover.png'
-image_caption: 'Also available on Audible, narrated by Nathan Fillion'
+image: /images/covers/salvage-cover.png
+image_caption: Also available on Audible, narrated by Nathan Fillion
 ---
 
 > "Yudhanjaya Wijeratne's ingeniously crafted The Salvage Crew starts with a comforting science-fictional familiarity, before using its A.I.-co-authored idiosyncrasies to hurtle headlong into the gravity well of its considerable ambition. A novel of meteoric energy, flaring brighter and brighter as it falls further into its world." (Indrapamit Das, Lambda Award-winning author of The Devourers)

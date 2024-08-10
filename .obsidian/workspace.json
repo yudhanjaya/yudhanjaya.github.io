@@ -11,6 +11,26 @@
             "id": "fa7c3a0627596a3e",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "images/covers/inhumanpeace.png"
+              }
+            }
+          },
+          {
+            "id": "742352cb6f48529b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/covers/numbercaste.png"
+              }
+            }
+          },
+          {
+            "id": "de85cc65179eb022",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "_notes/2024-08-Fate-of-the-gorillas.md",
@@ -19,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,26 +167,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa7c3a0627596a3e",
+  "active": "de85cc65179eb022",
   "lastOpenFiles": [
-    "images/fate-gorillas/claude-screenshot.png",
-    "_notes/2024-08-Fate-of-the-gorillas.md",
-    "Pasted image 20240810144036.png",
-    "images/fate-gorillas/stochastic-parrots.png",
-    "images/fate-gorillas/fruitloops-pexels-carlos-santos.jpg",
-    "images/fate-gorillas/stocks-pexels-pixabay.jpg",
-    "images/fate-gorillas/microphone-cristian-rojas.jpg",
-    "images/fate-gorillas/gorillaface-pexels-pierre-lescot.jpg",
-    "images/fate-gorillas/typing-pexels-cottonbro.jpg",
-    "images/fate-gorillas/vafa-map.png",
-    "images/fate-gorillas/fate-gorilla.png",
-    "images/fate-gorillas",
+    "_notes/2024-02-Low-power-writing.md",
+    "_notes/2022-11-Foreword-to-Wretched.md",
+    "_notes/2020-10-Foreword-to-the-salvage-crew.md",
+    "_notes/2020-04-Foreword-Megastructures.md",
     "_notes/2019-01-Mammals-and-Dinosaurs.md",
     "_notes/2018-05-Technology-of-Commonwealth.md",
-    "_notes/2022-11-Foreword-to-Wretched.md",
-    "_notes/2024-02-Low-power-writing.md",
-    "_notes/The fate of the gorillas.md",
+    "_notes/2017-12-The-steam-hammer.md",
+    "_notes/2017-06-introspecting-on-numbercaste-2017.md",
+    "_notes/2024-08-Fate-of-the-gorillas.md",
+    "drafts/2024-8-The-Slow-Sad-Suicide.md",
     "drafts/Regulating super-intelligence..md",
-    "_notes/2017-06-introspecting-on-numbercaste-2017.md"
+    "images/covers/wretched.png",
+    "images/covers/slowsad.png",
+    "images/covers/salvage.png",
+    "images/covers/salvage-cover.png",
+    "images/covers/megastructures.png",
+    "images/covers/lunar-codex-screen.png",
+    "images/covers/inhumanrace.png",
+    "images/covers/inhumanpeace.png",
+    "_works/2022-11-Contributions-moon.md",
+    "images/lunar-codex-2.png",
+    "_works/2021-11-Inhuman-Peace.md",
+    "_works/2020-10-salvage-crew.md",
+    "_works/2020-04-Megastructures.md",
+    "images/nancydrew.png",
+    "_works/2018-10-Inhuman-Race.md",
+    "_works/2017-06-Numbercaste.md",
+    "images/covers",
+    "images/fate-gorillas",
+    "_notes/The fate of the gorillas.md"
   ]
 }

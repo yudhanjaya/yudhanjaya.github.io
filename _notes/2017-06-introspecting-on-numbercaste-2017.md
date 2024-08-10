@@ -3,7 +3,7 @@ title: Introspecting on Numbercaste(2017)
 description: In which I think about the process of writing my first novel, immediately after releasing it.
 category: Ideas
 date: June, 2017
-image: /images/numbercaste.png
+image: /images/covers/numbercaste.png
 ---
 
 

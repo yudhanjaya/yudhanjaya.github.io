@@ -3,7 +3,7 @@ title: The fate of the gorillas
 description: A few simple thoughts on superintelligence, synthesizers, perception of value and also gorillas.
 category: Ideas
 date: August, 2024
-image: /images/fate-gorillas-fate-gorilla.png
+image: /images/fate-gorillas/fate-gorilla.png
 image_caption:
 ---
 

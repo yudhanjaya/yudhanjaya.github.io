@@ -1,12 +1,11 @@
 ---
-title:  Numbercaste
+title: Numbercaste
 description: A near-future where a Silicon Valley startup replaces credit scoring with social media influence checks.
 category: Novel
 published by: Amazon (self-published) and later republished by HarperCollins India
 date: July, 2017
-
-image: '/images/numbercaste.png'
-image_caption: 'The original cover designed by me; the later HarperCollins editions have different covers'
+image: /images/covers/numbercaste.png
+image_caption: The original cover designed by me; the later HarperCollins editions have different covers
 ---
 
 
