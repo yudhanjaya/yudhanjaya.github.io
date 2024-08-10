@@ -31,11 +31,9 @@
             "id": "de85cc65179eb022",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "_notes/2024-08-Fate-of-the-gorillas.md",
-                "mode": "source",
-                "source": false
+                "file": "images/tedx.png"
               }
             }
           },
@@ -114,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/2024-08-Fate-of-the-gorillas.md",
+                "file": "images/tedx.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/2024-08-Fate-of-the-gorillas.md",
+                "file": "images/tedx.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/2024-08-Fate-of-the-gorillas.md"
+                "file": "images/tedx.png"
               }
             }
           }
@@ -177,6 +175,14 @@
   },
   "active": "de85cc65179eb022",
   "lastOpenFiles": [
+    "images/spotify.svg",
+    "images/tedx.png",
+    "images/row.svg",
+    "images/warringstates.png",
+    "images/Warringstatescover..png",
+    "images/wired.svg",
+    "images/witness.png",
+    "images/yudha.jpg",
     "_notes/2024-08-Fate-of-the-gorillas.md",
     "_notes/2024-02-Low-power-writing.md",
     "_notes/2022-11-Foreword-to-Wretched.md",
@@ -191,17 +197,10 @@
     "images/covers/wretched.png",
     "images/covers/slowsad.png",
     "images/covers/salvage.png",
-    "images/covers/salvage-cover.png",
-    "images/covers/megastructures.png",
-    "images/covers/lunar-codex-screen.png",
-    "images/covers/inhumanrace.png",
-    "images/covers/inhumanpeace.png",
     "_works/2022-11-Contributions-moon.md",
-    "images/lunar-codex-2.png",
     "_works/2021-11-Inhuman-Peace.md",
     "_works/2020-10-salvage-crew.md",
     "_works/2020-04-Megastructures.md",
-    "images/nancydrew.png",
     "_works/2018-10-Inhuman-Race.md",
     "_works/2017-06-Numbercaste.md",
     "images/covers",
