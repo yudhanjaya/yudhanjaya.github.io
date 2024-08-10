@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/2017-06-introspecting-on-numbercaste-2017.md",
+                "file": "drafts/The fate of the gorillas.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/2017-06-introspecting-on-numbercaste-2017.md",
+                "file": "drafts/The fate of the gorillas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/2017-06-introspecting-on-numbercaste-2017.md",
+                "file": "drafts/The fate of the gorillas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/2017-06-introspecting-on-numbercaste-2017.md"
+                "file": "drafts/The fate of the gorillas.md"
               }
             }
           }
@@ -147,5 +147,9 @@
     }
   },
   "active": "fa7c3a0627596a3e",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "drafts/Regulating super-intelligence..md",
+    "drafts/The fate of the gorillas.md",
+    "_notes/2017-06-introspecting-on-numbercaste-2017.md"
+  ]
 }
