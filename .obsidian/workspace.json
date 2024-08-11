@@ -33,18 +33,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/2020-04-Foreword-Megastructures.md",
+                "file": "_pages/mokuton.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "b305123790f8da58",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ],
@@ -114,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/2020-04-Foreword-Megastructures.md",
+                "file": "_pages/mokuton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/2020-04-Foreword-Megastructures.md",
+                "file": "_pages/mokuton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/2020-04-Foreword-Megastructures.md"
+                "file": "_pages/mokuton.md"
               }
             }
           }
@@ -177,11 +169,16 @@
   },
   "active": "de85cc65179eb022",
   "lastOpenFiles": [
+    "_pages/about.md",
+    "_pages/mokuton.md",
+    "_pages/Untitled.md",
+    "_notes/2019-01-Mammals-and-Dinosaurs.md",
+    "images/Warringstatescover.png",
+    "_notes/2020-04-Foreword-Megastructures.md",
     "images/tedx.png",
     "images/spotify.svg",
     "images/row.svg",
     "images/warringstates.png",
-    "images/Warringstatescover..png",
     "images/wired.svg",
     "images/witness.png",
     "images/yudha.jpg",
@@ -189,8 +186,6 @@
     "_notes/2024-02-Low-power-writing.md",
     "_notes/2022-11-Foreword-to-Wretched.md",
     "_notes/2020-10-Foreword-to-the-salvage-crew.md",
-    "_notes/2020-04-Foreword-Megastructures.md",
-    "_notes/2019-01-Mammals-and-Dinosaurs.md",
     "_notes/2018-05-Technology-of-Commonwealth.md",
     "_notes/2017-12-The-steam-hammer.md",
     "_notes/2017-06-introspecting-on-numbercaste-2017.md",
@@ -198,7 +193,6 @@
     "drafts/Regulating super-intelligence..md",
     "images/covers/wretched.png",
     "images/covers/slowsad.png",
-    "images/covers/salvage.png",
     "_works/2022-11-Contributions-moon.md",
     "_works/2021-11-Inhuman-Peace.md",
     "_works/2020-10-salvage-crew.md",
