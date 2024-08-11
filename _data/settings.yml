@@ -20,6 +20,8 @@ menu__settings:
       url: '/wip/'
     - title: 'Notes'
       url: '/note/'
+    - title: 'Mokuton'
+      url: '/mokuton/'
 
 
 
