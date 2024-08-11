@@ -2,9 +2,9 @@
 layout: page
 title: Mokuton
 description: Mokuton is a simple text editor that I wrote for myself. It's a single html file that runs on damn near anything, and gives you exactly what you need to write your story - and nothing else. No fonts to worry over. No lengthy packages or libraries to install and download. Just keep it in your browser and write.
-permalink: /about/
-image: /images/yudha.jpg
-image_caption: Photo by Dirk Skiba Fotografie.
+permalink: /mokuton/
+image: 
+image_caption:
 ---
 <!DOCTYPE html>
 <html lang="en">

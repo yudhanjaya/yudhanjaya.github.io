@@ -31,9 +31,11 @@
             "id": "de85cc65179eb022",
             "type": "leaf",
             "state": {
-              "type": "vscode-editor",
+              "type": "markdown",
               "state": {
-                "file": "_data/settings.yml"
+                "file": "_pages/mokuton.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -104,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_data/settings.yml",
+                "file": "_pages/mokuton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_data/settings.yml",
+                "file": "_pages/mokuton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_data/settings.yml"
+                "file": "_pages/mokuton.md"
               }
             }
           }
@@ -168,10 +170,11 @@
   },
   "active": "de85cc65179eb022",
   "lastOpenFiles": [
+    "_pages/about.md",
+    "_data/settings.yml",
     "_includes/section-logos.html",
     "_includes/disqus-comments.html",
     "_pages/mokuton.md",
-    "_pages/about.md",
     "_pages/Untitled.md",
     "_notes/2019-01-Mammals-and-Dinosaurs.md",
     "images/Warringstatescover.png",
