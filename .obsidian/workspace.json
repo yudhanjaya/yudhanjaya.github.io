@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/mokuton.md",
+                "file": "_pages/software.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/mokuton.md",
+                "file": "_pages/software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_pages/mokuton.md",
+                "file": "_pages/software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_pages/mokuton.md"
+                "file": "_pages/software.md"
               }
             }
           }
@@ -170,11 +170,16 @@
   },
   "active": "de85cc65179eb022",
   "lastOpenFiles": [
-    "_pages/about.md",
+    "_notes/2024-08-Fate-of-the-gorillas.md",
+    "_pages/software.md",
+    "images/software/galaxygen.jpg",
+    "images/software/colombo.png",
+    "images/software/mokuton.jpg",
+    "images/software",
     "_data/settings.yml",
+    "_pages/about.md",
     "_includes/section-logos.html",
     "_includes/disqus-comments.html",
-    "_pages/mokuton.md",
     "_pages/Untitled.md",
     "_notes/2019-01-Mammals-and-Dinosaurs.md",
     "images/Warringstatescover.png",
@@ -185,8 +190,6 @@
     "images/warringstates.png",
     "images/wired.svg",
     "images/witness.png",
-    "images/yudha.jpg",
-    "_notes/2024-08-Fate-of-the-gorillas.md",
     "_notes/2024-02-Low-power-writing.md",
     "_notes/2022-11-Foreword-to-Wretched.md",
     "_notes/2020-10-Foreword-to-the-salvage-crew.md",
@@ -195,8 +198,6 @@
     "_notes/2017-06-introspecting-on-numbercaste-2017.md",
     "drafts/2024-8-The-Slow-Sad-Suicide.md",
     "drafts/Regulating super-intelligence..md",
-    "images/covers/wretched.png",
-    "images/covers/slowsad.png",
     "_works/2022-11-Contributions-moon.md",
     "_works/2021-11-Inhuman-Peace.md",
     "_works/2020-10-salvage-crew.md",

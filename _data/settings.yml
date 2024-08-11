@@ -14,14 +14,14 @@ menu__settings:
       url: '/'
     - title: 'Portfolio'
       url: '/about/'
-    - title: 'Work'
+    - title: 'Writing'
       url: '/work/'
+    - title: 'Software'
+      url: '/software/'
     - title: 'In Progress'
       url: '/wip/'
     - title: 'Notes'
       url: '/note/'
-    - title: 'Mokuton'
-      url: '/mokuton/'
 
 
 
