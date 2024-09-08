@@ -3,12 +3,16 @@ title: Colombo Skylines
 description: A nearly 1:1 replica of the city of Colombo in Cities Skylines
 category: Software
 date: August, 2024
-image: '/images/software/colombo.png'
+image: '/images/software/cities-overview.png'
 image_caption: 'Skylines'
 ---
 
 
-This year (2024) we (Watchdog) attempted the most insane build ever made in Cities: Skylines: an accurate topographical representation of Colombo, built with detailed land use and zoning based on official city development plans and data centered around 2020; over a million virtual citizens, simulating population dynamics that reflect large-scale, real-world demographics and human movement; public transport based on actual route data; essentially, the city in a nutshell. This is[Colombo: Skylines](https://github.com/team-watchdog/colombo-skylines).
+This year (2024) we (Watchdog) attempted the most insane build ever made in Cities: Skylines: an accurate topographical representation of Colombo, built with detailed land use and zoning based on official city development plans and data centered around 2020; over a million virtual citizens, simulating population dynamics that reflect large-scale, real-world demographics and human movement; public transport based on actual route data; essentially, the city in a nutshell. 
+
+![]({{site.baseurl}}/images/software/colombo.png)
+
+This is[Colombo: Skylines](https://github.com/team-watchdog/colombo-skylines).
 
 
 And we got very close to reality!
@@ -16,10 +20,10 @@ And we got very close to reality!
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/software/cities-overview.png" loading="lazy" alt="Map">
-    <img src="/images/cities-transport.jpeg" loading="lazy" alt="Photo">
-    <img src="/images/lcities-kuluna.jpeg" loading="lazy" alt="Photo">
+    <img src="/images/cities-transport.png loading="lazy" alt="Photo">
+    <img src="/images/cities-kuluna.png" loading="lazy" alt="Photo">
   </div>
-  <em>Photos and survey of the land at the time of purchase and map</em>
+  <em>Screenshots</em>
 </div>
 
 
