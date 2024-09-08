@@ -122,8 +122,8 @@ wip:
 # software Settings
 software:
   enable: true
-  note__title: Software
-  note__description: I speak to the machine often, and from time to time I produce something that might be interesting. Here's a few of them.
+  software__title: Software
+  software__description: I speak to the machine often, and from time to time I produce something that might be interesting. Here's a few of them.
 
 #-------------------------------
 # Testimonials Section
