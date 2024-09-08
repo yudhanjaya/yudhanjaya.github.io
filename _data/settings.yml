@@ -105,19 +105,25 @@ work:
   work__description: My stories have won the Gratiean Prize, been nominated for the Nebula and Independent Games Festival awards, appeared in venues like Wired, ForeignPolicy and Slate, and been Washington Post and Audible bestsellers. These are my biggest, publicly accessible works.  
 
 #-------------------------------
-# WIP Settings
-wip:
-  enable: true
-  wip__title: Projects
-  wip__description: I’m usually working on several things at any given time. Sometimes these are tiny projects - sometimes they’re long, perpetual, possibly Sisyphean acts of tomfoolery. This is what I’m working on right now.
-
-#-------------------------------
 # notes Settings
 note:
   enable: true
   note__title: Notes
   note__description: A collection of half-baked thoughts. 
 
+#-------------------------------
+# WIP Settings
+wip:
+  enable: true
+  wip__title: Special Projects
+  wip__description: I’m usually working on several things at any given time. Sometimes these are tiny projects - sometimes they’re long, perpetual, possibly Sisyphean acts of tomfoolery. This is what I’m working on right now.
+
+#-------------------------------
+# software Settings
+software:
+  enable: true
+  note__title: Software
+  note__description: I speak to the machine often, and from time to time I produce something that might be interesting. Here's a few of them.
 
 #-------------------------------
 # Testimonials Section
