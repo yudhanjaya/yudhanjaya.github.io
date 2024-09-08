@@ -14,6 +14,8 @@ We began in April 2019, days after the Easter Sunday bombings in Sri Lanka, as a
 
 My friends and co-founders convinced me to lead the thing as CEO and editor in chief, and here we are. Watchdog is now (and I say this with pride) one of the finest data operations in Sri Lanka. As Sri Lanka collapsed (2021-2022), we went hard, building one of the finest longform operations in the country - all while being trilingual.
 
+
+
 Here are some of the things we've done:
 
 1) mapping agricultural policy changes, factchecking all the way back to the 11th century and down to modern markets
@@ -34,8 +36,10 @@ Here are some of the things we've done:
     <img src="/images/watchdog/food.png" loading="lazy" alt="Photo">
     <img src="/images/watchdog/protest.png" loading="lazy" alt="Photo">
     <img src="/images/watchdog/elixir.png" loading="lazy" alt="Photo">
+    <img src="/images/watchdog/saltwater.png" loading="lazy" alt="Photo">
+    <img src="/images/watchdog/transport.png" loading="lazy" alt="Photo">
   </div>
-  <em>Photos and survey of the land at the time of purchase and map</em>
+  <em>A very half-baked gallery of what we've done</em>
 </div>
 
 
