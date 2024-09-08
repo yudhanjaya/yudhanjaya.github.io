@@ -1,35 +1,35 @@
-{% if site.data.settings.wip.enable == true %} 
-<!-- begin wips -->
+{% if site.data.settings.software.enable == true %} 
+<!-- begin softwares -->
 <div class="container">
-  <section class="section wips animate">
+  <section class="section softwares animate">
     <div class="row">
 
       <div class="col col-4 col-d-12">
         <div class="section__info">
-          <h2 class="section__title">{{ site.data.settings.wip.wip__title }}</h2>
-          {% if site.data.settings.wip.wip__description %}
-          <p class="section__description">{{ site.data.settings.wip.wip__description }}</p>
+          <h2 class="section__title">{{ site.data.settings.software.software__title }}</h2>
+          {% if site.data.settings.software.software__description %}
+          <p class="section__description">{{ site.data.settings.software.software__description }}</p>
           {% endif %}
-          <a href="{{ '/wip' | relative_url }}" class="section__link">Show all wips <i class="ion ion-md-arrow-forward"></i></a>
+          <a href="{{ '/software' | relative_url }}" class="section__link">Show all<i class="ion ion-md-arrow-forward"></i></a>
         </div>
       </div>
 
       <div class="col col-8 col-d-12">
         <div class="row">
-          {% assign sorted = site.wips | sort: 'date' | reverse %}
-          {% for wip in sorted limit:4 %}
-          <article class="wip col col-6 col-d-12">
-            <div class="wip__content">
-              <a href="{{ wip.url }}" class="wip__image">
-                <img class="lazy" data-src="{{ wip.image }}" alt="{{ wip.title }}">
+          {% assign sorted = site.softwares | sort: 'date' | reverse %}
+          {% for software in sorted limit:4 %}
+          <article class="software col col-6 col-d-12">
+            <div class="software__content">
+              <a href="{{ software.url }}" class="software__image">
+                <img class="lazy" data-src="{{ software.image }}" alt="{{ software.title }}">
               </a>
-              <div class="wip__info">
-                {% if wip.category %}
-                <div class="wip__category">{{ wip.category }}</div>
+              <div class="software__info">
+                {% if software.category %}
+                <div class="software__category">{{ software.category }}</div>
                 {% endif %}
-                <h3 class="wip__title"><a href="{{ wip.url }}">{{ wip.title }}</a></h3>
-                {% if wip.description %}
-                <p class="wip__description">{{ wip.description }}</p>
+                <h3 class="software__title"><a href="{{ software.url }}">{{ software.title }}</a></h3>
+                {% if software.description %}
+                <p class="software__description">{{ software.description }}</p>
                 {% endif %}
               </div>
             </div>
@@ -41,5 +41,5 @@
     </div>
   </section>
 </div>
-<!-- end wips -->
+<!-- end softwares -->
 {% endif %}

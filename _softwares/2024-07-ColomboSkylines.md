@@ -1,5 +1,5 @@
 ---
-title: Colombo: Skylines
+title: Colombo Skylines
 description: A nearly 1:1 replica of the city of Colombo in Cities Skylines
 category: Software
 date: August, 2024
