@@ -29,6 +29,9 @@ collections:
   wips:
     output: true
     permalink: /wip/:slug
+  softwares:
+    output: true
+    permalink: /software/:slug
   notes:
     output: true
     permalink: /note/:slug
@@ -54,6 +57,11 @@ defaults:
       type: "wips"
     values:
       layout: "wip"
+  - scope:
+      path: ""
+      type: "softwares"
+    values:
+      layout: "software"
   - scope:
       path: ""
       type: "notes"

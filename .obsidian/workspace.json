@@ -171,6 +171,10 @@
   },
   "active": "fa7c3a0627596a3e",
   "lastOpenFiles": [
+    "_sass/4-layouts/_software.scss",
+    "_sass/4-layouts/_wip copy.scss",
+    "_sass/3-modules/_wips copy.scss",
+    "_sass/3-modules/_softwares.scss",
     "_includes/section-software.html",
     "_includes/section-wip copy.html",
     "images/watchdog/oddamavadi.png",
@@ -196,7 +200,6 @@
     "_data/settings.yml",
     "_pages/about.md",
     "_includes/section-logos.html",
-    "_includes/disqus-comments.html",
     "_pages/Untitled.md",
     "_notes/2024-02-Low-power-writing.md",
     "_notes/2022-11-Foreword-to-Wretched.md",
@@ -212,8 +215,6 @@
     "_works/2020-04-Megastructures.md",
     "_works/2018-10-Inhuman-Race.md",
     "_works/2017-06-Numbercaste.md",
-    "images/covers",
-    "images/fate-gorillas",
     "_notes/The fate of the gorillas.md"
   ]
 }
