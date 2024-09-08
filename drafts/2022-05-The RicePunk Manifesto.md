@@ -6,7 +6,9 @@ date: November, 2022
 image: /images/wretched.png
 image_caption: Cover elements by Akila Weerasinghe; the design is mine and not yet final.
 ---
+![[Pasted image 20240821194327.png]]
 
+Walter Lippmann (The Good Society). This was written in 1937, prior to I, Pencil and “The Use of Knowledge in Society.”
 
 Sometime in 2020, I wrote this:
 

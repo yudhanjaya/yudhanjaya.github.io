@@ -1,0 +1,39 @@
+---
+layout: default
+title: Software
+description:  I speak to the machine often, and from time to time our conversations produce something that might be interesting. Here's a few of them.
+---
+
+<div class="container">
+  <div class="page-section-head">
+    <h1 class="page-title">{% if page.title %}{{ page.title }}{% else %}{{ site.data.settings.wip.wip__title }}{% endif %}</h1>
+    {% if page.description %}
+      <p class="page-description">{{ page.description }}</p>
+    {% else site.data.settings.wip.wip__description %}
+      <p class="page-description">{{ site.data.settings.wip.wip__description }}</p>
+    {% endif %}
+  </div>
+</div>
+
+<div class="wip-page container animate">
+  <div class="row">
+    {% for wip in site.wips reversed %}
+      <article class="wip col col-4 col-d-6 col-t-12">
+        <div class="wip__content">
+          <a href="{{ wip.url }}" class="wip__image">
+            <img class="lazy" data-src="{{ wip.image }}" alt="{{ wip.title }}">
+          </a>
+          <div class="wip__info">
+            {% if wip.category %}
+            <div class="wip__category">{{ wip.category }}</div>
+            {% endif %}
+            <h3 class="wip__title"><a href="{{ wip.url }}">{{ wip.title }}</a></h3>
+            {% if wip.description %}
+            <p class="wip__description">{{ wip.description }}</p>
+            {% endif %}
+          </div>
+        </div>
+      </article>
+    {% endfor %}
+  </div>
+</div>

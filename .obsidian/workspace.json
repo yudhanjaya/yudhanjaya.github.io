@@ -11,9 +11,11 @@
             "id": "fa7c3a0627596a3e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/covers/inhumanpeace.png"
+                "file": "_notes/2019-01-Mammals-and-Dinosaurs.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -33,14 +35,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/software.md",
+                "file": "drafts/2022-05-The RicePunk Manifesto.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/software.md",
+                "file": "_notes/2019-01-Mammals-and-Dinosaurs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_pages/software.md",
+                "file": "_notes/2019-01-Mammals-and-Dinosaurs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_pages/software.md"
+                "file": "_notes/2019-01-Mammals-and-Dinosaurs.md"
               }
             }
           }
@@ -168,10 +169,20 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "de85cc65179eb022",
+  "active": "fa7c3a0627596a3e",
   "lastOpenFiles": [
-    "_notes/2024-08-Fate-of-the-gorillas.md",
+    "images/covers/slowsadph.png",
+    "_works/2024-07-Slowsadsuicide.md",
+    "_works/2024-",
+    "_notes/2020-04-Foreword-Megastructures.md",
+    "_notes/2019-01-Mammals-and-Dinosaurs.md",
+    "README.md",
+    "images/covers/inhumanpeace.png",
+    "images/covers/numbercaste.png",
+    "drafts/2022-05-The RicePunk Manifesto.md",
+    "Pasted image 20240821194327.png",
     "_pages/software.md",
+    "_notes/2024-08-Fate-of-the-gorillas.md",
     "images/software/galaxygen.jpg",
     "images/software/colombo.png",
     "images/software/mokuton.jpg",
@@ -181,15 +192,10 @@
     "_includes/section-logos.html",
     "_includes/disqus-comments.html",
     "_pages/Untitled.md",
-    "_notes/2019-01-Mammals-and-Dinosaurs.md",
     "images/Warringstatescover.png",
-    "_notes/2020-04-Foreword-Megastructures.md",
     "images/tedx.png",
     "images/spotify.svg",
     "images/row.svg",
-    "images/warringstates.png",
-    "images/wired.svg",
-    "images/witness.png",
     "_notes/2024-02-Low-power-writing.md",
     "_notes/2022-11-Foreword-to-Wretched.md",
     "_notes/2020-10-Foreword-to-the-salvage-crew.md",

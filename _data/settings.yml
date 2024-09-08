@@ -91,7 +91,7 @@ logo__items:
 #-------------------------------
 # Newsletter
 mailchimp:
-  enable: true
+  enable: false
   mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
   mailchimp__input__text: Your email address...
   mailchimp__button__text: Subscribe
@@ -101,14 +101,14 @@ mailchimp:
 # Work Settings
 work:
   enable: true
-  work__title: Major Work
+  work__title: Writing
   work__description: My stories have won the Gratiean Prize, been nominated for the Nebula and Independent Games Festival awards, appeared in venues like Wired, ForeignPolicy and Slate, and been Washington Post and Audible bestsellers. These are my biggest, publicly accessible works.  
 
 #-------------------------------
 # WIP Settings
 wip:
   enable: true
-  wip__title: Works In Progress
+  wip__title: Projects
   wip__description: I’m usually working on several things at any given time. Sometimes these are tiny projects - sometimes they’re long, perpetual, possibly Sisyphean acts of tomfoolery. This is what I’m working on right now.
 
 #-------------------------------
@@ -116,13 +116,13 @@ wip:
 note:
   enable: true
   note__title: Notes
-  note__description: We all scribble down here.
+  note__description: A collection of half-baked thoughts. 
 
 
 #-------------------------------
 # Testimonials Section
 testimonials:
-  enable: true
+  enable: false
 
 testimonial__title: Institutions
 testimonial__description: I've worked at or with a number of very interesting organizations, including 
