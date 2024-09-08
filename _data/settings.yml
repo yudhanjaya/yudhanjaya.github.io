@@ -18,7 +18,7 @@ menu__settings:
       url: '/work/'
     - title: 'Software'
       url: '/software/'
-    - title: 'In Progress'
+    - title: 'Special Projects'
       url: '/wip/'
     - title: 'Notes'
       url: '/note/'
