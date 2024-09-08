@@ -1,0 +1,45 @@
+{% if site.data.settings.wip.enable == true %} 
+<!-- begin wips -->
+<div class="container">
+  <section class="section wips animate">
+    <div class="row">
+
+      <div class="col col-4 col-d-12">
+        <div class="section__info">
+          <h2 class="section__title">{{ site.data.settings.wip.wip__title }}</h2>
+          {% if site.data.settings.wip.wip__description %}
+          <p class="section__description">{{ site.data.settings.wip.wip__description }}</p>
+          {% endif %}
+          <a href="{{ '/wip' | relative_url }}" class="section__link">Show all wips <i class="ion ion-md-arrow-forward"></i></a>
+        </div>
+      </div>
+
+      <div class="col col-8 col-d-12">
+        <div class="row">
+          {% assign sorted = site.wips | sort: 'date' | reverse %}
+          {% for wip in sorted limit:4 %}
+          <article class="wip col col-6 col-d-12">
+            <div class="wip__content">
+              <a href="{{ wip.url }}" class="wip__image">
+                <img class="lazy" data-src="{{ wip.image }}" alt="{{ wip.title }}">
+              </a>
+              <div class="wip__info">
+                {% if wip.category %}
+                <div class="wip__category">{{ wip.category }}</div>
+                {% endif %}
+                <h3 class="wip__title"><a href="{{ wip.url }}">{{ wip.title }}</a></h3>
+                {% if wip.description %}
+                <p class="wip__description">{{ wip.description }}</p>
+                {% endif %}
+              </div>
+            </div>
+          </article>
+          {% endfor %}
+        </div>
+      </div>
+
+    </div>
+  </section>
+</div>
+<!-- end wips -->
+{% endif %}
