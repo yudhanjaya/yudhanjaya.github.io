@@ -15,12 +15,12 @@ menu__settings:
     - title: 'Portfolio'
       url: '/about/'
     - title: 'Writing'
-      url: '/work/'
-    - title: 'Software'
-      url: '/software/'
+      url: '/writing/'
     - title: 'Special Projects'
+      url: '/software/'
+    - title: 'Notes and Forewords'
       url: '/wip/'
-    - title: 'Notes'
+    - title: 'Essays'
       url: '/note/'
 
 
@@ -98,11 +98,11 @@ mailchimp:
 
 
 #-------------------------------
-# Work Settings
-work:
+# Writing Settings
+writing:
   enable: true
-  work__title: Writing
-  work__description: My stories have won the Gratiean Prize, been nominated for the Nebula and Independent Games Festival awards, appeared in venues like Wired, ForeignPolicy and Slate, and been Washington Post and Audible bestsellers. These are my biggest, publicly accessible works.  
+  writing__title: Writing
+  writing__description: My stories have won the Gratiean Prize, been nominated for the Nebula and Independent Games Festival awards, appeared in venues like Wired, ForeignPolicy and Slate, and been Washington Post and Audible bestsellers. These are my biggest, publicly accessible works.  
 
 #-------------------------------
 # notes Settings

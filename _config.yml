@@ -23,9 +23,9 @@ collections:
   posts:
     output: true
     permalink: /posts/:slug
-  works:
+  writings:
     output: true
-    permalink: /work/:slug
+    permalink: /writing/:slug
   wips:
     output: true
     permalink: /wip/:slug
@@ -49,9 +49,9 @@ defaults:
       layout: "page"
   - scope:
       path: ""
-      type: "works"
+      type: "writings"
     values:
-      layout: "work"
+      layout: "writing"
   - scope:
       path: ""
       type: "wips"

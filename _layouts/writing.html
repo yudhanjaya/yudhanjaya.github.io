@@ -2,14 +2,14 @@
 layout: default
 ---
 
-<div class="work-head">
+<div class="writing-head">
   <div class="container">
 
     <div class="row">
       {% if page.image %}
       <div class="col col-5 col-d-12">
-        <div class="work-head__left">
-          <div class="work-head__image">
+        <div class="writing-head__left">
+          <div class="writing-head__image">
             <img class="lazy" data-src="{{site.baseurl}}{{page.image}}" alt="{{page.title}}">
           </div>
           {% if page.image_caption %}
@@ -20,23 +20,23 @@ layout: default
       {% endif %}
 
       <div class="col col-7 col-d-12">
-        <div class="work-head__right">
+        <div class="writing-head__right">
           {% if page.category %}
-          <div class="work-category">{{ page.category }}</div>
+          <div class="writing-category">{{ page.category }}</div>
           {% endif %}
           <h1 class="page-title">{{ page.title }}</h1>
           {% if page.description %}
           <p class="page-description">{{ page.description }}</p>
           {% endif %}
-          <ul class="work-meta list-reset">
+          <ul class="writing-meta list-reset">
             {% if page.date %}
-            <li class="work-meta__item"><strong>Date:</strong> <span>{{ page.date | date_to_string }}</span></li>
+            <li class="writing-meta__item"><strong>Date:</strong> <span>{{ page.date | date_to_string }}</span></li>
             {% endif %}
             {% if page.client %}
-            <li class="work-meta__item"><strong>Client:</strong> <span>{{ page.client }}</span></li>
+            <li class="writing-meta__item"><strong>Client:</strong> <span>{{ page.client }}</span></li>
             {% endif %}
             {% if page.role %}
-            <li class="work-meta__item"><strong>Role:</strong> <span>{{ page.role }}</span></li>
+            <li class="writing-meta__item"><strong>Role:</strong> <span>{{ page.role }}</span></li>
             {% endif %}
           </ul>
         </div>
@@ -52,7 +52,7 @@ layout: default
     {{ content }}
   </div>
 
-  <section class="section work-navigation">
+  <section class="section writing-navigation">
     <div class="row">
 
       <div class="col col-12">
@@ -64,36 +64,36 @@ layout: default
 
         <div class="row">
           {% if page.previous.url %}
-          <article class="work col col-6 col-d-12">
-            <div class="work__content">
-              <a href="{{ page.previous.url }}" class="work__image">
+          <article class="writing col col-6 col-d-12">
+            <div class="writing__content">
+              <a href="{{ page.previous.url }}" class="writing__image">
                 <img class="lazy" data-src="{{ page.previous.image }}" alt="{{ page.previous.title }}">
               </a>
-              <div class="work__info">
+              <div class="writing__info">
                 {% if page.previous.category %}
-                <div class="work__category">{{ page.previous.category }}</div>
+                <div class="writing__category">{{ page.previous.category }}</div>
                 {% endif %}
-                <h3 class="work__title"><a href="{{ page.previous.url }}">{{ page.previous.title }}</a></h3>
+                <h3 class="writing__title"><a href="{{ page.previous.url }}">{{ page.previous.title }}</a></h3>
                 {% if page.previous.category %}
-                <p class="work__description">{{ page.previous.description }}</p>
+                <p class="writing__description">{{ page.previous.description }}</p>
                 {% endif %}
               </div>
             </div>
           </article>
           {% endif %}
           {% if page.next.url %}
-          <article class="work col col-6 col-d-12">
-            <div class="work__content">
-              <a href="{{ page.next.url }}" class="work__image">
+          <article class="writing col col-6 col-d-12">
+            <div class="writing__content">
+              <a href="{{ page.next.url }}" class="writing__image">
                 <img class="lazy" data-src="{{ page.next.image }}" alt="{{ page.next.title }}">
               </a>
-              <div class="work__info">
+              <div class="writing__info">
                 {% if page.next.category %}
-                <div class="work__category">{{ page.next.category }}</div>
+                <div class="writing__category">{{ page.next.category }}</div>
                 {% endif %}
-                <h3 class="work__title"><a href="{{ page.next.url }}">{{ page.next.title }}</a></h3>
+                <h3 class="writing__title"><a href="{{ page.next.url }}">{{ page.next.title }}</a></h3>
                 {% if page.next.category %}
-                <p class="work__description">{{ page.next.description }}</p>
+                <p class="writing__description">{{ page.next.description }}</p>
                 {% endif %}
               </div>
             </div>

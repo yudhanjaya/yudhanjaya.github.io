@@ -32,7 +32,7 @@ _Yudhanjaya Wijeratne is an author, data scientist and general tinkerer from Col
 
 * Published novels (multi-book deals with HarperCollins and Aethon), wrote for major publications. The Salvage Crew incorporates AI and was named a best SFF book of 2020 by Polygon. Witness, an open-source collaborative futures design project, examines alternate economies and tries to get the underlying principles right.
 
-* Worked at LIRNEasia, a regional think tank, working on computational social science research and machine learning. Published widely (specifically, corpus linguistics, social networks, misinformation and hate speech). Worked on projects involving billions of call detail records, friend networks on social media, and built corpora for low-resource languages like Sinhala and Bengali. Contributed in small ways to national-level projects including Sri Lanka's data protection act.
+* Worked at LIRNEasia, a regional think tank, working on computational social science research and machine learning. Published widely (specifically, corpus linguistics, social networks, misinformation and hate speech). Worked on projects involving billions of call detail records, friend networks on social media, and built corpora for low-resource languages like Sinhala and Bengali. Contributed in small ways to national-level projects, including Sri Lanka's data protection act.
 
 * Worked at WSO2, a major middleware provider, as a writer and data science neophyte. Worked on text copy, whitepapers around client implentations (Transport For London, Govt. of Maldova, etc), and designed, prototyped and led implementation on WSO2's election monitor.
 
