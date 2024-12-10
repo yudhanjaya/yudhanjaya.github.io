@@ -26,15 +26,15 @@ collections:
   writings:
     output: true
     permalink: /writing/:slug
-  wips:
+  essays:
     output: true
-    permalink: /wip/:slug
-  softwares:
+    permalink: /essays/:slug
+  projects:
     output: true
-    permalink: /software/:slug
+    permalink: /projects/:slug
   notes:
     output: true
-    permalink: /note/:slug
+    permalink: /notes/:slug
 
 # Pages Path
 defaults:

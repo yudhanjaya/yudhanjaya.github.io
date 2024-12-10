@@ -12,15 +12,15 @@ menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
-    - title: 'Portfolio'
+    - title: 'About'
       url: '/about/'
     - title: 'Writing'
       url: '/writing/'
-    - title: 'Special Projects'
-      url: '/software/'
-    - title: 'Notes and Forewords'
-      url: '/wip/'
+    - title: 'Projects'
+      url: '/projects/'
     - title: 'Essays'
+      url: '/essays/'
+    - title: 'Notes, updates, forewards'
       url: '/note/'
 
 

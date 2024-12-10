@@ -1,0 +1,45 @@
+{% if site.data.settings.essays.enable == true %} 
+<!-- begin essayss -->
+<div class="container">
+  <section class="section essayss animate">
+    <div class="row">
+
+      <div class="col col-4 col-d-12">
+        <div class="section__info">
+          <h2 class="section__title">{{ site.data.settings.essays.essays__title }}</h2>
+          {% if site.data.settings.essays.essays__description %}
+          <p class="section__description">{{ site.data.settings.essays.essays__description }}</p>
+          {% endif %}
+          <a href="{{ '/essays' | relative_url }}" class="section__link">Show all essayss <i class="ion ion-md-arrow-forward"></i></a>
+        </div>
+      </div>
+
+      <div class="col col-8 col-d-12">
+        <div class="row">
+          {% assign sorted = site.essayss | sort: 'date' | reverse %}
+          {% for essays in sorted limit:4 %}
+          <article class="essays col col-6 col-d-12">
+            <div class="essays__content">
+              <a href="{{ essays.url }}" class="essays__image">
+                <img class="lazy" data-src="{{ essays.image }}" alt="{{ essays.title }}">
+              </a>
+              <div class="essays__info">
+                {% if essays.category %}
+                <div class="essays__category">{{ essays.category }}</div>
+                {% endif %}
+                <h3 class="essays__title"><a href="{{ essays.url }}">{{ essays.title }}</a></h3>
+                {% if essays.description %}
+                <p class="essays__description">{{ essays.description }}</p>
+                {% endif %}
+              </div>
+            </div>
+          </article>
+          {% endfor %}
+        </div>
+      </div>
+
+    </div>
+  </section>
+</div>
+<!-- end essayss -->
+{% endif %}

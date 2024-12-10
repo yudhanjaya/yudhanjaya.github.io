@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Portfolio / About me
-description: To get in touch, reach out to hello [at] yudhanjaya [dot] com, or contact fingan [at] zenoagency [dot] com to talk to my agent. Responses from my end may take time. 
+title: About me
+description: To get in touch, reach out to hello [at] yudhanjaya [dot] com, or contact fingan [at] zenoagency [dot] com to talk to my agent. Responses from my end may take time.
 permalink: /about/
-image: '/images/yudha.jpg'
-image_caption: 'Photo by Dirk Skiba Fotografie.'
+image: /images/yudha.jpg
+image_caption: Photo by Dirk Skiba Fotografie.
 ---
 
 

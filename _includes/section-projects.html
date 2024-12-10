@@ -1,0 +1,45 @@
+{% if site.data.settings.projects.enable == true %} 
+<!-- begin projectss -->
+<div class="container">
+  <section class="section projectss animate">
+    <div class="row">
+
+      <div class="col col-4 col-d-12">
+        <div class="section__info">
+          <h2 class="section__title">{{ site.data.settings.projects.projects__title }}</h2>
+          {% if site.data.settings.projects.projects__description %}
+          <p class="section__description">{{ site.data.settings.projects.projects__description }}</p>
+          {% endif %}
+          <a href="{{ '/projects' | relative_url }}" class="section__link">Show all<i class="ion ion-md-arrow-forward"></i></a>
+        </div>
+      </div>
+
+      <div class="col col-8 col-d-12">
+        <div class="row">
+          {% assign sorted = site.projectss | sort: 'date' | reverse %}
+          {% for projects in sorted limit:4 %}
+          <article class="projects col col-6 col-d-12">
+            <div class="projects__content">
+              <a href="{{ projects.url }}" class="projects__image">
+                <img class="lazy" data-src="{{ projects.image }}" alt="{{ projects.title }}">
+              </a>
+              <div class="projects__info">
+                {% if projects.category %}
+                <div class="projects__category">{{ projects.category }}</div>
+                {% endif %}
+                <h3 class="projects__title"><a href="{{ projects.url }}">{{ projects.title }}</a></h3>
+                {% if projects.description %}
+                <p class="projects__description">{{ projects.description }}</p>
+                {% endif %}
+              </div>
+            </div>
+          </article>
+          {% endfor %}
+        </div>
+      </div>
+
+    </div>
+  </section>
+</div>
+<!-- end projectss -->
+{% endif %}

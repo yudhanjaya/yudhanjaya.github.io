@@ -1,0 +1,39 @@
+---
+layout: default
+title: Essays
+description: Je n’ai fait celle-ci plus longue que parce que je n’ai pas eu le loisir de la faire plus courte. -Blaise Pascal, from “Lettres Provinciales”,1657
+---
+
+<div class="container">
+  <div class="page-section-head">
+    <h1 class="page-title">{% if page.title %}{{ page.title }}{% else %}{{ site.data.settings.essays.essays__title }}{% endif %}</h1>
+    {% if page.description %}
+      <p class="page-description">{{ page.description }}</p>
+    {% else site.data.settings.essays.essays__description %}
+      <p class="page-description">{{ site.data.settings.essays.essays__description }}</p>
+    {% endif %}
+  </div>
+</div>
+
+<div class="essays-page container animate">
+  <div class="row">
+    {% for essays in site.essayss reversed %}
+      <article class="essays col col-4 col-d-6 col-t-12">
+        <div class="essays__content">
+          <a href="{{ essays.url }}" class="essays__image">
+            <img class="lazy" data-src="{{ essays.image }}" alt="{{ essays.title }}">
+          </a>
+          <div class="essays__info">
+            {% if essays.category %}
+            <div class="essays__category">{{ essays.category }}</div>
+            {% endif %}
+            <h3 class="essays__title"><a href="{{ essays.url }}">{{ essays.title }}</a></h3>
+            {% if essays.description %}
+            <p class="essays__description">{{ essays.description }}</p>
+            {% endif %}
+          </div>
+        </div>
+      </article>
+    {% endfor %}
+  </div>
+</div>
