@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wip/index.html",
+                "file": "_includes/section-writing.html",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "section-writing"
             }
           }
         ]
@@ -162,8 +162,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa917a38d07a0a66",
+  "active": "e83f2676016196d7",
   "lastOpenFiles": [
+    "404.html",
+    "wip/index.html",
     "index.html",
     "writing/index.html",
     "note/index.html",
@@ -176,9 +178,7 @@
     "_writings/2022-11-Contributions-moon.md",
     "_writings/2020-10-salvage-crew.md",
     "_writings/2017-06-Numbercaste.md",
-    "404.html",
     "_layouts/software.html",
-    "software/index.html",
     "_pages/about.md"
   ]
 }

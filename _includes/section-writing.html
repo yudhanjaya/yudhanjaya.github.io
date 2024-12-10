@@ -1,0 +1,45 @@
+{% if site.data.settings.writing.enable == true %}
+<!-- begin writings -->
+<div class="container">
+  <section class="section writings animate">
+    <div class="row">
+
+      <div class="col col-4 col-d-12">
+        <div class="section__info">
+          <h2 class="section__title">{{ site.data.settings.writing.writing__title }}</h2>
+          {% if site.data.settings.writing.writing__description %}
+          <p class="section__description">{{ site.data.settings.writing.writing__description }}</p>
+          {% endif %}
+          <a href="{{ '/writing' | relative_url }}" class="section__link">Show all<i class="ion ion-md-arrow-forward"></i></a>
+        </div>
+      </div>
+
+      <div class="col col-8 col-d-12">
+        <div class="row">
+          {% assign sorted = site.writings | sort: 'date' | reverse %}
+          {% for writing in sorted limit:4 %}
+          <article class="writing col col-6 col-d-12">
+            <div class="writing__content">
+              <a href="{{ writing.url }}" class="writing__image">
+                <img class="lazy" data-src="{{ writing.image }}" alt="{{ writing.title }}">
+              </a>
+              <div class="writing__info">
+                {% if writing.category %}
+                <div class="writing__category">{{ writing.category }}</div>
+                {% endif %}
+                <h3 class="writing__title"><a href="{{ writing.url }}">{{ writing.title }}</a></h3>
+                {% if writing.description %}
+                <p class="writing__description">{{ writing.description }}</p>
+                {% endif %}
+              </div>
+            </div>
+          </article>
+          {% endfor %}
+        </div>
+      </div>
+
+    </div>
+  </section>
+</div>
+<!-- end writings -->
+{% endif %}
