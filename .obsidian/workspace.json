@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.html",
+                "file": "_sass/4-layouts/_project.scss",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "_project"
             }
           }
         ]
@@ -164,17 +164,17 @@
   },
   "active": "aa917a38d07a0a66",
   "lastOpenFiles": [
+    "_sass/4-layouts/_software.scss",
+    "_sass/4-layouts/_project.scss",
+    "_sass/4-layouts/_essay.scss",
+    "_sass/4-layouts/_note.scss",
+    "index.html",
     "404.html",
     "_config.yml",
     "writing/index.html",
     "_includes/section-writing.html",
     "_includes/related-posts.html",
     "_includes/section-hero.html",
-    "_includes/section-notes.html",
-    "_includes/section-projects.html",
-    "_includes/section-logos.html",
-    "index.html",
-    "project/index.html",
     "_essays/2017-12-The-steam-hammer.md",
     "_pages/about.md",
     "_writings/2024-07-Slowsadsuicide.md",
