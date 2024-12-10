@@ -3,9 +3,8 @@ title: The Earthbag Homestead
 description: My long-held dream of living as sustainably as possible, with the peace of mind, in a home of my own.
 category: Homestead
 date: April, 2020
-
-image: '/images/land-photo-3.jpeg'
-image_caption: 'Kandy.'
+image: /images/house-banner.jpg
+image_caption: Kandy.
 ---
 
 When I was 15 I decided that I would one day build a cottage somewhere far away and fuck off into a world where I didn’t have to worry about rent. I had Rs 200 in my account. My back-of-the-school-notebook projections were to hit this phase by the time I was 55.  By the end of 2019, I had enough to buy 186 perches (1.16 acres) of mountainside in Kandy. Thanks to my writing, I’ve been able to beat my own deadline by 25 years, with house money to spare.

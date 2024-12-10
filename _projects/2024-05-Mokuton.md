@@ -3,8 +3,8 @@ title: Mokuton
 description: A simple html word processor and markdown editor.
 category: Software
 date: June, 2024
-image: '/images/software/mokuton.jpg'
-image_caption: 'Mokuton'
+image: /images/software/mokuton-banner.jpg
+image_caption: Mokuton
 ---
 
 [Mokuton](https://github.com/yudhanjaya/Mokuton) is a simple text editor that I wrote for myself. 
