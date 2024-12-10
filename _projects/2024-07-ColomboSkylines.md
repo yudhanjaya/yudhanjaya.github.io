@@ -10,18 +10,18 @@ image_caption: Skylines
 
 This year (2024) we (Watchdog) attempted the most insane build ever made in Cities: Skylines: an accurate topographical representation of Colombo, built with detailed land use and zoning based on official city development plans and data centered around 2020; over a million virtual citizens, simulating population dynamics that reflect large-scale, real-world demographics and human movement; public transport based on actual route data; essentially, the city in a nutshell. 
 
-![]({{site.baseurl}}/images/software/colombo.png)
+![]({{site.baseurl}}/images/projects/colombo.png)
 
-This is[Colombo: Skylines](https://github.com/team-watchdog/colombo-skylines).
+This is [Colombo: Skylines](https://github.com/team-watchdog/colombo-skylines).
 
 
 And we got very close to reality!
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/software/cities-overview.png" loading="lazy" alt="Map">
-    <img src="/images/cities-transport.png loading="lazy" alt="Photo">
-    <img src="/images/cities-kuluna.png" loading="lazy" alt="Photo">
+    <img src="/images/projects/cities-overview.png" loading="lazy" alt="Map">
+    <img src="/images/projects/cities-transport.png loading="lazy" alt="Photo">
+    <img src="/images/projects/cities-kuluna.png" loading="lazy" alt="Photo">
   </div>
   <em>Screenshots</em>
 </div>

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_layouts/project.html",
+                "file": "_projects/2024-07-ColomboSkylines.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "project"
+              "title": "2024-07-ColomboSkylines"
             }
           }
         ]
@@ -162,10 +162,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e83f2676016196d7",
+  "active": "aa917a38d07a0a66",
   "lastOpenFiles": [
-    "_layouts/essay.html",
     "_layouts/project.html",
+    "_layouts/essay.html",
     "_layouts/writing.html",
     "_projects/2024-07-ColomboSkylines.md",
     "images/projects/mokuton.jpg",
