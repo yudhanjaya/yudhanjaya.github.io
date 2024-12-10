@@ -17,11 +17,11 @@ menu__settings:
     - title: 'Writing'
       url: '/writing/'
     - title: 'Projects'
-      url: '/projects/'
+      url: '/project/'
     - title: 'Essays'
-      url: '/essays/'
+      url: '/essay/'
     - title: 'Notes, updates, forewards'
-      url: '/notes/'
+      url: '/note/'
 
 
 
@@ -64,7 +64,7 @@ logo__items:
     link: "https://arxiv.org/pdf/2211.05030.pdf"
     image: "/images/google.svg"
 
-  - name: Thew New York Times
+  - name: The New York Times
     link: "https://www.nytimes.com/interactive/2023/06/01/opinion/ai-technology-future.html"
     image: "/images/NewYorkTimes.svg"
 

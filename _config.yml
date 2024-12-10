@@ -28,13 +28,13 @@ collections:
     permalink: /writing/:slug
   essays:
     output: true
-    permalink: /essays/:slug
+    permalink: /essay/:slug
   projects:
     output: true
-    permalink: /projects/:slug
+    permalink: /project/:slug
   notes:
     output: true
-    permalink: /notes/:slug
+    permalink: /note/:slug
 
 # Pages Path
 defaults:
