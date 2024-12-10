@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_writings/2022-11-Contributions-moon.md",
+                "file": "_sass/3-modules/_essays.scss",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2022-11-Contributions-moon"
+              "title": "_essays"
             }
           }
         ]
@@ -164,6 +164,10 @@
   },
   "active": "aa917a38d07a0a66",
   "lastOpenFiles": [
+    "_sass/3-modules/_projects.scss",
+    "_sass/3-modules/_essays.scss",
+    "_sass/3-modules/_works.scss",
+    "_writings/2022-11-Contributions-moon.md",
     "_projects/2024-07-ColomboSkylines.md",
     "images/covers/lunar-codex-banner.png",
     "_projects/2024-06-Geodog.md",
@@ -188,12 +192,9 @@
     "_data/settings.yml",
     "note/index.html",
     "_sass/3-modules/_softwares.scss",
-    "_sass/3-modules/_wips.scss",
-    "_sass/3-modules/_works.scss",
     "_essays/2017-12-The-steam-hammer.md",
     "_pages/about.md",
     "_writings/2024-07-Slowsadsuicide.md",
-    "_writings/2022-11-Contributions-moon.md",
     "_writings/2020-10-salvage-crew.md",
     "_writings/2017-06-Numbercaste.md"
   ]
