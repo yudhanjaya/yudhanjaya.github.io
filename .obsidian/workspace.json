@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_layouts/essays.html",
+                "file": "_layouts/project.html",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "essays"
+              "title": "project"
             }
           }
         ]
@@ -162,9 +162,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa917a38d07a0a66",
+  "active": "e83f2676016196d7",
   "lastOpenFiles": [
-    "_layouts/projects.html",
+    "_layouts/essay.html",
+    "_layouts/project.html",
     "_layouts/writing.html",
     "_projects/2024-07-ColomboSkylines.md",
     "images/projects/mokuton.jpg",
@@ -191,7 +192,6 @@
     "_sass/4-layouts/_project.scss",
     "404.html",
     "index.html",
-    "_config.yml",
     "_essays/2017-12-The-steam-hammer.md",
     "_pages/about.md",
     "_writings/2024-07-Slowsadsuicide.md",
