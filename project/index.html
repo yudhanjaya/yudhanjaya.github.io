@@ -1,0 +1,39 @@
+---
+layout: default
+title: Projects
+description: I’m usually working on several things at any given time. Sometimes these are tiny projects - sometimes they’re long, perpetual, possibly Sisyphean acts of tomfoolery.
+---
+
+<div class="container">
+  <div class="page-section-head">
+    <h1 class="page-title">{% if page.title %}{{ page.title }}{% else %}{{ site.data.settings.project.project__title }}{% endif %}</h1>
+    {% if page.description %}
+      <p class="page-description">{{ page.description }}</p>
+    {% else site.data.settings.project.project__description %}
+      <p class="page-description">{{ site.data.settings.project.project__description }}</p>
+    {% endif %}
+  </div>
+</div>
+
+<div class="project-page container animate">
+  <div class="row">
+    {% for project in site.projects reversed %}
+      <article class="project col col-4 col-d-6 col-t-12">
+        <div class="project__content">
+          <a href="{{ project.url }}" class="project__image">
+            <img class="lazy" data-src="{{ project.image }}" alt="{{ project.title }}">
+          </a>
+          <div class="project__info">
+            {% if project.category %}
+            <div class="project__category">{{ project.category }}</div>
+            {% endif %}
+            <h3 class="project__title"><a href="{{ project.url }}">{{ project.title }}</a></h3>
+            {% if project.description %}
+            <p class="project__description">{{ project.description }}</p>
+            {% endif %}
+          </div>
+        </div>
+      </article>
+    {% endfor %}
+  </div>
+</div>

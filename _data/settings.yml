@@ -21,7 +21,7 @@ menu__settings:
     - title: 'Essays'
       url: '/essays/'
     - title: 'Notes, updates, forewards'
-      url: '/note/'
+      url: '/notes/'
 
 
 

@@ -56,12 +56,12 @@ defaults:
       path: ""
       type: "projects"
     values:
-      layout: "projects"
+      layout: "project"
   - scope:
       path: ""
       type: "essays"
     values:
-      layout: "essays"
+      layout: "essay"
   - scope:
       path: ""
       type: "notes"
