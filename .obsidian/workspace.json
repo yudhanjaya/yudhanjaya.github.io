@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_sass/3-modules/_essays.scss",
+                "file": "_projects/2024-06-Geodog.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_essays"
+              "title": "2024-06-Geodog"
             }
           }
         ]
@@ -164,8 +164,8 @@
   },
   "active": "aa917a38d07a0a66",
   "lastOpenFiles": [
-    "_sass/3-modules/_projects.scss",
     "_sass/3-modules/_essays.scss",
+    "_sass/3-modules/_projects.scss",
     "_sass/3-modules/_works.scss",
     "_writings/2022-11-Contributions-moon.md",
     "_projects/2024-07-ColomboSkylines.md",
