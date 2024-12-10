@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_projects/2024-07-ColomboSkylines.md",
+                "file": "_writings/2022-11-Contributions-moon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-07-ColomboSkylines"
+              "title": "2022-11-Contributions-moon"
             }
           }
         ]
@@ -164,6 +164,8 @@
   },
   "active": "aa917a38d07a0a66",
   "lastOpenFiles": [
+    "_projects/2024-07-ColomboSkylines.md",
+    "images/covers/lunar-codex-banner.png",
     "_projects/2024-06-Geodog.md",
     "_projects/2024-05-Mokuton.md",
     "_projects/2020-04-Galaxygen.md",
@@ -179,7 +181,6 @@
     "images/software/14.jpg",
     "images/software/18.jpg",
     "images/software/17.jpg",
-    "images/software/16.jpg",
     "_sass/4-layouts/_project.scss",
     "404.html",
     "index.html",

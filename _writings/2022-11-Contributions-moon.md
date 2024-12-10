@@ -4,7 +4,7 @@ description: In which my work ends up on the Moon, thanks to Samuel Peralta's ef
 category: Archive
 published by: Incandence Corp
 date: November, 2021-November 2024
-image: /images/covers/lunar-codex-screen.png
+image: /images/covers/lunar-codex-banner.png
 image_caption: Unexpectedl mindboggling.
 ---
 
