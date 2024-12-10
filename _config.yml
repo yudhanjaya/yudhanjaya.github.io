@@ -54,14 +54,14 @@ defaults:
       layout: "writing"
   - scope:
       path: ""
-      type: "wips"
+      type: "projects"
     values:
-      layout: "wip"
+      layout: "projects"
   - scope:
       path: ""
-      type: "softwares"
+      type: "essays"
     values:
-      layout: "software"
+      layout: "essays"
   - scope:
       path: ""
       type: "notes"
