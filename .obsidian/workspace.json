@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_config.yml",
+                "file": "_essays/2017-12-The-steam-hammer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_config"
+              "title": "2017-12-The-steam-hammer"
             }
           }
         ]
@@ -164,17 +164,17 @@
   },
   "active": "aa917a38d07a0a66",
   "lastOpenFiles": [
+    "_includes/section-projects.html",
+    "essays/index.html",
+    "_config.yml",
     "404.html",
     "index.html",
     "projects/index.html",
     "writing/index.html",
     "_data/settings.yml",
     "_includes/head.html",
-    "_includes/section-projects.html",
     "_includes/section-notes.html",
     "_includes/section-essays.html",
-    "_includes/section-testimonials.html",
-    "_includes/section-writing.html",
     "_pages/about.md",
     "_writings/2024-07-Slowsadsuicide.md",
     "_writings/2022-11-Contributions-moon.md",
