@@ -3,7 +3,7 @@ title: The Earthbag Homestead
 description: My long-held dream of living as sustainably as possible, with the peace of mind, in a home of my own.
 category: Homestead
 date: April, 2020
-image: /images/house-banner.jpg
+image: /images/projects/house-banner.jpg
 image_caption: Kandy.
 ---
 

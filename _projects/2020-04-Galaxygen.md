@@ -3,7 +3,7 @@ title: Galaxy Generator
 description: A toybox attempt at generating a universe
 category: Software
 date: April, 2020
-image: /images/software/galaxygen-banner.jpg
+image: /images/projects/galaxygen-banner.jpg
 image_caption: Galaxygen
 ---
 
