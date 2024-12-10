@@ -9,7 +9,7 @@ image_caption: Galaxygen
 
 [GalaxyGen](https://github.com/yudhanjaya/GalaxyGen) generates stars, populates them with planets, and even introduces civilizations that can span multiple worlds. The result is visualized in an interface that kind of mimics low-key terminal vibes but also does contain a proper 3D visualization that you can click, drag, and interact with.
 
-![]({{site.baseurl}}/images/software/galaxygen.jpg)
+![]({{site.baseurl}}/images/projects/galaxygen.jpg)
 
 Features
 

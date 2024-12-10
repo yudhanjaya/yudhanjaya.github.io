@@ -14,7 +14,7 @@ It's a single html file that creates a modern, one-file word processor with word
 It combines modern aesthetics (a Medium-like interface, a block-style editor) with broad compatibility. It's a single html file that runs on damn near anything, and gives you exactly what you need to write your story - and nothing else. No fonts to worry over. No lengthy packages or libraries to install and download. Just keep it in your browser and write.
 
 
-![]({{site.baseurl}}/images/software/mokuton.jpg)
+![]({{site.baseurl}}/images/projects/mokuton.jpg)
 
 
 ## Rationale
@@ -39,7 +39,7 @@ Usage
 
 mokuton_dark.html is a variant. Use it if you want to feel like hackerman (if you don't know what that is, it's a weird in-joke involving Mr. Robot and Kung Fury). Rest assured that no Java was involved. 
 
-![]({{site.baseurl}}/images/software/mokuton-dark.png)
+![]({{site.baseurl}}/images/projects/mokuton-dark.png)
 
 This dark variant is less of a "dark mode" and more my take on a terminal-style experience. As you can see, elements have been moved around to make it so. It has a "change theme" functionality that toggles between three colors for the text - green, amber, white(ish). This may not be everyone's cup of tea.
 

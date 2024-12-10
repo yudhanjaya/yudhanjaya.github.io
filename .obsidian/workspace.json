@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_projects/2024-07-ColomboSkylines.md",
+                "file": "_projects/2019-04-Watchdog.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-07-ColomboSkylines"
+              "title": "2019-04-Watchdog"
             }
           }
         ]
@@ -164,10 +164,13 @@
   },
   "active": "aa917a38d07a0a66",
   "lastOpenFiles": [
+    "_projects/2024-07-ColomboSkylines.md",
+    "_projects/2024-05-Mokuton.md",
+    "_projects/2020-04-Galaxygen.md",
+    "_projects/2024-06-Geodog.md",
     "_layouts/project.html",
     "_layouts/essay.html",
     "_layouts/writing.html",
-    "_projects/2024-07-ColomboSkylines.md",
     "images/projects/mokuton.jpg",
     "images/projects/mokuton-dark.png",
     "images/projects/mokuton-banner.jpg",
@@ -179,9 +182,6 @@
     "images/projects/colombo.png",
     "images/projects/cities-transport.png",
     "images/projects",
-    "_projects/2024-06-Geodog.md",
-    "_projects/2024-05-Mokuton.md",
-    "_projects/2020-04-Galaxygen.md",
     "_projects/2020-04-Earthbag-Homestead.md",
     "_projects/2019-04-Watchdog.md",
     "_sass/3-modules/_essays.scss",
@@ -191,7 +191,6 @@
     "_sass/3-modules/_notes.scss",
     "_sass/4-layouts/_project.scss",
     "404.html",
-    "index.html",
     "_essays/2017-12-The-steam-hammer.md",
     "_pages/about.md",
     "_writings/2024-07-Slowsadsuicide.md",
