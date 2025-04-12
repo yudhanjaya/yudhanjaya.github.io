@@ -133,7 +133,7 @@ Okay. Let my brain be a blender. Let my rainwater catchment system work, dammit.
 
 # The Outline
 
-> [!Yudha]
+> [!YUDHA]
 > **Hey Claude, write me an appropriate premise for a novel based on these ingredients. Give me two separate documents - one on the setting and characters, the other on the events of the novel:**
 > 
 > - **One, a novelist who has recently moved into his new homestead in a high mountain in a difficult climate. He is attempting to live out his dreams of homesteading and gardening, but is forced to confront the practical reality of building infrastructure, including roads, electricity supply, water. His plants are dying.**
@@ -145,7 +145,7 @@ Okay. Let my brain be a blender. Let my rainwater catchment system work, dammit.
 
 Here's the setting it picked.
 
-> [!Claude]
+> [!CLAUDE]
 > # HIGH COUNTRY SUSPICIONS
 > 
 > ## Setting
@@ -255,14 +255,14 @@ And themes - I don’t think about themes at this stage; that’s putting the ca
 Let’s tinker. 
 
 
-> [!Yudha]
+> [!YUDHA]
 >  **Set this in a fictional town that takes inspiration from the environment ofSri Lanka - tropical, a former colony.**
 > 
 > **It should still be set broadly within an Anglosphere and have broadly western aesthetics, but make sure every single place is fictional, from the village level to the country.**
 
 And here’s the output:
 
-> [!Claude]
+> [!CLAUDE]
 > 
 > # MONSOON CHRONICLES
 > 
@@ -361,10 +361,10 @@ Serendipa, Emerald Heights and Westhill all sound very cliche, so let’s just c
 
 Here’s my next prompt to Claude:
 
-> [!Yudha]
+> [!YUDHA]
 > **Turn this into a chapter-by-chapter outline of events, with each chapter outline providing enough information on plot threads and narrative key points for a writer to reconstruct the chapter from scratch using just the outlines.**
 
-> [!Claude]
+> [!CLAUDE]
 > 
 > # MONSOON CHRONICLES
 > 
@@ -583,11 +583,11 @@ My initial bias is towards Gemini. There are three reasons. One is that one mill
 
 But first, I want to get a sense of how Gemini writes.
 
-> [!Yudha]
+> [!YUDHA]
 > **We have an outline for a novel. Using this, I want you to write the first chapter.**
 
 
-> [!Gemini]
+> [!GEMINI]
 > 
 > **Chapter 1: Arrival**
 > 
@@ -738,7 +738,7 @@ The language, also, is not something I like. There's a bizarre artificiality to 
 
 This isn't an optimised prompt in any way; this is just sort of me sitting down and thinking how would I distil Hemingway's style and just putting stuff together. But that should do. Let me inject this and see what comes up:
 
-> [!Gemini]
+> [!GEMINI]
 > **Chapter 1: Arrival**
 > 
 > The air was thick. Rain had stopped for three days. Elliott Thorne stood on his land in Galagedara. Fifteen acres. The deed paper felt stiff in his shirt pocket.
@@ -891,7 +891,7 @@ The result below isn’t exactly RD prose, but it is somewhere within thirty mil
 
 If I say “**Continue. Write the next three chapters**”, what does Gemini “think”? 
 
-> [!Gemini]
+> [!GEMINI]
 > 
 > The user wants the next three chapters (Chapters 2, 3, and 4) of _Monsoon Chronicles_, written in the **Reader's Digest Condensed Style**. I need to use the provided outline for these chapters and apply the RD style principles (clarity, conciseness, flow, balanced sentences, judicious detail, preserving core plot/character).
 > 
@@ -1049,7 +1049,7 @@ Maybe let’s retrace our steps and do some comparisons on a fresh conversation.
 > - Reduce but don't eliminate modifiers (adjectives and adverbs)
 > - Maintain the author's distinctive word choices when significant
 
-> [!Yudha]
+> [!YUDHA]
 > **Using this style guide and this chapter-by-chapter outline, give me the first chapter.**
 
 Gemini 2.5: 
@@ -1083,7 +1083,7 @@ Gemini 2.5:
 
 Claude 3.7 Sonnet:
 
-> [!Claude]
+> [!CLAUDE]
 > 
 > # MONSOON CHRONICLES
 > 
@@ -1280,7 +1280,7 @@ Why is this? Maybe it's because I know too much about how LLMs work, maybe it's 
 
 Anyway. Here's what Gemini in AI studio has for me:
 
-> [!Gemini]
+> [!GEMINI]
 > 
 > Okay, here is Chapter 1 written according to the chapter outline and the Reader's Digest Condensed Style Guide.
 > 
@@ -1843,7 +1843,7 @@ Consider this exchange which happened at chapter 5.
 
 The thought process and the approach - sure, seems good. Execution, not so much. As much as it fixes, it does damage as well. Consider this addition:
 
-> [!Claude]
+> [!CLAUDE]
 > Lalitha studied the drawings, her face revealing nothing. "Interesting," she said finally. She passed the papers back to him. "You know, if you'd like to see something different..." She paused, watching his expression. "My family's garden survived the great flood of '93. And the one in '07."
 
 Floods in Kandy? Particularly in this part of Kandy? Extremely unlikely. Landslides make sense, but great landslides of 93 and 07 don’t sit well: unless there's a whole mountain sliding off the shelf somewhere, we kind of don't refer to them like that.
@@ -1851,7 +1851,7 @@ Floods in Kandy? Particularly in this part of Kandy? Extremely unlikely. Landsli
 
 At some point I had to say the following:
 
-> [!Yudha]
+> [!YUDHA]
 > Give me a summary of all the events thus far and all the necessary character, plot and environment information for Claude to continue writing this book in a new chat
 
 This gave me the following document:
@@ -2095,7 +2095,7 @@ There are things to fix. Yes, all the chapters have this curve towards a very fo
 
 But it is decent. Or rather: it could be made decent. Not a 9/10, but with enough sawing and hammering, a 6/10 could emerge.
 
-> [!Claude]
+> [!CLAUDE]
 > "I didn't intend to become a focal point for water disputes," Elliott said.
 > 
 > "Few of us intend the roles we ultimately play." She adjusted her bracelet, a subtle gesture that nonetheless drew attention to the gold at her wrist. "The Wickramsinghe family has significant historical influence, but times are changing. New perspectives can be valuable when properly aligned."
@@ -2139,7 +2139,7 @@ But here's the rub. These things are getting progressively more competent; and i
 
 The fact that we can go from the idea to outline to this in a few terse, one sentence requests is nothing short of mind blowing.
 
-> [!Claude]
+> [!CLAUDE]
 > Vikram arrived precisely at nine, his official Land Management vehicle splashing through puddles on the access road. He emerged immaculately dressed despite the muddy surroundings, a clipboard tucked under his arm and a digital camera hanging from his neck. His shoes—practical rubber boots rather than his usual office footwear—were the only concession to the conditions.
 > 
 > "Mr. Thorne," he called, approaching the tea shed with measured steps. "Shall we begin with your current electrical setup? I'll need to note capacity and existing infrastructure."
