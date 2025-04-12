@@ -63,7 +63,7 @@ I hope you enjoyed it. The next book will come, you can bet anything you have th
 
 [5] [https://www.gamasutra.com/blogs/TynanSylvester/20130602/193462/The_Simulation_Dream.php](https://www.gamasutra.com/blogs/TynanSylvester/20130602/193462/The_Simulation_Dream.php)
 
-[6] [https://github.com/yudhanjaya/OSUN](https://github.com/yudhanjaya/OSUN)
+[6] [https://github.com/yudhanjaya/OSUN]([OSUN](https://yudhanjaya.com/project/2019-04-osun))
 
 [7] [http://people.loyno.edu/~folse/LanguageGames.html](http://people.loyno.edu/~folse/LanguageGames.html)
 
