@@ -661,105 +661,105 @@ There are several things I’m not impressed by. Albizia does grow in Sri Lanka,
 
 The language, also, is not something I like. There's a bizarre artificiality to it. You know how people say they can recognise ChadGPT writing? This feels a little bit like that. So let me write a style guide and see if we can give the LLM both the outline and the style guide together. In fact, let's go with a style that a lot of readers come across at some point: Hemingway. 
 
- [!NOTE]
- # Hemmingway Style
- 
- ## Core Principles
- 
- ### 1. Brevity and Clarity
- 
- - Use short sentences. Keep them direct.
- - Prefer simple words over complex ones.
- - Cut any word that doesn't serve a purpose.
- - If a word can be removed without changing meaning, remove it.
- - Aim for 15 words or fewer in most sentences.
- 
- ### 2. Active Voice
- 
- - Subject does the action. Subject acts on object.
- - "The man caught the fish" not "The fish was caught by the man."
- - Minimize passive constructions except for specific emphasis.
- - Make verbs carry the weight, not adverbs.
- 
- ### 3. Concrete Language
- 
- - Show specific, tangible things.
- - Write "the 1932 Winchester rifle" not "the old gun."
- - Write "the marlin jumped ten feet into the air" not "the fish made an impressive leap."
- - Avoid abstractions when concrete details can work instead.
- 
- ### 4. Limited Adjectives and Adverbs
- 
- - Use adjectives sparingly, only when they change meaning significantly.
- - Almost never use adverbs. Let strong verbs carry meaning.
- - "He closed the door firmly" should be "He slammed the door."
- - When you must use modifiers, choose unexpected but accurate ones.
- 
- ### 5. Natural Dialogue
- 
- - People speak in fragments, repetitions, and interruptions.
- - Dialogue should sound like actual speech, not exposition.
- - Minimal dialogue tags – mostly "said" and occasionally "asked."
- - Let context and word choice show emotion, not adverbs or elaborate dialogue tags.
- 
- ### 6. Rhythm and Cadence
- 
- - Vary sentence length deliberately for effect.
- - Use short sentences for impact.
- - Use longer sentences (still simple in structure) to create motion.
- - Read aloud to test the flow.
- 
- ### 7. Understatement
- 
- - Present dramatic events in plain language.
- - Let readers feel emotions without being told how to feel.
- - "The bomb exploded. The cafe was gone." Not "The devastating explosion tragically destroyed the beloved cafe."
- - The more dramatic the content, the more restrained the language.
- 
- ### Syntactic Patterns to Prefer:
- 
- - Subject-verb-object constructions
- - Simple declarative statements
- - Coordinating conjunctions (and, but) over subordinating ones
- - Present tense or simple past tense
- - First person or limited third person
- 
- ### Patterns to Minimize:
- 
- - Dependent clauses, especially at the start of sentences
- - Qualifiers (somewhat, rather, quite, very)
- - Explanations of emotions or motivations
- - Abstract nouns (beauty, truth, difficulty)
- - Complex verb forms (would have been thinking)
- - Sentences beginning with "It is" or "There are"
- 
- ### Paragraph Structure:
- 
- - Short paragraphs, often 1-3 sentences
- - Direct opening sentences that ground the reader
- - Minimal transitions between paragraphs
- - Frequent paragraph breaks, especially after important statements
- 
- ### Vocabulary Choices:
- 
- - Anglo-Saxon words over Latinate ones (use "buy" not "purchase")
- - Concrete nouns (fish, tree, wine, blood)
- - Action verbs (ran, hit, died, fell, swam)
- - Weather and natural elements as reflections of mood
- - Military, hunting, fishing, and sports terminology
- - Colors, especially primary ones
- 
- ## Testing Output
- 
- Ask these questions about any generated text:
- 
- 1. Can any words be removed without changing meaning?
- 2. Are there any adjectives or adverbs that could be replaced with stronger nouns or verbs?
- 3. Is every sentence in active voice unless passive is deliberately chosen?
- 4. Could any sentence be shortened without loss?
- 5. Does dialogue sound like real speech?
- 6. Are there any abstractions that could be replaced with concrete details?
- 7. Would Hemingway recognize this as clean prose?
+
+>  # Hemmingway Style
+>  
+>  ## Core Principles
+>  
+>  ### 1. Brevity and Clarity
+>  
+>  - Use short sentences. Keep them direct.
+>  - Prefer simple words over complex ones.
+>  - Cut any word that doesn't serve a purpose.
+>  - If a word can be removed without changing meaning, remove it.
+>  - Aim for 15 words or fewer in most sentences.
+>  
+>  ### 2. Active Voice
+>  
+>  - Subject does the action. Subject acts on object.
+>  - "The man caught the fish" not "The fish was caught by the man."
+>  - Minimize passive constructions except for specific emphasis.
+>  - Make verbs carry the weight, not adverbs.
+>  
+>  ### 3. Concrete Language
+>  
+>  - Show specific, tangible things.
+>  - Write "the 1932 Winchester rifle" not "the old gun."
+>  - Write "the marlin jumped ten feet into the air" not "the fish made an impressive leap."
+>  - Avoid abstractions when concrete details can work instead.
+>  
+>  ### 4. Limited Adjectives and Adverbs
+>  
+>  - Use adjectives sparingly, only when they change meaning significantly.
+>  - Almost never use adverbs. Let strong verbs carry meaning.
+>  - "He closed the door firmly" should be "He slammed the door."
+>  - When you must use modifiers, choose unexpected but accurate ones.
+>  
+>  ### 5. Natural Dialogue
+>  
+>  - People speak in fragments, repetitions, and interruptions.
+>  - Dialogue should sound like actual speech, not exposition.
+>  - Minimal dialogue tags – mostly "said" and occasionally "asked."
+>  - Let context and word choice show emotion, not adverbs or elaborate dialogue tags.
+>  
+>  ### 6. Rhythm and Cadence
+>  
+>  - Vary sentence length deliberately for effect.
+>  - Use short sentences for impact.
+>  - Use longer sentences (still simple in structure) to create motion.
+>  - Read aloud to test the flow.
+>  
+>  ### 7. Understatement
+>  
+>  - Present dramatic events in plain language.
+>  - Let readers feel emotions without being told how to feel.
+>  - "The bomb exploded. The cafe was gone." Not "The devastating explosion tragically destroyed the beloved cafe."
+>  - The more dramatic the content, the more restrained the language.
+>  
+>  ### Syntactic Patterns to Prefer:
+>  
+>  - Subject-verb-object constructions
+>  - Simple declarative statements
+>  - Coordinating conjunctions (and, but) over subordinating ones
+>  - Present tense or simple past tense
+>  - First person or limited third person
+>  
+>  ### Patterns to Minimize:
+>  
+>  - Dependent clauses, especially at the start of sentences
+>  - Qualifiers (somewhat, rather, quite, very)
+>  - Explanations of emotions or motivations
+>  - Abstract nouns (beauty, truth, difficulty)
+>  - Complex verb forms (would have been thinking)
+>  - Sentences beginning with "It is" or "There are"
+>  
+>  ### Paragraph Structure:
+>  
+>  - Short paragraphs, often 1-3 sentences
+>  - Direct opening sentences that ground the reader
+>  - Minimal transitions between paragraphs
+>  - Frequent paragraph breaks, especially after important statements
+>  
+>  ### Vocabulary Choices:
+>  
+>  - Anglo-Saxon words over Latinate ones (use "buy" not "purchase")
+>  - Concrete nouns (fish, tree, wine, blood)
+>  - Action verbs (ran, hit, died, fell, swam)
+>  - Weather and natural elements as reflections of mood
+>  - Military, hunting, fishing, and sports terminology
+>  - Colors, especially primary ones
+>  
+>  ## Testing Output
+>  
+>  Ask these questions about any generated text:
+>  
+>  1. Can any words be removed without changing meaning?
+>  2. Are there any adjectives or adverbs that could be replaced with stronger nouns or verbs?
+>  3. Is every sentence in active voice unless passive is deliberately chosen?
+>  4. Could any sentence be shortened without loss?
+>  5. Does dialogue sound like real speech?
+>  6. Are there any abstractions that could be replaced with concrete details?
+>  7. Would Hemingway recognize this as clean prose?
 
 This isn't an optimised prompt in any way; this is just sort of me sitting down and thinking how would I distil Hemingway's style and just putting stuff together. But that should do. Let me inject this and see what comes up:
 
@@ -797,104 +797,103 @@ We may have overshot a little. What worked for Hemmingway doesn’t work here - 
 Let me try something else. Does anyone remember Reader’s Digest Condensed books? They were something I read as a child - my grandfather had quite the collection. They had a particular style and tone. 
 
 
- [!NOTE]
- # Reader's Digest Condensed Style Guide
- 
- ## Core Principles
- 
- ### 1. Clarity and Accessibility
- 
- - Prioritize clear, straightforward prose that appeals to a broad audience
- - Use plain language without being simplistic
- - Explain necessary complex concepts without condescension
- - Aim for 8th-10th grade reading level
- 
- ### 2. Conciseness
- 
- - Trim excess without sacrificing essential content or flavor
- - Condense descriptive passages while preserving key details
- - Maintain the original author's voice in a more streamlined form
- - Cut repetition unless it serves a deliberate purpose
- 
- ### 3. Narrative Flow
- 
- - Ensure smooth transitions between scenes and ideas
- - Preserve the original story arc and character development
- - Combine related scenes when possible
- - Maintain emotional impact of key moments
- 
- ### 4. Balanced Sentences
- 
- - Mix short and medium-length sentences for good rhythm
- - Break up overly complex sentences into more digestible ones
- - Keep paragraphs moderate in length (3-5 sentences is ideal)
- - Maintain some stylistic variety rather than enforcing a single sentence structure
- 
- ### 5. Judicious Detail
- 
- - Retain vivid, meaningful details that advance character or plot
- - Reduce extensive background information to essential points
- - Keep sensory details that create atmosphere and setting
- - Focus on details that have emotional or narrative significance
- 
- ## Practical Guidelines
- 
- ### For Dialogue:
- 
- - Preserve character-defining speech patterns
- - Keep essential conversations intact
- - Trim extended dialogue exchanges that don't advance plot or character
- - Maintain distinctive voices while removing filler phrases
- 
- ### For Description:
- 
- - Condense lengthy descriptions to key, evocative details
- - Retain sensory information that places the reader in the scene
- - Focus on descriptions that reveal character or advance plot
- - Combine similar descriptive passages
- 
- ### For Narrative:
- 
- - Keep the main plot threads clear and well-developed
- - Reduce minor subplots or combine them when possible
- - Maintain emotional beats and character growth
- - Ensure cause-and-effect relationships remain clear
- 
- ## Technical Approach
- 
- ### Structure:
- 
- - Retain chapter divisions where meaningful
- - Consider combining short chapters with related content
- - Keep paragraph breaks to maintain readability
- - Ensure section breaks align with narrative shifts
- 
- ### Language:
- 
- - Prefer active voice but don't eliminate all passive constructions
- - Use concrete language but allow for some abstraction where appropriate
- - Reduce but don't eliminate modifiers (adjectives and adverbs)
- - Maintain the author's distinctive word choices when significant
- 
- ### Content Priorities:
- 
- 1. Plot progression and coherence
- 2. Character development and relationships
- 3. Thematic elements and symbols
- 4. Setting and atmosphere
- 5. Stylistic elements of the original
- 
- ### What to Typically Trim:
- 
- - Extended philosophical asides
- - Repetitive descriptions or information
- - Unnecessary backstory that doesn't impact the main narrative
- - Overly technical details unless central to the story
+>  # Reader's Digest Condensed Style Guide
+>  
+>  ## Core Principles
+>  
+>  ### 1. Clarity and Accessibility
+>  
+>  - Prioritize clear, straightforward prose that appeals to a broad audience
+>  - Use plain language without being simplistic
+>  - Explain necessary complex concepts without condescension
+>  - Aim for 8th-10th grade reading level
+>  
+>  ### 2. Conciseness
+>  
+>  - Trim excess without sacrificing essential content or flavor
+>  - Condense descriptive passages while preserving key details
+>  - Maintain the original author's voice in a more streamlined form
+>  - Cut repetition unless it serves a deliberate purpose
+>  
+>  ### 3. Narrative Flow
+>  
+>  - Ensure smooth transitions between scenes and ideas
+>  - Preserve the original story arc and character development
+>  - Combine related scenes when possible
+>  - Maintain emotional impact of key moments
+>  
+>  ### 4. Balanced Sentences
+>  
+>  - Mix short and medium-length sentences for good rhythm
+>  - Break up overly complex sentences into more digestible ones
+>  - Keep paragraphs moderate in length (3-5 sentences is ideal)
+>  - Maintain some stylistic variety rather than enforcing a single sentence structure
+>  
+>  ### 5. Judicious Detail
+>  
+>  - Retain vivid, meaningful details that advance character or plot
+>  - Reduce extensive background information to essential points
+>  - Keep sensory details that create atmosphere and setting
+>  - Focus on details that have emotional or narrative significance
+>  
+>  ## Practical Guidelines
+>  
+>  ### For Dialogue:
+>  
+>  - Preserve character-defining speech patterns
+>  - Keep essential conversations intact
+>  - Trim extended dialogue exchanges that don't advance plot or character
+>  - Maintain distinctive voices while removing filler phrases
+>  
+>  ### For Description:
+>  
+>  - Condense lengthy descriptions to key, evocative details
+>  - Retain sensory information that places the reader in the scene
+>  - Focus on descriptions that reveal character or advance plot
+>  - Combine similar descriptive passages
+>  
+>  ### For Narrative:
+>  
+>  - Keep the main plot threads clear and well-developed
+>  - Reduce minor subplots or combine them when possible
+>  - Maintain emotional beats and character growth
+>  - Ensure cause-and-effect relationships remain clear
+>  
+>  ## Technical Approach
+>  
+>  ### Structure:
+>  
+>  - Retain chapter divisions where meaningful
+>  - Consider combining short chapters with related content
+>  - Keep paragraph breaks to maintain readability
+>  - Ensure section breaks align with narrative shifts
+>  
+>  ### Language:
+>  
+>  - Prefer active voice but don't eliminate all passive constructions
+>  - Use concrete language but allow for some abstraction where appropriate
+>  - Reduce but don't eliminate modifiers (adjectives and adverbs)
+>  - Maintain the author's distinctive word choices when significant
+>  
+>  ### Content Priorities:
+>  
+>  1. Plot progression and coherence
+>  2. Character development and relationships
+>  3. Thematic elements and symbols
+>  4. Setting and atmosphere
+>  5. Stylistic elements of the original
+>  
+>  ### What to Typically Trim:
+>  
+>  - Extended philosophical asides
+>  - Repetitive descriptions or information
+>  - Unnecessary backstory that doesn't impact the main narrative
+>  - Overly technical details unless central to the story
 
 So, what does this get me?
 
 ```
- [!NOTE]
+ [!GEMINI]
  **Chapter 1: Arrival**
  
  The heavy Sri Lankan air promised more rain, but for now, the monsoon held back. Elliott Thorne stood surveying his new property near Galagedara – fifteen acres of former tea plantation, now wildly overgrown. Despite the tangle of jungle reclaiming the land, Elliott saw potential. He envisioned neat, productive terraces and, more importantly, the setting for the great novel about authentic rural life he planned to write.
@@ -1002,83 +1001,85 @@ But the rest of the chapter feels odd; as if the writers’-’ or in this case,
 
 Maybe let’s retrace our steps and do some comparisons on a fresh conversation. Let’s inject our chapter-by-chapter outline and this style guide again and ask for chapter #1 from Gemini and Claude. I’m going to trim the style guide a little:
 
- [!NOTE]
- # Reader's Digest Condensed Style Guide
- 
- ## Core Principles
- 
- ### 1. Clarity and Accessibility
- 
- - Prioritize clear, straightforward prose that appeals to a broad audience
- - Use plain language without being simplistic
- - Explain necessary complex concepts without condescension
- - Aim for 8th-10th grade reading level
- 
- ### 2. Conciseness
- 
- - Trim excess without sacrificing essential content or flavor
- - Condense descriptive passages while preserving key details
- - Maintain the original author's voice in a more streamlined form
- - Cut repetition unless it serves a deliberate purpose
- 
- ### 3. Narrative Flow
- 
- - Ensure smooth transitions between scenes and ideas
- - Preserve the original story arc and character development
- - Combine related scenes when possible
- - Maintain emotional impact of key moments
- 
- ### 4. Balanced Sentences
- 
- - Mix short and medium-length sentences for good rhythm
- - Break up overly complex sentences into more digestible ones
- - Keep paragraphs moderate in length (3-5 sentences is ideal)
- - Maintain some stylistic variety rather than enforcing a single sentence structure
- 
- ### 5. Judicious Detail
- 
- - Retain vivid, meaningful details that advance character or plot
- - Reduce extensive background information to essential points
- - Keep sensory details that create atmosphere and setting
- - Focus on details that have emotional or narrative significance
- 
- ## Practical Guidelines
- 
- ### For Dialogue:
- 
- - Preserve character-defining speech patterns
- - Keep essential conversations intact
- - Trim extended dialogue exchanges that don't advance plot or character
- - Maintain distinctive voices while removing filler phrases
- 
- ### For Description:
- 
- - Condense lengthy descriptions to key, evocative details
- - Retain sensory information that places the reader in the scene
- - Focus on descriptions that reveal character or advance plot
- - Combine similar descriptive passages
- 
- ### For Narrative:
- 
- - Keep the main plot threads clear and well-developed
- - Maintain emotional beats and character growth
- - Ensure cause-and-effect relationships remain clear
- 
- ## Technical Approach
- 
- ### Structure:
- 
- - Retain chapter divisions where meaningful
- - Consider combining short chapters with related content
- - Keep paragraph breaks to maintain readability
- - Ensure section breaks align with narrative shifts
- 
- ### Language:
- 
- - Prefer active voice but don't eliminate all passive constructions
- - Use concrete language but allow for some abstraction where appropriate
- - Reduce but don't eliminate modifiers (adjectives and adverbs)
- - Maintain the author's distinctive word choices when significant
+
+>  # Reader's Digest Condensed Style Guide
+>  
+>  ## Core Principles
+>  
+>  ### 1. Clarity and Accessibility
+>  
+>  - Prioritize clear, straightforward prose that appeals to a broad audience
+>  - Use plain language without being simplistic
+>  - Explain necessary complex concepts without condescension
+>  - Aim for 8th-10th grade reading level
+>  
+>  ### 2. Conciseness
+>  
+>  - Trim excess without sacrificing essential content or flavor
+>  - Condense descriptive passages while preserving key details
+>  - Maintain the original author's voice in a more streamlined form
+>  - Cut repetition unless it serves a deliberate purpose
+>  
+>  ### 3. Narrative Flow
+>  
+>  - Ensure smooth transitions between scenes and ideas
+>  - Preserve the original story arc and character development
+>  - Combine related scenes when possible
+>  - Maintain emotional impact of key moments
+>  
+>  ### 4. Balanced Sentences
+>  
+>  - Mix short and medium-length sentences for good rhythm
+>  - Break up overly complex sentences into more digestible ones
+>  - Keep paragraphs moderate in length (3-5 sentences is ideal)
+>  - Maintain some stylistic variety rather than enforcing a single sentence structure
+>  
+>  ### 5. Judicious Detail
+>  
+>  - Retain vivid, meaningful details that advance character or plot
+>  - Reduce extensive background information to essential points
+>  - Keep sensory details that create atmosphere and setting
+>  - Focus on details that have emotional or narrative significance
+>  
+>  ## Practical Guidelines
+>  
+>  ### For Dialogue:
+>  
+>  - Preserve character-defining speech patterns
+>  - Keep essential conversations intact
+>  - Trim extended dialogue exchanges that don't advance plot or character
+>  - Maintain distinctive voices while removing filler phrases
+>  
+>  ### For Description:
+>  
+>  - Condense lengthy descriptions to key, evocative details
+>  - Retain sensory information that places the reader in the scene
+>  - Focus on descriptions that reveal character or advance plot
+>  - Combine similar descriptive passages
+>  
+>  ### For Narrative:
+>  
+>  - Keep the main plot threads clear and well-developed
+>  - Maintain emotional beats and character growth
+>  - Ensure cause-and-effect relationships remain clear
+>  
+>  ## Technical Approach
+>  
+>  ### Structure:
+>  
+>  - Retain chapter divisions where meaningful
+>  - Consider combining short chapters with related content
+>  - Keep paragraph breaks to maintain readability
+>  - Ensure section breaks align with narrative shifts
+>  
+>  ### Language:
+>  
+>  - Prefer active voice but don't eliminate all passive constructions
+>  - Use concrete language but allow for some abstraction where appropriate
+>  - Reduce but don't eliminate modifiers (adjectives and adverbs)
+>  - Maintain the author's distinctive word choices when significant
+
+With this added as a text document, I say:
 
 ```
  [!YUDHA]
