@@ -139,7 +139,7 @@ I have even less to say about post-cyberpunk. Laurence Person had a pretty good 
 
 I think in practice post-cyberpunk sort of diffuses into a punk-less cyberpunk fog. This is really the problem of defining something as post-something. An identity that exists in negation to something is not an identity, it's just an inverted mirror.
 
-# Now that we’ve insulted everyone, let’s start to define Ricepunk.
+## Now that we’ve insulted everyone, let’s start to define Ricepunk.
 
 Ricepunk is a particular post-cyberpunk frame that I use to think about stories for my own work. In a nutshell, it:
 
@@ -195,7 +195,7 @@ Don't ask me that question, I don't know.
 
 ![]({{site.baseurl}}/images/projects/rice.jpeg)
 
-This image is called Empty Road in Between Rice Field. This is how I feel about RicePunk. It is an empty road between fields that have been planted by other people. I don't know if the road leads anywhere. I don't know if the other fields have already done what the road is supposed to be doing. Besides, I think it takes extraordinary confidence to declare something to fall into one category and one category only; that level of ontology eludes me.
+This image is called Empty Road in Between Rice Field. In 2025, this is how I feel about RicePunk. It is an empty road between fields that have been planted by other people. I don't know if the road leads anywhere. I don't know if the other fields have already done what the road is supposed to be doing. Besides, I think it takes extraordinary confidence to declare something to fall into one category and one category only; that level of ontology eludes me.
 
 All I know is that I will try to think about this stuff as I work and I will keep this framing in my mind as I go along.
 
