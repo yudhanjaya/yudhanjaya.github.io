@@ -8,7 +8,7 @@ image: /images/vibe/vibe.png
 
 “I don’t speak”, Bijaz said. “I operate a machine called language.”
 
-- Frank Herbet, Dune Messiah 
+--Frank Herbet, Dune Messiah 
 
 # A question, my dear Watson
 
@@ -17,16 +17,19 @@ Can an AI write a novel?
 
 I usually say no, or laugh. This time, I have a 33,000-word exploration (and its 50,000-something-word output) backing up a meandering *yes.* This is why. The Dune quote is very appropriate, given the Butlerian Jihadness you may feel reading this. 
 
-![]({{site.baseurl}}/images/vibe/1.png)
-
 # Introduction
 
  In the past, when people have asked me about this, my response has been no.  I can specifically point to why I say it *no.* I have specific experiences around the subject:
+ 
 
 1) OSUN and the Salvage Crew (I wanted not-great inhuman poetry. I got not-great inhuman poetry, albeit after reading thousands of really bad poems and stitching them together)
+
 2) The time I and a bunch of other writers tested Google's Lambda model for storytelling ability (We didn’t talk to each other, but if you read the paper, our general agreement seems to be that it's kind of crap, like a very tropey, amateur writer who goes off the rails once the context window is full - and that only was as much as a short, short story)
+
 3) Doing the same with GPT-J and a custom notepad implementation I wrote in Python (it was jank, but would try to read and suggest variations on the next paragraph)
+
 4) The Stranger in Pilgrim Machines (I wanted something that didn't properly understand how to communicate with a human in English, and I got what I wanted.)
+
 5) As a translator of (private) fantasy languages. I’ll share Lusitan and Samarskand at some other point, but basically I wanted some classical-sounding languages that had a customized SOV order and tenses, and was simpler for to work with for spellcasting purposes. It was pretty straightforward to write a very basic translation guide and tell a local model to act as a translator. My only problem is that I keep changing the language spec, so I keep breaking this thing. 
 
 In none of this did I see the kind of ability you need to pull off an actual novel. 
@@ -138,7 +141,9 @@ Okay. Let my brain be a blender. Let my rainwater catchment system work, dammit.
 > - **In the background, various neighbors have clashes over land ownership rights, water and differences in religion and belief systems, some of which are very ridiculous.** 
 
 
-Right, here's the setting it picked.
+![]({{site.baseurl}}/images/vibe/1.png)
+
+Here's the setting it picked.
 
 > [!Claude]
 > # HIGH COUNTRY SUSPICIONS
