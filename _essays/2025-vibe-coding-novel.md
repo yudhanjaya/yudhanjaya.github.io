@@ -22,13 +22,13 @@ I usually say no, or laugh. This time, I have a 33,000-word exploration (and its
  In the past, when people have asked me about this, my response has been no.  I can specifically point to why I say *no.* I have specific experiences in that strange traffic pile-up where AI meets novels:
  
 
-1) OSUN and the Salvage Crew (I wanted not-great inhuman poetry. I got not-great inhuman poetry, albeit after reading thousands of really bad poems and stitching them together)
+1) [OSUN and the Salvage Crew]([OSUN](https://yudhanjaya.com/project/2019-04-osun)) (I wanted not-great inhuman poetry. I got not-great inhuman poetry, albeit after reading thousands of really bad poems and stitching them together)
 
-2) The time I and a bunch of other writers tested Google's Lambda model for storytelling ability (We didn’t talk to each other, but if you read the paper, our general agreement seems to be that it's kind of crap, like a very tropey, amateur writer who goes off the rails once the context window is full - and that only was as much as a short, short story)
+2) [The time I and a bunch of other writers tested Google's Lambda model for storytelling ability]([2211.05030](https://arxiv.org/pdf/2211.05030)) (We didn’t talk to each other, but if you read the paper, our general agreement seems to be that it's kind of crap, like a very tropey, amateur writer who goes off the rails once the context window is full - and that only was as much as a short, short story)
 
 3) Doing the same with GPT-J and a custom notepad implementation I wrote in Python (it was jank, but would try to read and suggest variations on the next paragraph)
 
-4) The Stranger in Pilgrim Machines (I wanted something that didn't properly understand how to communicate with a human in English, and I got what I wanted.)
+4) The Stranger in Pilgrim Machines (I wanted something that didn't properly understand how to communicate with a human in English, and I got what I wanted. Which reminds me to upload the page for Pilgrim Machines. How did I forget?)
 
 5) As a translator of (private) fantasy languages. I’ll share Lusitan and Samarskand at some other point, but basically I wanted some classical-sounding languages that had a customized SOV order and tenses, and was simpler for to work with for spellcasting purposes. It was pretty straightforward to write a very basic translation guide and tell a local model to act as a translator. My only problem is that I keep changing the language spec, so I keep breaking this thing. 
 
@@ -133,18 +133,24 @@ Okay. Let my brain be a blender. Let my rainwater catchment system work, dammit.
 
 # The Outline
 
+
+
+```
+
 > [!YUDHA]
 > Hey Claude, write me an appropriate premise for a novel based on these ingredients. Give me two separate documents - one on the setting and characters, the other on the events of the novel:
 > 
 > - One, a novelist who has recently moved into his new homestead in a high mountain in a difficult climate. He is attempting to live out his dreams of homesteading and gardening, but is forced to confront the practical reality of building infrastructure, including roads, electricity supply, water. His plants are dying.
 > - To a local government employee who suspects that this novelist is actually starting weed cultivation. He escalates by getting the police involved and then becoming slowly increasingly more paranoid about it until he takes on almost an inquisitorial nature.
 > - In the background, various neighbors have clashes over land ownership rights, water and differences in religion and belief systems, some of which are very ridiculous.
-
+```
 
 ![]({{site.baseurl}}/images/vibe/1.png)
 
 Here's the setting it picked.
 
+
+```
 > [!CLAUDE]
 > # HIGH COUNTRY SUSPICIONS
 > 
@@ -179,10 +185,14 @@ Here's the setting it picked.
 > **Lyle Brubaker (68)** – A retired engineer and conspiracy theorist who has lived off-grid for decades. Constantly at odds with the county over building codes and property taxes. Becomes an unlikely ally to Elliott despite their different worldviews.
 > 
 > **Councilwoman Evelyn Porter (55)** – An ambitious local politician who sees the growing tensions as an opportunity to position herself for higher office by taking a hard stance on "maintaining community values.
+> 
+```
+
 
 And here's the plot it came up with:
 
-> [!NOTE]
+```
+> [!CLAUDE]
 > # HIGH COUNTRY SUSPICIONS
 > 
 > ## Plot Overview
@@ -243,6 +253,7 @@ And here's the plot it came up with:
 > - **Man vs. Nature**: The hubris of attempting to impose human will on an unforgiving natural environment
 > - **Property and Belonging**: Exploring what it truly means to "own" land and be steward of a place
 
+```
 
 Huh.
 
@@ -254,14 +265,16 @@ And themes - I don’t think about themes at this stage; that’s putting the ca
 
 Let’s tinker. 
 
-
+```
 > [!YUDHA]
 >  Set this in a fictional town that takes inspiration from the environment ofSri Lanka - tropical, a former colony.
 > 
 > It should still be set broadly within an Anglosphere and have broadly western aesthetics, but make sure every single place is fictional, from the village level to the country.
+```
 
 And here’s the output:
 
+```
 > [!CLAUDE]
 > 
 > # MONSOON CHRONICLES
@@ -356,14 +369,21 @@ And here’s the output:
 > - **Man vs. Nature**: The hubris of attempting to impose Western agricultural methods on a tropical environment without understanding local ecological wisdom
 > - **Property and Belonging**: Exploring what it truly means to "own" land with a colonial history and be a responsible steward in a place where ownership has been repeatedly redefined by conquest and liberation
 > 
+```
 
-Serendipa, Emerald Heights and Westhill all sound very cliche, so let’s just change it back to Sri Lanka, Galagedara and Kandy respectively.
+Serendipa, Emerald Heights and Westhill all sound very cliche, so let’s just change it back to Sri Lanka, Galagedara and Kandy respectively. Steering it into familiar waters gives me a better basis to judge from.
 
 Here’s my next prompt to Claude:
 
+```
 > [!YUDHA]
 > Turn this into a chapter-by-chapter outline of events, with each chapter outline providing enough information on plot threads and narrative key points for a writer to reconstruct the chapter from scratch using just the outlines.
 
+```
+
+And the response:
+
+```
 > [!CLAUDE]
 > 
 > # MONSOON CHRONICLES
@@ -567,9 +587,12 @@ Here’s my next prompt to Claude:
 > - Rain begins to fall, but now everyone simply adjusts rather than resists.
 > - The final scene shows Elliott writing outdoors despite the rain, no longer trying to control his environment but adapting to it.
 > - The last lines of his manuscript echo the themes of belonging, humility, and the complex legacy of colonial history.
+```
+
 
 ![]({{site.baseurl}}/images/vibe/2.png)
-The outline is usable. This kind of book isn’t my cup of tea, and it’s a little too neatly tied together for my tastes, but I can recognize carpentry solid enough for this experiment here.
+
+The outline is usable. This kind of book isn’t my cup of tea, and it’s a little too neatly tied together for my tastes, but I can recognize carpentry solid enough for this experiment here. Honestly, if I wrote off this outline, I could come up with something good here. 
 
 # Trying (and Failing) with Gemini
 
@@ -583,10 +606,12 @@ My initial bias is towards Gemini. There are three reasons. One is that one mill
 
 But first, I want to get a sense of how Gemini writes.
 
+```
 > [!YUDHA]
 > We have an outline for a novel. Using this, I want you to write the first chapter.
+```
 
-
+```
 > [!GEMINI]
 > 
 > **Chapter 1: Arrival**
@@ -626,7 +651,7 @@ But first, I want to get a sense of how Gemini writes.
 > _“Day One,”_ he wrote, the ink flowing smooth and dark. _“Galagedara. Have arrived. The land is magnificent – wild, potent, brimming with the untamed spirit I came here to find. This is authentic Sri Lanka, far from the tourist trails and curated experiences. The air itself feels ancient. The real work begins now, both on the land and on the page. The soul of this place is palpable, waiting to be understood, waiting to be written…”_
 > 
 > Outside, unnoticed, the first heavy drops of rain began to fall, splattering against the remaining roof sheets like scattered pebbles, heralding the return of the monsoon’s full, indifferent power. The storm clouds, no longer merely gathering, had arrived.
-
+```
 
 There are several things here that I’m impressed by. One, Sri Lanka has two growing seasons - yala and maha. This has got it right on the dot without me asking for it. The description of rain is also pretty realistic: proper rains here turn land into cheese unless you’ve got terraces backed up by walls (in my case, old wood and stakes until I get some more granite and bricks in).
 
@@ -637,7 +662,7 @@ There are several things I’m not impressed by. Albizia does grow in Sri Lanka,
 The language, also, is not something I like. There's a bizarre artificiality to it. You know how people say they can recognise ChadGPT writing? This feels a little bit like that. So let me write a style guide and see if we can give the LLM both the outline and the style guide together. In fact, let's go with a style that a lot of readers come across at some point: Hemingway. 
 
 > [!NOTE]
-> # Hemmingway as a Language Guide for LLMs
+> # Hemmingway Style
 > 
 > ## Core Principles
 > 
@@ -738,6 +763,7 @@ The language, also, is not something I like. There's a bizarre artificiality to 
 
 This isn't an optimised prompt in any way; this is just sort of me sitting down and thinking how would I distil Hemingway's style and just putting stuff together. But that should do. Let me inject this and see what comes up:
 
+```
 > [!GEMINI]
 > **Chapter 1: Arrival**
 > 
@@ -763,7 +789,8 @@ This isn't an optimised prompt in any way; this is just sort of me sitting down 
 > 
 > Outside, the first drops fell. Heavy drops. They hit the iron roof. Pop. Pop. Elliott wrote. The ink was dark on the page. He did not look up. The storm gathered. The rain came harder.
 > 
-> 
+```
+
 
 We may have overshot a little. What worked for Hemmingway doesn’t work here - it feels like getting repeatedly shot with small-caliber sentences.
 
@@ -866,7 +893,7 @@ Let me try something else. Does anyone remember Reader’s Digest Condensed book
 
 So, what does this get me?
 
-
+```
 > [!NOTE]
 > **Chapter 1: Arrival**
 > 
@@ -885,12 +912,15 @@ So, what does this get me?
 > As dusk settled, painting the bruised clouds purple and grey, Elliott retreated into the musty shed. By the glow of a battery lantern, he opened his fresh leather-bound journal. Ignoring the damp chill and the distant rumble of thunder that vibrated through the ground, he began to write. _“Day One. Galagedara. Have arrived. The land is magnificent – wild, potent, brimming with the untamed spirit I came here to find. This is authentic Sri Lanka…”_
 > 
 > Outside, unnoticed by the enthusiastic writer, the first heavy drops of the returning monsoon splattered against the loose iron sheets on his roof. The storm clouds were no longer just gathering; they had arrived.
-> 
+
+```
+
 
 The result below isn’t exactly RD prose, but it is somewhere within thirty miles of that sensibility. I certainly prefer it to the staccato drill of the faux-Hemmingway.
 
 If I say “**Continue. Write the next three chapters**”, what does Gemini “think”? 
 
+```
 > [!GEMINI]
 > 
 > The user wants the next three chapters (Chapters 2, 3, and 4) of _Monsoon Chronicles_, written in the **Reader's Digest Condensed Style**. I need to use the provided outline for these chapters and apply the RD style principles (clarity, conciseness, flow, balanced sentences, judicious detail, preserving core plot/character).
@@ -929,7 +959,7 @@ If I say “**Continue. Write the next three chapters**”, what does Gemini “
 > - Verify that only _essential_ details from the outline are included. Cut descriptions that don't advance plot or character significantly.
 > - Maintain Elliott's slightly naive/overconfident perspective in Chapters 2 & 3, contrasting with Vikram's growing suspicion in Chapter 4.
 > - Make sure the language remains accessible (8th-10th grade level).
-
+```
 
 Reading through this thought process is both impressive and slightly disturbing. If you take it at face value, it's a pretty accurate deconstruction of what I'm asking for and a very good conversion of that request into notes for each chapter. 
 
@@ -939,8 +969,8 @@ But that's face value. I'm still not entirely convinced that the thought process
 
 Indeed, look at what it came up with for chapters three and four.
 
-
-> [!NOTE]
+```
+> [!GEMINI]
 > ### Chapter 3: Breaking Ground
 > 
 > Back on his land, Elliott hired a few local men to begin clearing the dense undergrowth for his planned gardens. They worked steadily, but occasionally paused, pointing out the thinness of the topsoil on the slopes and murmuring warnings about erosion during heavy rains. Elliott, eager to implement the designs from his imported gardening books, brushed off their concerns, instructing them to clear specific areas according to his diagrams.
@@ -960,10 +990,11 @@ Indeed, look at what it came up with for chapters three and four.
 > Driving past Elliott’s property during a downpour later that week, Vikram slowed his car, peering through the rain-streaked windscreen. He noted unusual, half-finished structures going up near the diverted stream and stacks of imported materials partially covered by tarpaulins. His suspicions mounting, Vikram visited the shipping office in Kandy. He discovered records showing Elliott had received several large packages from overseas agricultural suppliers known to deal in hydroponic equipment – technology often associated with illicit cultivation.
 > 
 > That night, Vikram pinned a map of Elliott’s land to the wall in his small home office. He began connecting notes with lengths of string – Elliott’s vague plans, the water dispute, the Pastor’s warnings, the imported supplies, the old drug cases. A web of suspicion began to take shape, solidifying his conviction that Elliott Thorne was hiding something illegal. His wife watched him, a worried frown creasing her brow, but Vikram waved away her concerns, his focus entirely consumed by the map on the wall.
-> 
+
+```
 
 
-They’re not really chapters. It feels like an odd transition point between chapter and outline.
+It feels like  it's forever caught between an odd transition point between chapter and outline.
 
 Telling Gemini to rewrite the chapter for length yields some more details, like this interaction between Vikram and Elliot. And there's even this interesting piece about a European couple saying that they're going to try homesteading. And they were using that as cover to grow some prime gunja. That's actually quite nice. 
 
@@ -1049,11 +1080,14 @@ Maybe let’s retrace our steps and do some comparisons on a fresh conversation.
 > - Reduce but don't eliminate modifiers (adjectives and adverbs)
 > - Maintain the author's distinctive word choices when significant
 
+```
 > [!YUDHA]
 > Using this style guide and this chapter-by-chapter outline, give me the first chapter.
+```
 
 Gemini 2.5: 
 
+```
 > [!GEMINI]
 > 
 > Okay, here is Chapter 1 of "Monsoon Chronicles," written according to the chapter outline and the Reader's Digest Condensed Style Guide.
@@ -1080,9 +1114,11 @@ Gemini 2.5:
 > 
 > Night fell quickly, bringing with it a chorus of unseen creatures. Inside the damp shed, Elliott ignored the leaking roof and the gathering storm clouds outside. By the flickering light of a battery-powered lamp, he opened his journal. "Arrival," he wrote, the pen scratching enthusiastically across the page. "The air breathes authenticity. This is the real Sri Lanka, untouched, waiting. The perfect crucible for my work." He wrote late into the night, mapping out grand agricultural designs and novelistic themes, oblivious as the wind began to pick up, rattling the loose tin roof like a warning.
 
+```
 
 Claude 3.7 Sonnet:
 
+```
 > [!CLAUDE]
 > 
 > # MONSOON CHRONICLES
@@ -1157,6 +1193,7 @@ Claude 3.7 Sonnet:
 > 
 > Tomorrow, Elliott promised himself as water dripped rhythmically into containers around him, he would tackle the roof repairs Lalitha had suggested. For now, he would endure his first night in Galagedara as water pooled on the floor and the wind howled through the jungle—the perfect opening scene, he decided, for a novel about a man finding his place in a world both beautiful and unforgiving.
 > 
+```
 
 Right, so one thing is immediately obvious. Claude is clearly a lot better at this than Gemini. At least it seems to have understood the form of a novel. I love the fact that it's invented transport, which we didn't really mention in our outline. There's a bus that takes Elliot to a place and then a tuk-tuk that takes him further. 
 
@@ -1168,7 +1205,7 @@ Now, before I make a choice here, a little bird whispered to me that Google's Ge
 
 Gemini 2.5 Pro Preview 03-25 is available at a default temperature of 1. Same prompt. Once again the thinking process sounds impressive - even more so than previously.
 
-
+```
 > [!GEMINI]
 > 
 > Here's a thinking process that could lead to the first chapter of Monsoon Chronicles, following the provided style guide and outline:
@@ -1273,6 +1310,7 @@ Gemini 2.5 Pro Preview 03-25 is available at a default temperature of 1. Same pr
 >         
 > 1. **Final Polish:** Check for grammar, spelling, and punctuation. Read aloud to catch awkward phrasing or rhythm issues. Ensure the chapter ends with a sense of anticipation or slight unease, setting up future conflict.
 
+```
 
 As an aside: I don't really know why I'm so hesitant to accept this as a valid thinking process. Honestly, if I was teaching a novice writer and based in this as sort of a diary of their thoughts while writing a chapter, I would have been brought overjoyed and also slightly startled by the fact that they had managed to journal the whole thing with such clarity. But when a large language model does it, I’m slightly less impressed. 
 
@@ -1280,6 +1318,7 @@ Why is this? Maybe it's because I know too much about how LLMs work, maybe it's 
 
 Anyway. Here's what Gemini in AI studio has for me:
 
+```
 > [!GEMINI]
 > 
 > Okay, here is Chapter 1 written according to the chapter outline and the Reader's Digest Condensed Style Guide.
@@ -1361,6 +1400,8 @@ But it’s still missing stuff that Claude managed without being explicitly told
 > 
 > Elliott had waved away the concerns then, fueled by a conviction that only total immersion could yield true art. Now, facing the sheer wildness of his purchase, the sheer remoteness, a flicker of doubt surfaced, quickly extinguished. This was it. This untamed beauty, this isolation, was the point.
 
+```
+
 Right, so we have a choice here. One is I can keep using Gemini and essentially just keep fretting away and fixing little details; or I can stick to Claude for ease of use. Claude seems to have a somewhat superior sense of the novel.
 
 This isn’t a very scientific experiment. Let’s just try them head to head, for three chapters, and see what we get. 
@@ -1369,6 +1410,7 @@ This isn’t a very scientific experiment. Let’s just try them head to head, f
 # Claude Versus Gemini: The First Three Chapters
 
 
+```
 > [!GEMINI]
 > # PART ONE: SEEDS OF AMBITION
 > 
@@ -1494,13 +1536,18 @@ This isn’t a very scientific experiment. Let’s just try them head to head, f
 > 
 > Surrounded by darkness and the relentless sound of the storm, Elliott felt a chilling wave of vulnerability wash over him. This wasn't just about cultivating land; it was about navigating a complex reality, one where nature and history held far more power than he had ever anticipated. The rain hammered on, each drop seeming to underscore the depth of his miscalculation.
 
-So, this is what Gemini gives us. Actually, what it gave us was a little bit shorter; in between these chapters I have been prompting it to expand on its writing very slightly.
+```
 
+So this is what Gemini gives us. Actually, what it gave us was a little bit shorter; in between these chapters I have been prompting it to expand on its writing very slightly.
+
+```
 > [!YUDHA]
 > Give me Chapter 3. Apply the same thinking as before - more detail about Elliott's journey, observations, and internal state, while keeping the concise style in mind.
+```
 
-And here’s Claude:
+And here’s Claude, minus the write-longer prompting:
 
+```
 > [!CLAUDE]
 > # MONSOON CHRONICLES
 > 
@@ -1785,9 +1832,9 @@ And here’s Claude:
 > As the night deepened, the rain continued its relentless assault. Elliott lay on his sleeping platform, listening to the water finding new entry points into his temporary home. Lalitha's warning echoed in his mind: _When the rains come, they come suddenly and without mercy_.
 > 
 > He'd dismissed her concern as provincial caution. Now, as water pooled around the legs of his makeshift desk and his carefully drawn garden plans curled in the damp air, Elliott began to wonder what other local wisdom he had too quickly disregarded.
+```
 
-
-That’s honestly enough back and forth for me. My initial feeling about Claude having the better sense of novel was completely true. It produces text that seems far more plausibly human-esque. The whole water theft is actually seeded well, with the bureaucrat asking Elliot whether he is going to maintain the same water structures, and with the workers showing concern about Elliot’s changes. 
+That’s honestly enough back and forth for me. My initial feeling about Claude having the better sense of novel was completely true. It produces text that seems far more plausibly human-esque in a single shot. The whole water theft is actually seeded well, with the bureaucrat asking Elliot whether he is going to maintain the same water structures, and with the workers showing concern about Elliot’s changes. 
 
 The agricultural procedures are largely nonsense, but plausible nonsense. See, in Sri Lanka, land can be classified as growing land, yes. Largely for rice. And once classified as such, you cannot build on it. No houses, no vertical farms. There is nothing to prevent you from growing horizontally on it; but much also depends on whether you’re growing as part of your personal residence or whether you want business permits. The general experience of dealing with a petty bureaucrat has, I feel, the correct vibe. Even the ceiling fan stirring the humid air and fluorescent lights with their unflattering glow is quite accurate to reality.
 
@@ -1801,7 +1848,7 @@ Now, while I relentlessly copy-paste, copy-paste and copy-paste back and forth, 
 
 Five years ago, I bought a piece of land in Galagedara, Kandy. I won't say exactly where, but suffice it to say that it was the rear end of an old tea estate. It wasn't entirely isolated from civilization. It was about two kilometers to a main road but it was on the other end of rambling and eclectic collection of mountain roads. Some of them were more footpaths through the mud than anything else. 
 
-I didn't care. This was  a step on a quest that I had been obsessed with for over a decade at this point .I wanted a house. I wanted a massive garden where I could grow things - vegetables, flowers; a space that I could transform into, not an oasis in the desert, but a great blooming on the mountain; a place where I could look up and see the sky and enjoy it completely devoid of the skeletons of glass and concrete and steel that climbed around me wherever I went in the city.
+I didn't care. This was  a step on a quest that I had been obsessed with for over a decade at this point. I wanted a house. I wanted a massive garden where I could grow things - vegetables, flowers; a space that I could transform into, not an oasis in the desert, but a great blooming on the mountain; a place where I could look up and see the sky and enjoy it completely devoid of the skeletons of glass and concrete and steel that climbed around me wherever I went in the city.
 
 I am also a novelist, so in true form I did my research novel-style; reading the experiences of people who had done this, trying to understand the world through their eyes. My partner and I fell in love with the whole permaculture movement. We watched a fantastic movie by Happen Films called Fools and Dreamers. In between wondering what happened to actual Sri Lankan capacity to grow vegetables and so on and exist outside the state-subsidized monocrop culture, we furiously planned everything that we would grow. We set ambitious goals for ourselves.
 
@@ -1817,7 +1864,6 @@ You get the picture. Imagine a combination of Kafka's bureaucracy, lack of mater
 
 Now, fortunately, we are not overrun, as it were. We have instead paced ourselves and figured out saner plans and realized that farmers on YouTube are not necessarily an ideal source of real life advice on this part of the journey. But I say this as a way of conveying some of my shock in seeing these AI models hitting so close to some truth that I have practically experienced. Maybe there's a lot of text out there about Sri Lankans trying to rehabilitate old tea estates, but I don't think so. I am legitimately curious as to how much of this experience it can pick up on.
 
-
 # The Production Line, and My Feelings Within 
 
 One of the things that I've observed with state-of-the-art LLMs is that they're much better at planning a thing than doing the thing. This may seem very counterintuitive. But think of that one person that you know who is the ‘‘idea guy”. Elaborate ideas, much much lower skill in actual execution and seeing the thing through to the final form.
@@ -1826,10 +1872,13 @@ LLMs strike me as being similar. You see, when I try to use them for coding, the
 
 Consider this exchange which happened at chapter 5.
 
+```
 > [!YUDHA]
 > This feels a little too on the nose. How do we make it subtler?
 
+```
 
+```
 > [!CLAUDE]
 > You're right that parts of Chapter 5 feel too direct or explanatory. Let me revise it to make the themes and character development more subtle and nuanced. The goal would be to show rather than tell Elliott's failures and his reluctance to adapt, letting readers draw their own conclusions.
 > 
@@ -1841,22 +1890,27 @@ Consider this exchange which happened at chapter 5.
 > 4. Show the contrast between Elliott's Western methods and local approaches through specific details rather than general statements
 > 5. Use the environment and weather as metaphors rather than directly stating their significance
 
+```
 
 The thought process and the approach - sure, seems good. Execution, not so much. As much as it fixes, it does damage as well. Consider this addition:
 
+```
 > [!CLAUDE]
 > Lalitha studied the drawings, her face revealing nothing. "Interesting," she said finally. She passed the papers back to him. "You know, if you'd like to see something different..." She paused, watching his expression. "My family's garden survived the great flood of '93. And the one in '07."
+```
 
 Floods in Kandy? Particularly in this part of Kandy? Extremely unlikely. Landslides make sense, but great landslides of 93 and 07 don’t sit well: unless there's a whole mountain sliding off the shelf somewhere, we kind of don't refer to them like that.
 
+If you know anything about Anthropic's Claude, it's that conversation limits will eventually get you. At some point I had to say the following:
 
-At some point I had to say the following:
-
+```
 > [!YUDHA]
 > Give me a summary of all the events thus far and all the necessary character, plot and environment information for Claude to continue writing this book in a new chat
+```
 
 This gave me the following document:
 
+```
 > [!NOTE]
 > # Monsoon Chronicles - Summary of Events and Elements
 > 
@@ -2080,10 +2134,11 @@ This gave me the following document:
 > - Eventual restoration of balance and understanding
 > 
 > The writing style follows Reader's Digest Condensed Style Guide principles, focusing on clarity, conciseness, natural narrative flow, balanced sentences, and judicious detail. The approach is subtle rather than direct, showing character development and themes through specific details and actions rather than explicit statements.
+```
 
-This mostly worked, but the agent has gone from being “Margot” to “Martin”.
+This mostly worked, but the literary agent, in subsequent chapters, went from being “Margot” to “Martin”. Obviously a more sophisticated store of information could easily solve this problem; in fact you could do it easily via the API.
 
-And note that I do have to keep reminding Claude to be more subtle, with or without the style guide. It seems a little hardwired to make on-the-nose observations; show-don’t-tell in the middle, but lots of tell-don’t-show where you least expect it. 
+I do have to keep reminding Claude to be more subtle, with or without the style guide. It seems a little hardwired to make on-the-nose observations; show-don’t-tell in the middle, but lots of tell-don’t-show where you least expect it. 
 
 Sometimes it slips into very formal language - all the dialogue starts to feel like a bunch of people from the LessWrong forums. Sometimes its corrections aren’t corrections, and it retreads the same patch over and over again (for this chapter, seven times).
 
@@ -2096,6 +2151,7 @@ There are things to fix. Yes, all the chapters have this curve towards a very fo
 
 But it is decent. Or rather: it could be made decent. Not a 9/10, but with enough sawing and hammering, a 6/10 could emerge.
 
+```
 > [!CLAUDE]
 > "I didn't intend to become a focal point for water disputes," Elliott said.
 > 
@@ -2129,6 +2185,7 @@ But it is decent. Or rather: it could be made decent. Not a 9/10, but with enoug
 > 
 > "Perhaps not. We all contain multitudes." The botanist adjusted his satchel. "I'll bring those pepper seedlings tomorrow, if the rain holds. They'll thrive in your northwestern bed, regardless of politics."
 
+```
 
 Quite frankly I've seen a lot worse. In drafts and sometimes even in final published work. In fact, I would be completely amiss if I didn't mention just how advanced AI instruction following has gotten.
 
@@ -2140,6 +2197,7 @@ But here's the rub. These things are getting progressively more competent; and i
 
 The fact that we can go from the idea to outline to this in a few terse, one sentence requests is nothing short of mind blowing.
 
+```
 > [!CLAUDE]
 > Vikram arrived precisely at nine, his official Land Management vehicle splashing through puddles on the access road. He emerged immaculately dressed despite the muddy surroundings, a clipboard tucked under his arm and a digital camera hanging from his neck. His shoes—practical rubber boots rather than his usual office footwear—were the only concession to the conditions.
 > 
@@ -2199,11 +2257,15 @@ The fact that we can go from the idea to outline to this in a few terse, one sen
 > 
 > "Scale is relative, Mr. Thorne. And infrastructure often reveals intention more honestly than verbal declarations." Vikram tucked his clipboard under his arm. "Good day."
 
-Look at how much is done right here. Vikram wears rubber boots. He is suspicious of grow lights. All of these things that Eliot has brought over are atypical here: the zeitgeist is accurate. It's maintained its context of the conflict set up previously: the water issue with the Wickramasinghes. And *Infrastructure often reveals intention more honestly than verbal declarations* is not a particularly poetic line, but it does go hard. 
+```
+
+Look at how much is done right here. Vikram wears rubber boots. He is suspicious of grow lights. All of these things that Eliot has brought over are atypical here: the zeitgeist is accurate. It's maintained its context of the conflict set up previously: the water issue with the Wickramasinghes. And *Infrastructure often reveals intention more honestly than verbal declarations* is not a particularly poetic line, but it does go hard.
+
+Okay, it might go hard, with some editing.
 
 But the amazement wore off quickly. Somewhere around the tenth chapter, that is to say, halfway in, my eyes were glazing over. I needed periodic coffee breaks and to go pet one of the cats. I put on my headphones and listened to Philip Glass for a while, just to take my mind to a slightly saner place.
 
-Yes, the technology is amazing, but I'm reminded of something that supposedly happened during the filming of the Hobbit movies. Because of the Hobbit's reliance on CGI, Sir Ian McKellen, the extraordinary actor who plays Gandalf, was relegated to spending a great deal of his time in front of a green screen, separated from his co-stars for long periods of time. Here’s the [link to the story](https://www.express.co.uk/entertainment/films/1479651/lord-of-the-rings-ian-mckellen-gandalf-the-hobbit-broke-down-cried). 
+Yes, the technology is amazing, but I'm reminded of something that supposedly happened during the filming of the Hobbit movies. Because of the Hobbit's reliance on CGI, Sir Ian McKellen, the extraordinary actor who plays Gandalf, was relegated to spending a great deal of his time in front of a green screen, separated from his co-stars for long periods of time. Here’s the [link to the story](https://www.express.co.uk/entertainment/films/1479651/lord-of-the-rings-ian-mckellen-gandalf-the-hobbit-broke-down-cried).
 I’ll put the salient bit here:
 
 *He said at the time: "In order to shoot the dwarves and a large Gandalf, we couldn't be in the same set. All I had for company was 13 photographs of the dwarves on top of stands with little lights - whoever's talking flashes up." 
