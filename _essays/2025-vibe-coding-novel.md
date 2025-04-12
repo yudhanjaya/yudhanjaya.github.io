@@ -19,7 +19,7 @@ I usually say no, or laugh. This time, I have a 33,000-word exploration (and its
 
 # Introduction
 
- In the past, when people have asked me about this, my response has been no.  I can specifically point to why I say it *no.* I have specific experiences around the subject:
+ In the past, when people have asked me about this, my response has been no.  I can specifically point to why I say *no.* I have specific experiences in that strange traffic pile-up where AI meets novels:
  
 
 1) OSUN and the Salvage Crew (I wanted not-great inhuman poetry. I got not-great inhuman poetry, albeit after reading thousands of really bad poems and stitching them together)
@@ -44,7 +44,7 @@ You could have fun with these things. Robin Sloan, for example, did some very ea
 
 But this prep work required going far and above the publicly available tooling, and honestly was a stupid amount of work. They did harm anyone, and certainly weren't going to take any livelihoods away, so experimenting was fun.
 
-And so this is what I say whenever this question comes up at the lit fests that I speak at. Can an AI write a novel? No.
+And so this is what I say whenever this question comes up at the lit fests that I speak at. "Can an AI write a novel? No."
 
 ***
 
@@ -2290,9 +2290,9 @@ At least I now have an updated answer. What took some nudging today might take o
 
 Interesting stuff is hard to find. Most people working in tech seem to have no understanding of psychology, and vice versa. There’s a lot of hype, there’s a lot of fear, uncertainty and doubt, there’s certainly going to be a lot of lawsuits, and there are a lot of people cashing in on all these things. 
 
-1. Gwern Branwen’s essays are always worth reading: https://gwern.net/index
+1. [Gwern Branwen’s essay](https://gwern.net/index)s are always worth reading
 2. [AI 2027](https://ai-2027.com/). Good stuff. Terrifying. Very plausible.
-3. Ethan Mollick has been increasingly exploring (and evangelizing) the hybrid human-AI mode of interaction. See https://www.oneusefulthing.org/p/the-cybernetic-teammate to start with. 
+3. Ethan Mollick has been increasingly [exploring (and evangelizing) the hybrid human-AI mode of interaction.  ]( https://www.oneusefulthing.org/p/the-cybernetic-teammate)
 4. Edward Newton-Rex, who not only articulates all the issues on copyright, but actually fights them. [Ed Newton-Rex](https://ed.newtonrex.com/) is his site, but Twitter is the best place to follow him. 
 5. Robin Sloan, one of the pioneers in this particular niche, has a great essay: [Is it okay?](https://www.robinsloan.com/lab/is-it-okay/) 
 
