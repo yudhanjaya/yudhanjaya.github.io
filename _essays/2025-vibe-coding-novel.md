@@ -80,7 +80,7 @@ Here’s what’s pertinent to the story.
 
 I don't see these trends dropping or going away in time soon. For more reading, see [AI 2027](https://ai-2027.com/) by Daniel Kokotajlo, Scott Alexander, Thomas Larsen, Eli Lifland and Romeo Dean. It's a work of fiction, and a little bit narrow minded to my view; but I can see why it had to be narrow minded and I can also see how it's going to be disturbingly prophetic.
 
-In the writing sphere, we come to a company called Sudowrite. Sudowrite went viral for their founder’s “soup to nuts” claim of generating a story with AI. Pseudowrite, a tool I wrote as a parody/demo for an Augsberg MFA panel (https://github.com/yudhanjaya/pseudowrite), didn’t do as much as Sudowrite, but it could take your idea and turn it into increasingly fleshed out, highly templated act structure using what OpenAI GPT 3.5 and GPT 4. My program certainly could not write your chapters for you, but it could take a vague idea and turn it into the Hero’s Journey pattern that some people love so much.
+In the writing sphere, we come to a company called Sudowrite. Sudowrite went viral for their founder’s “soup to nuts” claim of generating a story with AI.[ Pseudowrite, a tool I wrote as a parody/demo for an Augsberg MFA panel](https://github.com/yudhanjaya/pseudowrite), didn’t do as much as Sudowrite, but it could take your idea and turn it into increasingly fleshed out, highly templated act structure using what OpenAI GPT 3.5 and GPT 4. My program certainly could not write your chapters for you, but it could take a vague idea and turn it into the Hero’s Journey pattern that some people love so much.
 
 Looking at what it produced, it was very clear that stuff was still very tropey, very bog-standard, very predictable. Paint-by-the-numbers thinking. My inference from this was that there would come a point very soon where large language models could feasibly act in a support role for a lot of new or inexperienced writers - or replace a part of the workflow of the creation highly templated, very predictable,  conventionally structured fiction.  In other words, if your stuff was bog-standard, if it was at the middle of that proverbial bell curve, then large language models would catch up. 
 
@@ -134,11 +134,11 @@ Okay. Let my brain be a blender. Let my rainwater catchment system work, dammit.
 # The Outline
 
 > [!YUDHA]
-> **Hey Claude, write me an appropriate premise for a novel based on these ingredients. Give me two separate documents - one on the setting and characters, the other on the events of the novel:**
+> Hey Claude, write me an appropriate premise for a novel based on these ingredients. Give me two separate documents - one on the setting and characters, the other on the events of the novel:
 > 
-> - **One, a novelist who has recently moved into his new homestead in a high mountain in a difficult climate. He is attempting to live out his dreams of homesteading and gardening, but is forced to confront the practical reality of building infrastructure, including roads, electricity supply, water. His plants are dying.**
-> - **To a local government employee who suspects that this novelist is actually starting weed cultivation. He escalates by getting the police involved and then becoming slowly increasingly more paranoid about it until he takes on almost an inquisitorial nature.**
-> - **In the background, various neighbors have clashes over land ownership rights, water and differences in religion and belief systems, some of which are very ridiculous.** 
+> - One, a novelist who has recently moved into his new homestead in a high mountain in a difficult climate. He is attempting to live out his dreams of homesteading and gardening, but is forced to confront the practical reality of building infrastructure, including roads, electricity supply, water. His plants are dying.
+> - To a local government employee who suspects that this novelist is actually starting weed cultivation. He escalates by getting the police involved and then becoming slowly increasingly more paranoid about it until he takes on almost an inquisitorial nature.
+> - In the background, various neighbors have clashes over land ownership rights, water and differences in religion and belief systems, some of which are very ridiculous.
 
 
 ![]({{site.baseurl}}/images/vibe/1.png)
@@ -256,9 +256,9 @@ Let’s tinker.
 
 
 > [!YUDHA]
->  **Set this in a fictional town that takes inspiration from the environment ofSri Lanka - tropical, a former colony.**
+>  Set this in a fictional town that takes inspiration from the environment ofSri Lanka - tropical, a former colony.
 > 
-> **It should still be set broadly within an Anglosphere and have broadly western aesthetics, but make sure every single place is fictional, from the village level to the country.**
+> It should still be set broadly within an Anglosphere and have broadly western aesthetics, but make sure every single place is fictional, from the village level to the country.
 
 And here’s the output:
 
@@ -362,7 +362,7 @@ Serendipa, Emerald Heights and Westhill all sound very cliche, so let’s just c
 Here’s my next prompt to Claude:
 
 > [!YUDHA]
-> **Turn this into a chapter-by-chapter outline of events, with each chapter outline providing enough information on plot threads and narrative key points for a writer to reconstruct the chapter from scratch using just the outlines.**
+> Turn this into a chapter-by-chapter outline of events, with each chapter outline providing enough information on plot threads and narrative key points for a writer to reconstruct the chapter from scratch using just the outlines.
 
 > [!CLAUDE]
 > 
@@ -584,7 +584,7 @@ My initial bias is towards Gemini. There are three reasons. One is that one mill
 But first, I want to get a sense of how Gemini writes.
 
 > [!YUDHA]
-> **We have an outline for a novel. Using this, I want you to write the first chapter.**
+> We have an outline for a novel. Using this, I want you to write the first chapter.
 
 
 > [!GEMINI]
@@ -1050,7 +1050,7 @@ Maybe let’s retrace our steps and do some comparisons on a fresh conversation.
 > - Maintain the author's distinctive word choices when significant
 
 > [!YUDHA]
-> **Using this style guide and this chapter-by-chapter outline, give me the first chapter.**
+> Using this style guide and this chapter-by-chapter outline, give me the first chapter.
 
 Gemini 2.5: 
 
@@ -1329,7 +1329,7 @@ This is much, much better than Gemini through the web interface. Particularly, i
 But it’s still missing stuff that Claude managed without being explicitly told. Can we nudge Gemini further?
 
 > [!YUDHA]
-> **Modify the opening slightly. We want Elliott to take first a bus, then a tuk-tuk up to this property. Describe the scenery on the way, as well as Eliott's feelings of isolation**
+> Modify the opening slightly. We want Elliott to take first a bus, then a tuk-tuk up to this property. Describe the scenery on the way, as well as Eliott's feelings of isolation.
 
 > [!GEMINI]
 > 
@@ -1827,7 +1827,8 @@ LLMs strike me as being similar. You see, when I try to use them for coding, the
 Consider this exchange which happened at chapter 5.
 
 > [!YUDHA]
-> **This feels a little too on the nose. How do we make it subtler?**
+> This feels a little too on the nose. How do we make it subtler?
+
 
 > [!CLAUDE]
 > You're right that parts of Chapter 5 feel too direct or explanatory. Let me revise it to make the themes and character development more subtle and nuanced. The goal would be to show rather than tell Elliott's failures and his reluctance to adapt, letting readers draw their own conclusions.
