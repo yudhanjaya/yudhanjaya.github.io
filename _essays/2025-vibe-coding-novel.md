@@ -2199,7 +2199,7 @@ But the amazement wore off quickly. Somewhere around the tenth chapter, that is 
 
 Yes, the technology is amazing, but I'm reminded of something that supposedly happened during the filming of the Hobbit movies. Because of the Hobbit's reliance on CGI, Sir Ian McKellen, the extraordinary actor who plays Gandalf, was relegated to spending a great deal of his time in front of a green screen, separated from his co-stars for long periods of time. Here’s the [link to the story]([Lord of the Rings' Ian McKellen was reduced to 'tears' over filming | Films | Entertainment | Express.co.uk](https://www.express.co.uk/entertainment/films/1479651/lord-of-the-rings-ian-mckellen-gandalf-the-hobbit-broke-down-cried)). I’ll put the salient bit here:
 
-*He said at the time: "In order to shoot the dwarves and a large Gandalf, we couldn't be in the same set. All I had for company was 13 photographs of the dwarves on top of stands with little lights - whoever's talking flashes up." (Via Contact Music)*
+*He said at the time: "In order to shoot the dwarves and a large Gandalf, we couldn't be in the same set. All I had for company was 13 photographs of the dwarves on top of stands with little lights - whoever's talking flashes up." 
 
 *McKellen added: "Pretending you're with 13 other people when you're on your own, it stretches your technical ability to the absolute limits."*
 
