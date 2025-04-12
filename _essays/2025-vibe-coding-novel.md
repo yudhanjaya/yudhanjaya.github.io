@@ -2215,7 +2215,13 @@ In doing this experiment, I felt that I had become less even than the AI. I have
 
 Can AI write a novel? The answer is yes. The answer is probably this book, this PDF that I have as proof. 
 
-Here is the final product in PDF and in docx. 
+Here is the final product:
+
+- https://github.com/yudhanjaya/yudhanjaya.github.io/blob/main/pubshare/Monsoon%20Chronicles.docx
+
+- https://github.com/yudhanjaya/yudhanjaya.github.io/blob/main/pubshare/Monsoon%20Chronicles.pdf
+
+
 
 (Please feel free to do whatever the hell you want with it, by the way. So, I have done so little work that I claim absolutely no copyright, no involvement in the process. As far as I'm concerned, this thing is provided under the MIT license. AS-IS with no warranty of any kind. You can use it as inspiration; you can print it out and set it on fire if you want).
 
