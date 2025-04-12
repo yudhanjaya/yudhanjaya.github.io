@@ -3,7 +3,7 @@ title: Can you vibe-code a novel?
 description: I usually say no, or laugh. This time, I have a 33,000-word exploration (and its 50,000-something-word output) backing up a meandering *yes.* This is why.
 category: Ideas
 date: April, 2025
-image: /images/vibe/1.png
+image: /images/vibe/vibe.png
 ---
 
 “I don’t speak”, Bijaz said. “I operate a machine called language.”
@@ -2225,7 +2225,7 @@ Here is the final product:
 
 (Please feel free to do whatever the hell you want with it, by the way. So, I have done so little work that I claim absolutely no copyright, no involvement in the process. As far as I'm concerned, this thing is provided under the MIT license. AS-IS with no warranty of any kind. You can use it as inspiration; you can print it out and set it on fire if you want).
 
-There is the general question of: is this art? Here's where things get thorny. 
+There is the general question of: is it a good book? Is this art? Here's where things get thorny. 
 
 On one hand we can approach this through the lens of how it was made. The *how* involves understanding and critiquing the grinding gears of capitalism that led us here and saying hey, this is a content generation machine. It does not make art. 
 
