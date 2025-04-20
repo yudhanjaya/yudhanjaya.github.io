@@ -1,35 +1,35 @@
-{% if site.data.settings.writing.enable == true %}
-<!-- begin writings -->
+{% if site.data.settings.book.enable == true %}
+<!-- begin books -->
 <div class="container">
-  <section class="section writings animate">
+  <section class="section books animate">
     <div class="row">
 
       <div class="col col-4 col-d-12">
         <div class="section__info">
-          <h2 class="section__title">{{ site.data.settings.writing.writing__title }}</h2>
-          {% if site.data.settings.writing.writing__description %}
-          <p class="section__description">{{ site.data.settings.writing.writing__description }}</p>
+          <h2 class="section__title">{{ site.data.settings.book.book__title }}</h2>
+          {% if site.data.settings.book.book__description %}
+          <p class="section__description">{{ site.data.settings.book.book__description }}</p>
           {% endif %}
-          <a href="{{ '/writing' | relative_url }}" class="section__link">Show all<i class="ion ion-md-arrow-forward"></i></a>
+          <a href="{{ '/book' | relative_url }}" class="section__link">Show all<i class="ion ion-md-arrow-forward"></i></a>
         </div>
       </div>
 
       <div class="col col-8 col-d-12">
         <div class="row">
-          {% assign sorted = site.writings | sort: 'date' | reverse %}
-          {% for writing in sorted limit:4 %}
-          <article class="writing col col-6 col-d-12">
-            <div class="writing__content">
-              <a href="{{ writing.url }}" class="writing__image">
-                <img class="lazy" data-src="{{ writing.image }}" alt="{{ writing.title }}">
+          {% assign sorted = site.books | sort: 'date' | reverse %}
+          {% for book in sorted limit:4 %}
+          <article class="book col col-6 col-d-12">
+            <div class="book__content">
+              <a href="{{ book.url }}" class="book__image">
+                <img class="lazy" data-src="{{ book.image }}" alt="{{ book.title }}">
               </a>
-              <div class="writing__info">
-                {% if writing.category %}
-                <div class="writing__category">{{ writing.category }}</div>
+              <div class="book__info">
+                {% if book.category %}
+                <div class="book__category">{{ book.category }}</div>
                 {% endif %}
-                <h3 class="writing__title"><a href="{{ writing.url }}">{{ writing.title }}</a></h3>
-                {% if writing.description %}
-                <p class="writing__description">{{ writing.description }}</p>
+                <h3 class="book__title"><a href="{{ book.url }}">{{ book.title }}</a></h3>
+                {% if book.description %}
+                <p class="book__description">{{ book.description }}</p>
                 {% endif %}
               </div>
             </div>
@@ -41,5 +41,5 @@
     </div>
   </section>
 </div>
-<!-- end writings -->
+<!-- end books -->
 {% endif %}
