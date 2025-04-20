@@ -21,7 +21,7 @@ menu__settings:
     - title: 'Projects'
       url: '/project/'
     - title: 'Essays and updates'
-      url: '/essays/'
+      url: '/essay/'
     - title: 'Notes and errata'
       url: '/note/'
 
