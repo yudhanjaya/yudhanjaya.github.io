@@ -114,7 +114,7 @@ note:
 #-------------------------------
 # essays Settings
 essay:
-  enable: false
+  enable: true
   note__title: Essays and updates
   note__description: I write about a lot of things - technology, science fiction, the future, and my own experiences with them. Not all of them make it out alive past my inner critic. This is where I park the survivors.
 
