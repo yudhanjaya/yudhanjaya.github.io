@@ -112,6 +112,13 @@ note:
   note__description: Various notes and frontmatter from my books. 
 
 #-------------------------------
+# essays Settings
+essay:
+  enable: false
+  note__title: Essays and updates
+  note__description: I write about a lot of things - technology, science fiction, the future, and my own experiences with them. Not all of them make it out alive past my inner critic. This is where I park the survivors.
+
+#-------------------------------
 # Projects
 project:
   enable: true
@@ -128,7 +135,7 @@ software:
 #-------------------------------
 # Testimonials Section
 testimonials:
-  enable: true
+  enable: false
 
 testimonial__title: Institutions
 testimonial__description: I've worked at or with a number of very interesting organizations, including 
