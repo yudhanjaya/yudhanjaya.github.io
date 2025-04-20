@@ -11,11 +11,11 @@ tags:
   - novel
 ---
 
+
 ## Purchase links:
-> [Amazon, International](https://www.amazon.com/Numbercaste-Yudhanjaya-Wijeratne/dp/1521795436)
-> [Bookshop.org, USA](https://bookshop.org/p/books/numbercaste-yudhanjaya-wijeratne/7927164
-> [Sarasavi, Sri Lanka](https://www.sarasavi.lk/product/numbercaste-1521795436)
-> [Flipkart, India](https://www.flipkart.com/numbercaste/p/itm1c57293e1dd6b)
+[Amazon, International](https://www.amazon.com/Numbercaste-Yudhanjaya-Wijeratne/dp/1521795436)
+[Bookshop.org, USA](https://bookshop.org/p/books/numbercaste-yudhanjaya-wijeratne/7927164 [Sarasavi, Sri Lanka](https://www.sarasavi.lk/product/numbercaste-1521795436)
+[Flipkart, India](https://www.flipkart.com/numbercaste/p/itm1c57293e1dd6b)
 
 Described as "Black Mirror meets the Circle meets 1984" by fans, Numbercaste is an award-winning debut that looks out into an all-too-possible future - a future that's being built even as you read this.
 
