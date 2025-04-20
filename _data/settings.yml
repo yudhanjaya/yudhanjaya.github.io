@@ -16,11 +16,13 @@ menu__settings:
       url: '/about/'
     - title: 'Books'
       url: '/book/'
+    - title: 'Software'
+      url: '/software/'
     - title: 'Projects'
       url: '/project/'
-    - title: 'Essays'
+    - title: 'Essays and updates'
       url: '/essay/'
-    - title: 'Notes, updates, forewards'
+    - title: 'Notes and errata'
       url: '/note/'
 
 
@@ -107,8 +109,8 @@ book:
 #-------------------------------
 # notes Settings
 note:
-  enable: true
-  note__title: Notes
+  enable: false
+  note__title: Notes and errata
   note__description: Various notes and frontmatter from my books. 
 
 #-------------------------------
@@ -181,12 +183,11 @@ testimonial__items:
 #-------------------------------
 # Blog Section
 blog:
-  enable: false
+  enable: true
 
 blog__settings:
-  blog__title: Blogposts
-  blog__description:
-
+  blog__title: Essays and updates
+  blog__description:  I write about a lot of things - technology, science fiction, the future, and my own experiences with them. Not all of them make it out alive past my inner critic. This is where I park the survivors.    
 
 #-------------------------------
 # Footer Settings
