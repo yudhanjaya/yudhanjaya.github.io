@@ -1,10 +1,10 @@
-/* wips */
-.wip {
+/* softwares */
+.software {
   margin-bottom: 32px;
   transition: transform .2s;
 }
 
-.wip__image {
+.software__image {
   position: relative;
   display: block;
   width: 100%;
@@ -39,17 +39,17 @@
   }
 }
 
-.wip__info {
+.software__info {
   margin-top: 28px;
 
-  .wip__category {
+  .software__category {
     margin-bottom: 4px;
     font-size: 16px;
     font-weight: 500;
     color: var(--heading-font-color);
   }
 
-  .wip__title {
+  .software__title {
     display: inline-block;
     margin-bottom: 0;
     font-size: 32px;
@@ -62,7 +62,7 @@
     }
   }
 
-  .wip__description {
+  .software__description {
     display: -webkit-box;
     margin-top: 20px;
     margin-bottom: 0;
@@ -74,7 +74,7 @@
   }
 
   @media (max-width: $desktop) {
-    .wip__title {
+    .software__title {
       font-size: 28px;
     }
   }
@@ -82,7 +82,7 @@
   @media (max-width: $tablet) {
     margin-top: 24px;
 
-    .wip__category {
+    .software__category {
       font-size: 14px;
     }
   }
