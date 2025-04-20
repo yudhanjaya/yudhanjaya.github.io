@@ -23,9 +23,9 @@ collections:
   posts:
     output: true
     permalink: /posts/:slug
-  writings:
+  books:
     output: true
-    permalink: /writing/:slug
+    permalink: /book/:slug
   essays:
     output: true
     permalink: /essay/:slug
@@ -49,9 +49,9 @@ defaults:
       layout: "page"
   - scope:
       path: ""
-      type: "writings"
+      type: "bookss"
     values:
-      layout: "writing"
+      layout: "book"
   - scope:
       path: ""
       type: "projects"
