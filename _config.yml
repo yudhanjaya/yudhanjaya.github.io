@@ -49,7 +49,7 @@ defaults:
       layout: "page"
   - scope:
       path: ""
-      type: "bookss"
+      type: "books"
     values:
       layout: "book"
   - scope:
