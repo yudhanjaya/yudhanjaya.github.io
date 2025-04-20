@@ -35,6 +35,10 @@ collections:
   notes:
     output: true
     permalink: /note/:slug
+  softwares:
+    output: true
+    permalink: /software/:slug
+
 
 # Pages Path
 defaults:
@@ -67,6 +71,11 @@ defaults:
       type: "notes"
     values:
       layout: "note"
+  - scope:
+      path: ""
+      type: "softwares"
+    values:
+      layout: "software"
 
 sass:
   sass_dir: _sass

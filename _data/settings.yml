@@ -21,7 +21,7 @@ menu__settings:
     - title: 'Projects'
       url: '/project/'
     - title: 'Essays and updates'
-      url: '/posts/'
+      url: '/essays/'
     - title: 'Notes and errata'
       url: '/note/'
 
@@ -128,7 +128,7 @@ software:
 #-------------------------------
 # Testimonials Section
 testimonials:
-  enable: false
+  enable: true
 
 testimonial__title: Institutions
 testimonial__description: I've worked at or with a number of very interesting organizations, including 
@@ -181,7 +181,7 @@ testimonial__items:
 #-------------------------------
 # Blog Section
 blog:
-  enable: true
+  enable: false
 blog__settings:
   blog__title: Essays and updates
   blog__description:  I write about a lot of things - technology, science fiction, the future, and my own experiences with them. Not all of them make it out alive past my inner critic. This is where I park the survivors.    
