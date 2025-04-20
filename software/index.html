@@ -1,0 +1,40 @@
+---
+layout: default
+title: softwares
+description: I speak to the machine often, and from time to time I produce something that might be interesting. Here's a few of them.
+
+---
+
+<div class="container">
+  <div class="page-section-head">
+    <h1 class="page-title">{% if page.title %}{{ page.title }}{% else %}{{ site.data.settings.software.software__title }}{% endif %}</h1>
+    {% if page.description %}
+      <p class="page-description">{{ page.description }}</p>
+    {% else site.data.settings.software.software__description %}
+      <p class="page-description">{{ site.data.settings.software.software__description }}</p>
+    {% endif %}
+  </div>
+</div>
+
+<div class="software-page container animate">
+  <div class="row">
+    {% for software in site.softwares reversed %}
+      <article class="software col col-4 col-d-6 col-t-12">
+        <div class="software__content">
+          <a href="{{ software.url }}" class="software__image">
+            <img class="lazy" data-src="{{ software.image }}" alt="{{ software.title }}">
+          </a>
+          <div class="software__info">
+            {% if software.category %}
+            <div class="software__category">{{ software.category }}</div>
+            {% endif %}
+            <h3 class="software__title"><a href="{{ software.url }}">{{ software.title }}</a></h3>
+            {% if software.description %}
+            <p class="software__description">{{ software.description }}</p>
+            {% endif %}
+          </div>
+        </div>
+      </article>
+    {% endfor %}
+  </div>
+</div>
