@@ -6,9 +6,6 @@ published by: Amazon (self-published) and later republished by HarperCollins Ind
 date: July, 2017
 image: /images/covers/numbercaste.png
 image_caption: The original cover designed by me; the later HarperCollins editions have different covers
-tags:
-  - fiction
-  - novel
 ---
 
 
