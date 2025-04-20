@@ -98,11 +98,11 @@ mailchimp:
 
 
 #-------------------------------
-# Writing Settings
+# Books Settings
 book:
   enable: true
-  writing__title: Books!
-  writing__description: My stories have won the Gratiean Prize, been nominated for the Nebula and Independent Games Festival awards, appeared in venues like Wired, ForeignPolicy and Slate, and been Washington Post and Audible bestsellers. These are my biggest, publicly accessible works.  
+  book__title: Books!
+  book__description: My stories have won the Gratiean Prize, been nominated for the Nebula and Independent Games Festival awards, appeared in venues like Wired, ForeignPolicy and Slate, and been Washington Post and Audible bestsellers. These are my biggest, publicly accessible works.  
 
 #-------------------------------
 # notes Settings
@@ -115,8 +115,8 @@ note:
 # Projects
 project:
   enable: true
-  wip__title: Special Projects
-  wip__description: I’m usually working on several things at any given time. Sometimes these are tiny projects - sometimes they’re long, perpetual, possibly Sisyphean acts of tomfoolery. This is what I’m working on right now.
+  project__title: Special Projects
+  project__description: I’m usually working on several things at any given time. Sometimes these are tiny projects - sometimes they’re long, perpetual, possibly Sisyphean acts of tomfoolery. This is what I’m working on right now.
 
 #-------------------------------
 # software Settings
@@ -146,11 +146,11 @@ testimonial__items:
     link: "https://dangerousspeech.org"
     content : "As a fellow for the Dangerous Speech Project, I collected datasets and studied ethnic hatred and justifications of war crimes centered around the Sri Lankan Civil War, as well as the historical context that led up to it."
 
- # - name: "CoFutures, University of Oslo"
- #   image: "/images/institutions/3.png"
- #   designation: "Creator, MOOC"
- #   link: "https://cofutures.org"
- #   content : "Developing a syllabus and materials on how to write and develop SFF, with examples and lessons from around the world."
+  - name: "CoFutures, University of Oslo"
+    image: "/images/institutions/3.png"
+    designation: "Creator, MOOC"
+    link: "https://cofutures.org"
+    content : "Developing a syllabus and materials on how to write and develop SFF, with examples and lessons from around the world."
 
   - name: "Sci-Fi Economics Lab"
     image: "/images/institutions/4.png"
