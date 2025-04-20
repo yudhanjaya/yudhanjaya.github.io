@@ -1,35 +1,35 @@
 ---
 layout: default
-title: Writing
-description: My stories have won the Gratiean Prize, been nominated for the Nebula and Independent Games Festival awards, appeared in venues like Wired, ForeignPolicy and Slate, and been Washington Post and Audible bestsellers. These are my biggest, publicly accessible writings.
+title: Books
+description: My stories have won the Gratiean Prize, been nominated for the Nebula and Independent Games Festival awards, appeared in venues like Wired, ForeignPolicy and Slate, and been Washington Post and Audible bestsellers. These are my biggest, publicly accessible books.
 ---
 
 <div class="container">
   <div class="page-section-head">
-    <h1 class="page-title">{% if page.title %}{{ page.title }}{% else %}{{ site.data.settings.writing.writing__title }}{% endif %}</h1>
+    <h1 class="page-title">{% if page.title %}{{ page.title }}{% else %}{{ site.data.settings.book.book__title }}{% endif %}</h1>
     {% if page.description %}
       <p class="page-description">{{ page.description }}</p>
-    {% else site.data.settings.writing.writing__description %}
-      <p class="page-description">{{ site.data.settings.writing.writing__description }}</p>
+    {% else site.data.settings.book.book__description %}
+      <p class="page-description">{{ site.data.settings.book.book__description }}</p>
     {% endif %}
   </div>
 </div>
 
-<div class="writing-page container animate">
+<div class="book-page container animate">
   <div class="row">
-    {% for writing in site.writings reversed %}
-      <article class="writing col col-4 col-d-6 col-t-12">
-        <div class="writing__content">
-          <a href="{{ writing.url }}" class="writing__image">
-            <img class="lazy" data-src="{{ writing.image }}" alt="{{ writing.title }}">
+    {% for book in site.books reversed %}
+      <article class="book col col-4 col-d-6 col-t-12">
+        <div class="book__content">
+          <a href="{{ book.url }}" class="book__image">
+            <img class="lazy" data-src="{{ book.image }}" alt="{{ book.title }}">
           </a>
-          <div class="writing__info">
-            {% if writing.category %}
-            <div class="writing__category">{{ writing.category }}</div>
+          <div class="book__info">
+            {% if book.category %}
+            <div class="book__category">{{ book.category }}</div>
             {% endif %}
-            <h3 class="writing__title"><a href="{{ writing.url }}">{{ writing.title }}</a></h3>
-            {% if writing.description %}
-            <p class="writing__description">{{ writing.description }}</p>
+            <h3 class="book__title"><a href="{{ book.url }}">{{ book.title }}</a></h3>
+            {% if book.description %}
+            <p class="book__description">{{ book.description }}</p>
             {% endif %}
           </div>
         </div>
