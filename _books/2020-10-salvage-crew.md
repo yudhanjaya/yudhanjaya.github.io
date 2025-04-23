@@ -17,10 +17,10 @@ Available as an ebook, hardcover, and audiobook. Audiobook narrated by Nathan Fi
 
 ## Purchase Links
 
--[Amazon (International)](https://www.amazon.com/Salvage-Crew-Yudhanjaya-Wijeratne-ebook/dp/B08J977YVQ)
--[Audible  (International)](https://www.audible.com/pd/The-Salvage-Crew-Audiobook/1774246775)
--[Bookshop (US)](https://bookshop.org/p/books/the-salvage-crew-yudhanjaya-wijeratne/15595876)
--[Barnes & Noble](https://www.barnesandnoble.com/w/the-salvage-crew-yudhanjaya-wijeratne/1137995807)
+- [Amazon (International)](https://www.amazon.com/Salvage-Crew-Yudhanjaya-Wijeratne-ebook/dp/B08J977YVQ)
+- [Audible  (International)](https://www.audible.com/pd/The-Salvage-Crew-Audiobook/1774246775)
+- [Bookshop (US)](https://bookshop.org/p/books/the-salvage-crew-yudhanjaya-wijeratne/15595876)
+- [Barnes & Noble](https://www.barnesandnoble.com/w/the-salvage-crew-yudhanjaya-wijeratne/1137995807)
 
 
 ## Accolades and Recognition

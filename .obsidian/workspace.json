@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "2020-10-salvage-crew"
             }
+          },
+          {
+            "id": "f7b6cf1b380695d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_books/2020-10-salvage-crew.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2020-10-salvage-crew"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,10 +178,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa917a38d07a0a66",
+  "active": "f7b6cf1b380695d4",
   "lastOpenFiles": [
-    "drafts/Book Release Format.md",
+    "_books/2021-11-Inhuman-Peace.md",
+    "_books/2024-07-Slowsadsuicide.md",
+    "_books/2017-06-Numbercaste.md",
     "_books/2020-10-salvage-crew.md",
+    "_books/2020-04-Megastructures.md",
+    "_books/2018-10-Inhuman-Race.md",
+    "note/2020-04-Foreword-Megastructures.md",
+    "drafts/Book Release Format.md",
     "note/2020-10-Foreword-to-the-salvage-crew.md",
     "_projects/2020-04-Earthbag-Homestead.md",
     "_notes/2024-11-Authors-Note-Choir-Hatred.md",
@@ -196,17 +217,11 @@
     "book/index.html",
     "book",
     "_writings/2017-06-Numbercaste.md",
-    "_books/2024-07-Slowsadsuicide.md",
     "_books/2022-11-Contributions-moon.md",
-    "_books/2021-11-Inhuman-Peace.md",
-    "_books/2020-04-Megastructures.md",
-    "_books/2018-10-Inhuman-Race.md",
-    "_books/2017-06-Numbercaste.md",
     "_books",
     "_includes/section-books.html",
     "_writings/2018-10-Inhuman-Race.md",
     "_notes/2018-05-Technology-of-Commonwealth.md",
-    "note/2018-05-Technology-of-Commonwealth.md",
     "images/vibe/vibe.png",
     "images/vibe/THE WRETCHED AND THE DAMNED.png",
     "drafts/attachments/Pasted image 20240621172308.png",
