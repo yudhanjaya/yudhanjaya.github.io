@@ -14,7 +14,7 @@ image_caption: Unexpectedl mindboggling.
 
 Every so often, I end up involved in something that makes me wonder "how the hell did I get this far?"
 
-So it is with the Lunar Codex. [The New York Times article does a good job of explaining it](https://www.nytimes.com/2023/07/27/arts/design/lunar-codex-time-capsule-moon.html). But in a nutshell, Samuel Peralta has been collecting works by 30,000 artists, writers, filmmakers and so on: a massive archive destined to launch aboard NASA partners to the Moon. It is, as a he says, a message-in-a-bottle to the future.
+So it is with the Lunar Codex. But in a nutshell, Samuel Peralta has been collecting works by 30,000 artists, writers, filmmakers and so on: a massive archive destined to launch aboard NASA partners to the Moon. It is, as a he says, a message-in-a-bottle to the future.
 
 >Works may be identified by their NASA mission, launch date, and Lunar Codex designation as follows: [1] Orion / AM1 - Artemis 1 Mission (Nov 16-Dec 11, 2022); [2] Peregrine / PM1 - NASA CLPS-TO-2AB / Astrobotic Peregrine Mission 1 (Jan 8-18, 2024); [3] Nova / XM1 - NASA CLPS-TO2-IM / Intuitive Machines Nova-C Mission IM-1 (Feb 2024); [4] Serenity / FM1 - NASA CLPS-TO-19D Mission 1 (3Q24); OM1 / Freya - NASA CLPS-TO-PRIME-1 / Intuitive Machines Nova-C Mission IM-2 / AF B2O Mission (3Q24); and [5] Polaris / GM1 - NASA CLPS-TO-20A (VIPER) / Astrobotic Griffin Mission 1 (Nov 2024).
 
