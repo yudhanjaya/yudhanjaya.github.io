@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/about.md",
+                "file": "_books/2024-09-Pilgrim-Machines.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "about"
+              "title": "2024-09-Pilgrim-Machines"
             }
           }
         ],
@@ -178,9 +178,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f7b6cf1b380695d4",
+  "active": "e83f2676016196d7",
   "lastOpenFiles": [
+    "_books/2024-07-Slowsadsuicide.md",
+    "_books/2020-10-salvage-crew.md",
+    "_books/2024-09-Pilgrim-Machines.md",
     "_projects/2021-11-Autobiography.md",
+    "_pages/about.md",
     "_projects/2019-04-OSUN.md",
     "images/deconfinemain.png",
     "images/deconfine.png",
@@ -191,9 +195,7 @@
     "_projects/2019-04-Watchdog.md",
     "_projects/2020-04-Earthbag-Homestead.md",
     "drafts/2022-11-Contributions-moon.md",
-    "_books/2020-10-salvage-crew.md",
     "_books/2021-11-Inhuman-Peace.md",
-    "_books/2024-07-Slowsadsuicide.md",
     "_books/2017-06-Numbercaste.md",
     "_books/2020-04-Megastructures.md",
     "_books/2018-10-Inhuman-Race.md",
@@ -222,7 +224,6 @@
     "book/index.html",
     "book",
     "_writings/2017-06-Numbercaste.md",
-    "_books/2022-11-Contributions-moon.md",
     "_books",
     "_includes/section-books.html"
   ]

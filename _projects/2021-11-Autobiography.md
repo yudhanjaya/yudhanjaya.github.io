@@ -2,11 +2,10 @@
 title: Auto | Biography
 description: "An online exhibition in which I offered a small, terrifying glimpse of the future: AI-generated author biographies."
 category: Software
-date: April, 2019
+date: November, 2020
 image: /images/deconfine.png
 image_caption: deconfine
 ---
-![[Pasted image 20250602153819.png]]
 
 In 2021, I was invited to contribute to deconfine 2021, an exhibition hosted by Media Arts South Asia in collaboration with the Alliance Francias. It featured seven South Asian artists exploring how technology pervasively shapes human life and functions as an institution. 
 
@@ -67,7 +66,6 @@ Naturally, this seems to be one of those "don't invent the Torment Nexus" things
 Others:
 
 - **Budhaditya Chattopadhyay - _Planchette Bot_**: Uses AI to "resurrect" Gandhi for audience interaction, questioning AI's power and potential for immortalization.
-- **Yudhanjaya Wijeratne - _Auto | Biography_**: Showcases 
 - **Sahej Rahal - _Shrota_**: Offers a downloadable interactive experience where users communicate with a digital creature using sound, blurring real and virtual boundaries.
 - **Morteza Herati - _Afghan Glitch_**: Employs the "glitch" metaphor to critique Afghanistan's socio-political crisis and technology's influence on language and thought.
 - **Sounak Das - _Perturbed Monitor_**: Presents a screen installation that reverses viewer control, reflecting on power imbalances and totalitarian tech tendencies.
