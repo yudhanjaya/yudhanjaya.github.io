@@ -9,9 +9,11 @@ image_caption: deconfine
 
 In 2021, I was invited to contribute to deconfine 2021, an exhibition hosted by Media Arts South Asia in collaboration with the Alliance Francias. It featured seven South Asian artists exploring how technology pervasively shapes human life and functions as an institution. 
 
-![]({{site.baseurl}}/images/osun/deconfinemain.png)
+![]({{site.baseurl}}/images/deconfinemain.png)
+
 
 My contribution was Auto | Biography, AI-generated, fake author biographies, a  commentary on something that we were growing increasingly concerned - the ease with which the nascent genAI technology let us manipulate reality.
+
 
 Entries ranged from:
 
