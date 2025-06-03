@@ -42,48 +42,60 @@ His fiction includes novels like Numbercaste, The Inhuman Race, The Wretched and
   
 General: Forbes 30 Under 30 honoree, Gratiaen Prize winner for fiction, and Nebula and IGF award-nominated author, TEDx speaker. Largely self-taught (programming, writing and a whole lot more).  
 
-# Bibliography: 
+# Bibliography
 
-I’ve written a number of novels (multi-book deals with HarperCollins and Aethon), wrote for major publications, et cetera. Some things have worked out; see bio above.  I write primarily in the field of SFF; it’s a vast canvas that lets me toy with ideas I find interesting. I also occasionally work with AI and software of my own design, pursuing a human-AI collaborative thesis; I’ve explored this in work with Wired, Slate and Google Research.
+# Novels and other major work
 
-## Novels and other major work
+I’ve written a number of novels (multi-book deals with HarperCollins and Aethon), wrote for major publications, et cetera. Some things have worked out; see bio above.  I write primarily in the field of SFF; it’s a vast canvas that lets me toy with ideas I find interesting. I also occasionally work with AI and software of my own design, pursuing a human-AI collaborative thesis; I’ve explored this in work with Wired, Slate and Google Research. For more information, head over to the [books section](https://yudhanjaya.com/book/) 
 
-[The Salvage Crew (2020)](https://www.notion.so/The-Salvage-Crew-3577b41481b2405d94ca21f1d8ede1f7?pvs=21). A C-tier salvage crew sent out to scrap a downed colony ship. An AI poet overseer fueled by an actual AI poet ([OSUN / The Poetry Machine](https://www.notion.so/OSUN-The-Poetry-Machine-d90a584526d04438a04b83f6c010456b?pvs=21)). A strange intelligence that plays the language game. This book was [listed by Polygon as one of 2020](https://www.polygon.com/22220762/best-books-2020-sci-fi-fantasy) ’s best SFF books, became an Amazon and Washington Post bestseller, and was narrated by Nathan Fillion.
+## Standalone
 
-[Sonnet for the Subconcious War, and other poems from the Automaton (2019)](https://www.notion.so/OSUN-The-Poetry-Machine-d90a584526d04438a04b83f6c010456b?pvs=21). A poetry collaboration between my retrained GPT-instances and Dr. Samuel Peralta, bound for the Moon via the [Lunar Codex project](https://www.lunarcodex.com/).
+- The Wretched and the Damned (2025, published by Perera Hussein)
+- The Slow Sad Suicide of Rohan Wijeratne (2024, published by Perera Hussein)
+- Numbercaste (2017, self-published and then republished by HarperCollins India)
 
-[The Commonwealth Empire trilogy (2018-present)](https://www.notion.so/The-Commonwealth-Empire-Trilogy-0db40ccfe8c14c30be0acbdbc99a33bc?pvs=21). Beginning with the *Inhuman Race,* this trilogy explores a machine uprising in a biopunk British Raj where Ceylon still remains under colonial rule.
+## In the Salvage Crew Universe
 
-[Numbercaste (2017).](https://www.notion.so/Numbercaste-bc3c93076dc445f2bd111683a99c0552?pvs=21) My first novel, set in a near-future world where one tech startup sets out to upend the world of credit scoring - and ends up writing the formula for the future.
+- Choir of Hatred (2025, Aethon)
+- Pilgrim Machines (2024, Aethon)
+- The Salvage Crew (2020, Aethon)
+## In the Commonwealth Empires trilogy
 
-I also work on a fictional, open-source city called [**Witness over at the SciFi Economics Lab**.](http://scifieconomics.world/) Witness is an open-source collaborative futures design project that examines alternate economies and tries to get the underlying principles right.
+- The Inhuman War (TBD, HarperCollins India)
+- The Inhuman Peace (2021, HarperCollins India)
+- The Inhuman Race (2018, HarperCollins India)
 
+I also work on a fictional, open-source city called [**Witness over at the SciFi Economics Lab**.](http://scifieconomics.world/) Witness is an open-source collaborative futures design project that examines alternate economies and tries to get the underlying principles right. Then there's [Sonnet for the Subconcious War, and other poems from the Automaton (2019)](https://yudhanjaya.com/project/2019-04-osun), a spin-off from my OSUN project - a poetry collaboration between my retrained GPT-instances and Samuel Peralta, bound for the Moon via the [Lunar Codex project](https://www.lunarcodex.com/).
 ## Games
 
 I’ve contributed to **[Neurocracy](https://www.theverge.com/2021/7/14/22577088/neurocracy-wikipedia-murder-mystery-game)** (2021), a conspiracy thriller / murder mystery set in the pages of a rapidly mutating, near-future Wikipedia. Neurocracy won the New Media Writing Prize and was nominated for the IGF Excellence in Narrative award.
 
-I also co-designed Witness: the Game (2021), a card game that puts you in charge of different societies facing a wave of Black Swan events (from pandemics to market crashes). You play policies depending on the type of society you run. For example, a capitalist cyberpunk world responds very differently to a religious autocracy. It draws from 
-
+I also co-designed Witness: the Game (2021), a card game that puts you in charge of different societies facing a wave of Black Swan events (from pandemics to market crashes). You play policies depending on the type of society you run. For example, a capitalist cyberpunk world responds very differently to a religious autocracy. It draws from Witness and the work of the SciFi Economics Lab, and the Edgeryders research network in general. 
 
 ## Short stories
 
-- [**Worrying over Potatoes (2022, Google Research)**](https://wordcraft-writers-workshop.appspot.com/stories/yudhanjaya-wijeratne)
-- [**The Only Good Doctors**](https://www.governinghealthfutures2030.org/wp-content/uploads/2021/12/Only-the-Good-doctors.pdf) (2021, GoverningHealthFutures - a project by The Lancet x The Financial Times)
-- [**The State Machine (2020, Slate.com; republished in the Big Book of Cyberpunk)**](https://slate.com/technology/2020/09/state-machine-yudhanjaya-wijeratne.html)
-- [**Work Ethics (2020, Wired.com)**](https://www.wired.com/story/future-of-work-work-ethics-yudhanjaya-wijeratne/)
-- Confessor (2021, The Gollancz Book of South Asian Science Fiction, Volume 2)
-- The Art of the Possible (2022, Kalicalypse: Subcontinental Science Fiction - Fantascienza dal subcontinente)
-- Claws and Effect (aboard the Lunar Codex)
-- [**The Tragedy of John Metcalf (2019, Parallel Worlds: the Heroes Within)**](https://www.amazon.com/Parallel-Worlds-L-J-Hachmeister-ebook/dp/B07V6PM444)
-- [**Beatnik**](https://www.amazon.com/Chronicle-Worlds-Punishment-Future-Chronicles-ebook/dp/B07YMSGK11) (2019, Chronicle Worlds: Crime and Punishment. This story is sister to The Writing Contest and is aboard the Lunar Codex)
-- A Little Bit of Kali (2019, The Expanding Universe 6; republished 2021 in [Escape Pod #792, narrated by Kaushik Narasimhan](https://escapepod.org/2021/07/08/escape-pod-792-a-little-bit-of-kali-part-1/))
-- Messenger, co-written with RR Virdi (2018, The Expanding Universe 5; this story was nominated for the Nebula Award)
-- The Writing Contest (2018, Future Visions)
-- Deep Ocean Blues (2018, 2054*)*
-- Ozymandias (2019, Horizons Beyond)
-- Omega Point: a Short Story about God (2018)
-- Dreadnought (2017, The Expanding Universe 3)
-- The Slow Sad Sucide of Rohan Wijeratne (2017)
+
+When I began writing short stories in 2017, I approached them primarily as a method to teach myself the craft. Rather than focusing merely on producing words, I wanted to examine ideas from different angles and learn to see the stories within them. Many of these works have now been collected in a print collection titled *The Slow Sad Suicide of Rohan Wijeratne*. 
+
+
+- **The Limits of my Language (2024).** Published by Grimdark Magazine, issue #38. [Link](https://www.grimdarkmagazine.com/product/grimdark-magazine-38/) 
+- **Worrying over Potatoes** (2022). Published by Google Research. [Link](https://wordcraft-writers-workshop.appspot.com/stories/yudhanjaya-wijeratne)
+- **The Only Good Doctors** (2021). Published by GoverningHealthFutures (a project by The Lancet x The Financial Times). [Link](https://www.governinghealthfutures2030.org/wp-content/uploads/2021/12/Only-the-Good-doctors.pdf)
+- **The State Machine** (2020). Published on Slate.com; republished in the Big Book of Cyberpunk, edited by Jared Schurin. [Link](https://slate.com/technology/2020/09/state-machine-yudhanjaya-wijeratne.html)
+- **Work Ethics** (2020). Published on Wired.com. [Link](https://www.wired.com/story/future-of-work-work-ethics-yudhanjaya-wijeratne/)
+- **Confessor** (2021). Published in _The Gollancz Book of South Asian Science Fiction, Volume 2_, edited by Tarun K. Saint. [Link](https://www.hachetteindia.com/Home/bookdetails/Info/9789391028626/the-gollancz-book-of-south-asian-science-fiction-volume-2)
+- **The Art of the Possible** (2022). Published in _Kalicalypse: Subcontinental Science Fiction - Fantascienza dal subcontinente_. [Link](https://www.futurefiction.org/kalicalypse/?lang=en)
+- **Claws and Effect**. Aboard the Lunar Codex, initially published in the Hellcats Anthology, edited by Kate Pickford. [Link](https://www.amazon.com/Hellcats-Anthology-1-Kate-Pickford/dp/1908212586)
+- **The Tragedy of John Metcalf** (2019). Published in _Parallel Worlds: the Heroes Within_, edited by L.J. Hachmeister. [Link](https://www.amazon.com/Parallel-Worlds-L-J-Hachmeister-ebook/dp/B07V6PM444)
+- **Beatnik** (2019). Published in _Chronicle Worlds: Crime and Punishment_. Sister story to _The Writing Contest_ and is aboard the Lunar Codex. [Link](https://www.amazon.com/Chronicle-Worlds-Punishment-Future-Chronicles-ebook/dp/B07YMSGK11)
+- **A Little Bit of Kali** (2019). Published in _The Expanding Universe 6_; republished 2021 in Escape Pod #792 (narrated by Kaushik Narasimhan). [Link to republication](https://escapepod.org/2021/07/08/escape-pod-792-a-little-bit-of-kali-part-1/)
+- **Messenger** (2018). Co-written with RR Virdi. Published in _The Expanding Universe 5_. Nominated for the Nebula Award.
+- **The Writing Contest** (2018). Published in _Future Visions_.
+- **Deep Ocean Blues** (2018). Published in _2054_.
+- **Ozymandias** (2019). Published in _Horizons Beyond_.
+- **Omega Point: a Short Story about God** (2018). Self-published. [Link](https://www.amazon.com/Omega-Point-short-story-about/dp/198084139X) 
+- **Dreadnought** (2017). Published in _The Expanding Universe 3_.
+- **The Slow Sad Suicide of Rohan Wijeratne** (2017). Self-published. [Link](https://www.amazon.com/Slow-Sad-Suicide-Rohan-Wijeratne-ebook/dp/B0777KJ3S2)
 
 
 ## Nonfiction / academia
@@ -96,26 +108,24 @@ There are tendrils touching upon broader societal implications of AI, such as bi
 
 In list form:
 
-```
-1. Wijeratne, Y., & Marikar, I. (2023). Better Question-Answering Models on a Budget. arXiv Preprint arXiv:2304. 12370.
-2. Weeraprameshwara, G., Jayawickrama, V., de Silva, N., & Wijeratne, Y. (2022). Sentiment analysis with deep learning models: a comparative study on a decade of Sinhala language Facebook data. _Proceedings of the 2022 3rd International Conference on Artificial Intelligence in Electronics Engineering, 16–22.
-3. Weeraprameshwara, G., Jayawickrama, V., De Silva, N., & Wijeratne, Y. (2022). Sinhala sentence embedding: A two-tiered structure for low-resource languages. arXiv Preprint arXiv:2210. 14472.
-4. Jayawickrama, V., Weeraprameshwara, G., de Silva, N., & Wijeratne, Y. (2022). Facebook for sentiment analysis: baseline models to predict Facebook reactions of Sinhala posts. International Journal on Advances in ICT for Emerging Regions (ICTer), 15(2).
-5.  Wijeratne, Y., Rahman, M., Hosen, K., Hossain, M., & Wahid, S. (2021). A Corpus and Machine Learning Models for Fake News Classification in Bengali.
-6. Wijeratne, Y., & Attanayake, D. C. (2021). Artificial intelligence for factchecking: Observations on the state and practicality of the art.
-7. Wijeratne, Y. (2021). How much bullshit do we need? benchmarking classical machine learning for fake news classification. LIRNEasia: Colombo, Sri Lanka.
-8. Jayawickrama, V., Ranasinghe, A., Attanayake, D. C., & Wijeratne, Y. (2021). A corpus and machine learning models for fake news classification in Sinhala.
-9. Jayawickrama, V., Weeraprameshwara, G., de Silva, N., & Wijeratne, Y. (2021). Seeking sinhala sentiment: Predicting facebook reactions of sinhala posts. arXiv Preprint arXiv:2112. 00468.
-10. Dias, V., Fernando, L., Amarasinghe, T., & Wijeratne, Y. (2020). Mapping Poverty and Wealth.
-11. Dias, V., Lokanathan, S., & Wijeratne, Y. (2020). A Brief Primer on Bias in Machine Learning and Algorithmic Decisions.
-12. Wijeratne, Y., & de Silva, N. (2020). Sinhala language corpora and stopwords from a decade of Sri Lankan Facebook. arXiv Preprint arXiv:2007. 07884.
-13. Wijeratne, W. (2020). Facebook, language, and the difficulty of moderating hate speech. LSE Blog, 23.
-14. Wijeratne, Y., de Silva, N., & Shanmugarajah, Y. (2019). Natural language processing for government: Problems and potential. International Development Research Centre (Canada).
-15. Wijeratne, Y., Samarajiva, R., Lokanathan, S., Surendra, A., & Fernando, L. (2018). Annex 15: analyzing Facebook data to understand regional connectivity.
-16. Wijeratne, Y. (2018). The control of hate speech on social media: Lessons from sri lanka. CPR South.
-17. Wijeratne, Y., Lokanathan, S., & Samarajiva, R. (2018). _Countries of a feather: Analyzing homophily and connectivity between nations through facebook data. TPRC.
-18. Samarajiva, R., & Wijeratne, Y. Use of data analytics in understanding transport. (2018)
-```
+- Wijeratne, Y., & Marikar, I. (2023). Better Question-Answering Models on a Budget. _arXiv Preprint arXiv:2304.12370_.
+- Weeraprameshwara, G., Jayawickrama, V., de Silva, N., & Wijeratne, Y. (2022). Sentiment analysis with deep learning models: a comparative study on a decade of Sinhala language Facebook data. _Proceedings of the 2022 3rd International Conference on Artificial Intelligence in Electronics Engineering_, 16–22.
+- Weeraprameshwara, G., Jayawickrama, V., De Silva, N., & Wijeratne, Y. (2022). Sinhala sentence embedding: A two-tiered structure for low-resource languages. _arXiv Preprint arXiv:2210.14472_.
+- Jayawickrama, V., Weeraprameshwara, G., de Silva, N., & Wijeratne, Y. (2022). Facebook for sentiment analysis: baseline models to predict Facebook reactions of Sinhala posts. _International Journal on Advances in ICT for Emerging Regions (ICTer)_, 15(2).
+- Wijeratne, Y., Rahman, M., Hosen, K., Hossain, M., & Wahid, S. (2021). A Corpus and Machine Learning Models for Fake News Classification in Bengali.
+- Wijeratne, Y., & Attanayake, D. C. (2021). Artificial intelligence for factchecking: Observations on the state and practicality of the art.
+- Wijeratne, Y. (2021). How much bullshit do we need? benchmarking classical machine learning for fake news classification. LIRNEasia: Colombo, Sri Lanka.
+- Jayawickrama, V., Ranasinghe, A., Attanayake, D. C., & Wijeratne, Y. (2021). A corpus and machine learning models for fake news classification in Sinhala.
+- Jayawickrama, V., Weeraprameshwara, G., de Silva, N., & Wijeratne, Y. (2021). Seeking sinhala sentiment: Predicting facebook reactions of sinhala posts. _arXiv Preprint arXiv:2112.00468_.
+- Dias, V., Fernando, L., Amarasinghe, T., & Wijeratne, Y. (2020). Mapping Poverty and Wealth.
+- Dias, V., Lokanathan, S., & Wijeratne, Y. (2020). A Brief Primer on Bias in Machine Learning and Algorithmic Decisions.
+- Wijeratne, Y., & de Silva, N. (2020). Sinhala language corpora and stopwords from a decade of Sri Lankan Facebook. _arXiv Preprint arXiv:2007.07884_.
+- Wijeratne, W. (2020). Facebook, language, and the difficulty of moderating hate speech. _LSE Blog_, 23.
+- Wijeratne, Y., de Silva, N., & Shanmugarajah, Y. (2019). Natural language processing for government: Problems and potential. International Development Research Centre (Canada).
+- Wijeratne, Y., Samarajiva, R., Lokanathan, S., Surendra, A., & Fernando, L. (2018). Annex 15: analyzing Facebook data to understand regional connectivity.
+- Wijeratne, Y. (2018). The control of hate speech on social media: Lessons from sri lanka. CPR South.
+- Wijeratne, Y., Lokanathan, S., & Samarajiva, R. (2018). Countries of a feather: Analyzing homophily and connectivity between nations through facebook data. _TPRC_.
+- Samarajiva, R., & Wijeratne, Y. (2018). Use of data analytics in understanding transport.
 
 The second port of call would be [**watchdog.team**](https://watchdog.team/), where our longform explains the large systems that keep things running - combining shoe-leather journalism, data science, software engineering, and a lot of shovel work. I count these two as my most important contributions to the world. 
 
