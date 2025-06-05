@@ -3,7 +3,7 @@ title: Afterword to the Choir of Hatred
 description: If SALVAGE was the nervous wreck making first contact, and PILGRIM was the long, slow slippage into the void, then this one is about hatred. About killing, mostly for money. About angry metal. About being unsure, unable, unkind, and unhinged
 category: Ideas
 date: November, 2024
-image: /images/covers/choirofhatred.jpg
+image: /images/covers/choirofhatred.png
 image_caption:
 ---
 ## Afterword
