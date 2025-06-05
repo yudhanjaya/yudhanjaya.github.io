@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_books/2025-04-Choir-Hatred.md",
+                "file": "_books/2025-06-Wretched-Damned.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-Choir-Hatred"
+              "title": "2025-06-Wretched-Damned"
             }
           }
         ],
@@ -180,8 +180,12 @@
   },
   "active": "f7b6cf1b380695d4",
   "lastOpenFiles": [
-    "_notes/2024-11-Authors-Note-Choir-Hatred.md",
     "_books/2025-04-Choir-Hatred.md",
+    "_books/2025-06-Wretched-Damned.md",
+    "_notes/2022-11-Foreword-to-Wretched.md",
+    "_notes/2024-11-Authors-Note-Choir-Hatred.md",
+    "images/covers/wretchedanddamned.jpg",
+    "images/covers/Website images.jpg",
     "images/covers/choirofhatred.png",
     "_books/2024-09-Pilgrim-Machines.md",
     "_projects/2021-11-Autobiography.md",
@@ -207,10 +211,7 @@
     "note/2020-10-Foreword-to-the-salvage-crew.md",
     "_notes/2024-03-Authors-Note-Pilgrims.md",
     "images/covers/choirofhatred.jpg",
-    "images/covers/pilgrim.jpg",
-    "images/covers/9.jpg",
     "_notes/2022-05-The RicePunk Manifesto.md",
-    "_notes/2022-11-Foreword-to-Wretched.md",
     "_sass/4-layouts/_book.scss",
     "_essays/2022-05-The RicePunk Manifesto.md",
     "software/index.html",
