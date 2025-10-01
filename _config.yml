@@ -35,9 +35,9 @@ collections:
   notes:
     output: true
     permalink: /note/:slug
-  softwares:
-    output: true
-    permalink: /software/:slug
+#  softwares:
+#    output: true
+#    permalink: /software/:slug
 
 
 # Pages Path
@@ -71,11 +71,11 @@ defaults:
       type: "notes"
     values:
       layout: "note"
-  - scope:
-      path: ""
-      type: "softwares"
-    values:
-      layout: "software"
+#  - scope:
+#      path: ""
+#      type: "softwares"
+#    values:
+#      layout: "software"
   - scope:
       path: ""
       type: "posts"

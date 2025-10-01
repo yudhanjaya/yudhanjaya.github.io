@@ -96,13 +96,6 @@ mailchimp:
   mailchimp__input__text: Your email address...
   mailchimp__button__text: Subscribe
 
-#-------------------------------
-# Blog Section
-blog:
-  enable: true
-blog__settings:
-  blog__title: Blog
-  blog__description:  I write about a lot of things. Not all of them make it out alive past my inner critic. This is where I park the survivors.    
 
 #-------------------------------
 # Textblock
@@ -120,10 +113,18 @@ book:
   book__description: My stories have won the Gratiean Prize, been nominated for the Nebula and Independent Games Festival awards, appeared in venues like Wired, ForeignPolicy and Slate, and been Washington Post and Audible bestsellers. These are my biggest, publicly accessible works.  
 
 #-------------------------------
+# Blog Section
+blog:
+  enable: true
+blog__settings:
+  blog__title: Blog
+  blog__description:  I write about a lot of things. Not all of them make it out alive past my inner critic. This is where I park the survivors.    
+
+#-------------------------------
 # notes Settings
 note:
   enable: false
-  note__title: Notes + backmatter
+  note__title: Notes + Backmatter
   note__description: Supplementary material from my books, usually notes from me about the composition. 
 
 #-------------------------------
@@ -142,10 +143,10 @@ project:
 
 #-------------------------------
 # software Settings
-software:
-  enable: true
-  software__title: Software
-  software__description: I speak to the machine often, and from time to time I produce something that might be interesting. Here's a few of them.
+#software:
+#  enable: false
+#  software__title: Software
+#  software__description: I speak to the machine often, and from time to time I produce something that might be interesting. Here's a few of them.
 
 #-------------------------------
 # Testimonials Section
