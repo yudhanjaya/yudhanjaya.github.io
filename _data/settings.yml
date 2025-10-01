@@ -197,8 +197,8 @@ testimonial__items:
 blog:
   enable: false
 blog__settings:
-  blog__title: Essays and updates
-  blog__description:  I write about a lot of things - technology, science fiction, the future, and my own experiences with them. Not all of them make it out alive past my inner critic. This is where I park the survivors.    
+  blog__title: Blog
+  blog__description:  I write about a lot of things. Not all of them make it out alive past my inner critic. This is where I park the survivors.    
 
 #-------------------------------
 # Footer Settings
