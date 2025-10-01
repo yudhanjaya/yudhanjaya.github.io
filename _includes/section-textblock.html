@@ -1,0 +1,14 @@
+{% {% if site.data.settings.textblock.enable == true %}
+<section class="textblock">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+        <div class="textblock__content">
+          <h1 class="textblock__title">{{ site.data.settings.text_block.title }}</h1>
+          <p class="textblock__description">{{ site.data.settings.text_block.description }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{% endif %}

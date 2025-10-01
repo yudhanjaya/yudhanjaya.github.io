@@ -48,8 +48,8 @@ social:
 # Hero Settings
 hero:
   enable: true
-  hero__title: Hi. I'm Yudhanjaya Wijeratne. I'm a storyteller from Colombo, Sri Lanka. 
-  hero__description: I'm an award-winning author, itinerant gardener, occasional programmer and eternal amateur. Welcome to my portfolio and digital garden.
+  hero__title: I'm Yudhanjaya Wijeratne.  
+  hero__description: I'm a storyteller, itinerant gardener, occasional programmer - and an eternal amateur. Welcome to my portfolio and digital garden. 
   hero__image: '/images/yudha.jpg'
 
 
@@ -95,6 +95,12 @@ mailchimp:
   mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
   mailchimp__input__text: Your email address...
   mailchimp__button__text: Subscribe
+
+
+textblock:
+  enable: true
+  title: "On clutter -"
+  description: I've written novels and short stories, some of which have won awards, been bestsellers, or been optioned for adaptation. At other points, I've been a journalist, a data scientist, a policy researcher; I've built one of Sri Lanka's best factchecking and investigative journalism outlets, exited startups, and built software tools for fun. Because of this varied nature, I'll have a few things around here, often sorted haphazardly. 
 
 
 #-------------------------------
