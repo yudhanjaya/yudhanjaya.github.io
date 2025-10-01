@@ -16,14 +16,18 @@ menu__settings:
       url: '/about/'
     - title: 'Books'
       url: '/book/'
-    - title: 'Software'
-      url: '/software/'
+#    - title: 'Software'
+#      url: '/software/'
     - title: 'Projects'
       url: '/project/'
-    - title: 'Essays + Errata'
-      url: '/essay/'
-    - title: 'Notes + Backmatter'
-      url: '/note/'
+    - title: 'Shorform'
+      submenu:
+      - title: 'Blog'
+        url: '/blog/'
+      - title: 'Essays + Errata'
+        url: '/essay/'
+      - title: 'Notes + Backmatter'
+        url: '/note/'
 
 #-------------------------------
 # Author Settings
@@ -116,6 +120,7 @@ book:
 # Blog Section
 blog:
   enable: true
+  
 blog__settings:
   blog__title: Blog
   blog__description:  I write about a lot of things. Not all of them make it out alive past my inner critic. This is where I park the survivors.    
@@ -138,7 +143,7 @@ essay:
 # Projects
 project:
   enable: true
-  project__title: Special Projects
+  project__title: Projects
   project__description: I’m usually working on several things at any given time. Sometimes these are tiny projects - sometimes they’re long, perpetual, possibly Sisyphean acts of tomfoolery. This is what I’m working on right now.
 
 #-------------------------------
