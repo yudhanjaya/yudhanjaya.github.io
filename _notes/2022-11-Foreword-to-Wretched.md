@@ -3,7 +3,7 @@ title: Foreword to the Wretched and the Damned
 description: A group of superpowered malcontents take down the corrupt, nepotistic government of Sri Lanka.
 category: Ideas
 date: November, 2022
-image: /images/covers/wretchedanddamned.pjg
+image: /images/covers/wretchedanddamned.jpg
 image_caption:
 ---
 
