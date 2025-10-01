@@ -20,9 +20,9 @@ menu__settings:
       url: '/software/'
     - title: 'Projects'
       url: '/project/'
-    - title: 'Essays and updates'
+    - title: 'Essays + Errata'
       url: '/essay/'
-    - title: 'Notes and errata'
+    - title: 'Notes + Backmatter'
       url: '/note/'
 
 #-------------------------------
