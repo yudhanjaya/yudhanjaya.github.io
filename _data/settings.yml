@@ -100,8 +100,8 @@ mailchimp:
 # Textblock
 textblock:
   enable: true
-  title: "A note on clutter -"
-  description: I've written novels and short stories, some of which have won awards, been bestsellers, or been optioned for adaptation. At other points, I've been a journalist, a data scientist, a policy researcher; I've built one of Sri Lanka's best factchecking and investigative journalism outlets, exited startups, and built software tools for fun. Because of this varied nature, I'll have a few very different things lying around here, like a bunch of half-organized LEGOs; and every year I'll come back and try to make sense of it all; an ongoing optimization ex nihilo, ad nihilo. Drop me a line if you want to chat about any of it.
+  textblock_title: A note on clutter -
+  textblock_description: I've written novels and short stories, some of which have won awards, been bestsellers, or been optioned for adaptation. At other points, I've been a journalist, a data scientist, a policy researcher; I've built one of Sri Lanka's best factchecking and investigative journalism outlets, exited startups, and built software tools for fun. Because of this varied nature, I'll have a few very different things lying around here, like a bunch of half-organized LEGOs; and every year I'll come back and try to make sense of it all; an ongoing optimization ex nihilo, ad nihilo. Drop me a line if you want to chat about any of it.
 
 
 #-------------------------------
@@ -122,8 +122,8 @@ note:
 # essays Settings
 essay:
   enable: false
-  note__title: Essays + errata
-  note__description: I write about a lot of things - technology, science fiction, the future, and my own experiences with them. Not all of them make it out alive past my inner critic. This is where I park the survivors.
+  essay__title: Essays + errata
+  essay__description: I write about a lot of things - technology, science fiction, the future, and my own experiences with them. Not all of them make it out alive past my inner critic. This is where I park the survivors.
 
 #-------------------------------
 # Projects
