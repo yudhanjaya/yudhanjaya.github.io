@@ -76,6 +76,11 @@ defaults:
       type: "softwares"
     values:
       layout: "software"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
 
 sass:
   sass_dir: _sass
