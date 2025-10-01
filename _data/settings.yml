@@ -4,7 +4,7 @@ title: Yudhanjaya
 #logo: '/images/icon.png'
 description: Portfolio, links, contact details and more for Yudhanjaya Wijeratne.
 color_scheme: light # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
-#Abandon all hope, ye who enter here - Lasciate ogne speranza, voi ch'intrate - just keep changin
+#Abandon all hope, ye who enter here - Lasciate ogne speranza, voi ch'intrate
 
 #-------------------------------
 # Navigation Settings
@@ -48,8 +48,8 @@ social:
 # Hero Settings
 hero:
   enable: true
-  hero__title: Hi. I'm Yudhanjaya Wijeratne.
-  hero__description: I'm a storyteller from Colombo, Sri Lanka. As of the time of writing, I'm an author, itinerant gardener, and I contribute to public policy around AI. \n At various points, I've been a journalist, a data scientist, a policy researcher; I've built one of Sri Lanka's best factchecking and investigative journalism outlets, exited startups, and built free software tools for fun. \n You can think of me as an eternal amateur. \n Welcome to my portfolio and digital garden.
+  hero__title: Hi. I'm Yudhanjaya Wijeratne. I'm a storyteller from Colombo, Sri Lanka. 
+  hero__description: I'm an award-winning author, itinerant gardener, occasional programmer and eternal amateur. Welcome to my portfolio and digital garden.
   hero__image: '/images/yudha.jpg'
 
 
@@ -57,7 +57,7 @@ hero:
 # Logos Settings
 logos:
   enable: true
-  logos__title: I’ve been featured in some interesting places. 
+  logos__title: I've showed up in some interesting places.
 
 logo__items:
   - name: Google Research
