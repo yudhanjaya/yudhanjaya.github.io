@@ -97,6 +97,14 @@ mailchimp:
   mailchimp__button__text: Subscribe
 
 #-------------------------------
+# Blog Section
+blog:
+  enable: true
+blog__settings:
+  blog__title: Blog
+  blog__description:  I write about a lot of things. Not all of them make it out alive past my inner critic. This is where I park the survivors.    
+
+#-------------------------------
 # Textblock
 textblock:
   enable: true
@@ -192,13 +200,6 @@ testimonial__items:
 
  
 
-#-------------------------------
-# Blog Section
-blog:
-  enable: false
-blog__settings:
-  blog__title: Blog
-  blog__description:  I write about a lot of things. Not all of them make it out alive past my inner critic. This is where I park the survivors.    
 
 #-------------------------------
 # Footer Settings
