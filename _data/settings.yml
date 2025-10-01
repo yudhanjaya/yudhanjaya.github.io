@@ -20,14 +20,12 @@ menu__settings:
 #      url: '/software/'
     - title: 'Projects'
       url: '/project/'
-    - title: 'Shorform'
-      submenu:
-      - title: 'Blog'
-        url: '/blog/'
-      - title: 'Essays + Errata'
-        url: '/essay/'
-      - title: 'Notes + Backmatter'
-        url: '/note/'
+    - title: 'Blog'
+      url: '/blog/'
+    - title: 'Essays + Errata'
+      url: '/essay/'
+    - title: 'Notes + Backmatter'
+      url: '/note/'
 
 #-------------------------------
 # Author Settings
@@ -119,8 +117,8 @@ book:
 #-------------------------------
 # Blog Section
 blog:
-  enable: true
-  
+  enable: false
+
 blog__settings:
   blog__title: Blog
   blog__description:  I write about a lot of things. Not all of them make it out alive past my inner critic. This is where I park the survivors.    
