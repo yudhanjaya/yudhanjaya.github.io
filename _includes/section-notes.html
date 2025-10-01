@@ -1,0 +1,45 @@
+{% if site.data.settings.note.enable == true %} 
+<!-- begin notes -->
+<div class="container">
+  <section class="section notes animate">
+    <div class="row">
+
+      <div class="col col-4 col-d-12">
+        <div class="section__info">
+          <h2 class="section__title">{{ site.data.settings.note.note__title }}</h2>
+          {% if site.data.settings.note.note__description %}
+          <p class="section__description">{{ site.data.settings.note.note__description }}</p>
+          {% endif %}
+          <a href="{{ '/note' | relative_url }}" class="section__link">Show all <i class="ion ion-md-arrow-forward"></i></a>
+        </div>
+      </div>
+
+      <div class="col col-8 col-d-12">
+        <div class="row">
+          {% assign sorted = site.notes | sort: 'date' | reverse %}
+          {% for note in sorted limit:4 %}
+          <article class="note col col-6 col-d-12">
+            <div class="note__content">
+              <a href="{{ note.url }}" class="note__image">
+                <img class="lazy" data-src="{{ note.image }}" alt="{{ note.title }}">
+              </a>
+              <div class="note__info">
+                {% if note.category %}
+                <div class="note__category">{{ note.category }}</div>
+                {% endif %}
+                <h3 class="note__title"><a href="{{ note.url }}">{{ note.title }}</a></h3>
+                {% if note.description %}
+                <p class="note__description">{{ note.description }}</p>
+                {% endif %}
+              </div>
+            </div>
+          </article>
+          {% endfor %}
+        </div>
+      </div>
+
+    </div>
+  </section>
+</div>
+<!-- end notes -->
+{% endif %}
