@@ -8,22 +8,20 @@ image_caption: Photo by Dirk Skiba Fotografie.
 ---
 
 
+Here's my latest professional bio:
 
+Yudhanjaya Wijeratne is an author, data scientist, and journalist from Sri Lanka. He is also the co-founder and editor-in-chief of Watchdog Sri Lanka, a factchecker, investigative journalism hub, and community tech builder. The organization has led major investigations, such as using satellite imagery analysis to locate mass graves, archiving and analysis of vast troves of government data to explain electricity and infrastructure failures, and building open-source medical donations software subsequently used by the Red Cross and Ministry of Health.
 
-Here's my latest bio:
+His fiction includes novels like Numbercaste, The Wretched and the Damned, and The Salvage Crew, as well as short stories and occasional game design.
 
-Yudhanjaya Wijeratne is an author, data scientist and general tinkerer from Colombo, Sri Lanka. He is the co-founder and Editor-in-Chief of Watchdog, a research collective that works on fact checking, investigative journalism and community tech.  
-
-His fiction includes novels like Numbercaste, The Inhuman Race, The Wretched and the Damned, and The Salvage Crew. His stories have won the Gratiaen prize, been nominated for the Nebula and Independent Games Festival awards, appeared in venues like Wired, ForeignPolicy and Slate, and been Washington Post and Audible bestsellers. He has, somewhat unfortunately, also shown up on Forbes‘ 30 Under 30. He has several cats who care about none of these things, and spends most of his time on his homestead in Kandy, learning the care and feeding of potato plants.
-
-
+His work has won the Gratiean Prize, been nominated for the Nebula and Independent Games Festival awards, appeared in publications including Wired, Foreign Policy, and Slate, and been Washington Post and Audible bestsellers.
 ---
 
 # CV, TLDR version:
 
 
 
-* [Open Society Fellow, 2025](https://www.opensocietyfoundations.org/grants/open-society-fellowship). 
+* Open Society Fellow, 2025. 
 
 * Appointed to Sri Lanka's National AI Advisory Committee in 2025, where I work on making it easier for citizens to interact with government via the Government Information Center, and with some ambitious dataset creation for Sinhala and Tamil - something I've been working around for a while now. 
   
@@ -39,9 +37,9 @@ His fiction includes novels like Numbercaste, The Inhuman Race, The Wretched and
 
 * Served as founding editor of Readme.LK, a leading technology publication in Sri Lanka. Grew the publication and team.
   
-* Started out working retail at Redline Technologies in a mall (Majestic City, Colombo). Learned a lot about how to build. 
+* Started out working retail at Redline Technologies in a mall (Majestic City, Colombo). Learned a lot about how to build computers and how retail supply chains worked. 
   
-General: Forbes 30 Under 30 honoree, Gratiaen Prize winner for fiction, and Nebula and IGF award-nominated author, TEDx speaker. Largely self-taught (programming, writing and a whole lot more).  
+General: Forbes 30 Under 30 honoree, Gratiaen Prize winner for fiction, and Nebula and IGF award-nominated author, TEDx speaker. Largely self-taught.  
 
 # Bibliography
 
@@ -67,7 +65,8 @@ I’ve written a number of novels (multi-book deals with HarperCollins and Aetho
 - The Inhuman Peace (2021, HarperCollins India)
 - The Inhuman Race (2018, HarperCollins India)
 
-I also work on a fictional, open-source city called [**Witness over at the SciFi Economics Lab**.](http://scifieconomics.world/) Witness is an open-source collaborative futures design project that examines alternate economies and tries to get the underlying principles right. Then there's [Sonnet for the Subconcious War, and other poems from the Automaton (2019)](https://yudhanjaya.com/project/2019-04-osun), a spin-off from my OSUN project - a poetry collaboration between my retrained GPT-instances and Samuel Peralta, bound for the Moon via the [Lunar Codex project](https://www.lunarcodex.com/).
+I also worked on a fictional, open-source city called [**Witness over at the SciFi Economics Lab**.](http://scifieconomics.world/) Witness is an open-source collaborative futures design project that examines alternate economies and tries to get the underlying principles right. Then there's [Sonnet for the Subconcious War, and other poems from the Automaton (2019)](https://yudhanjaya.com/project/2019-04-osun), a spin-off from my OSUN project - a poetry collaboration between my retrained GPT-instances and Samuel Peralta, bound for the Moon via the [Lunar Codex project](https://www.lunarcodex.com/).
+
 ## Games
 
 I’ve contributed to **[Neurocracy](https://www.theverge.com/2021/7/14/22577088/neurocracy-wikipedia-murder-mystery-game)** (2021), a conspiracy thriller / murder mystery set in the pages of a rapidly mutating, near-future Wikipedia. Neurocracy won the New Media Writing Prize and was nominated for the IGF Excellence in Narrative award.
@@ -82,7 +81,7 @@ I also co-designed Witness: the Game (2021), a card game that puts you in charge
   </div>
 </div>
 
-When I began writing short stories in 2017, I approached them primarily as a method to teach myself the craft. I wanted to examine ideas from different angles and learn to see the stories within them. Many of these works have now been collected in a print collection titled *The Slow Sad Suicide of Rohan Wijeratne*. Some other stuff is on [the Moon, courtesy of the Lunar Codex](
+When I began writing short stories in 2017, I approached them primarily as a method to teach myself the craft. I wanted to examine ideas from different angles and learn to see the stories within them. Many of these works have now been collected in a print collection titled *The Slow Sad Suicide of Rohan Wijeratne*. Some other stuff is on the Moon via the [Lunar Codex project](https://www.lunarcodex.com/).
 
 
 - **The Limits of my Language (2024).** Published by Grimdark Magazine, issue #38. [Link](https://www.grimdarkmagazine.com/product/grimdark-magazine-38/) 
