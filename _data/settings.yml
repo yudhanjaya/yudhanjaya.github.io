@@ -25,10 +25,11 @@ menu__settings:
 #      url: '/software/'
     - title: 'Projects'
       url: '/project/'
-    - title: 'Blog'
-      url: '/blog/'
     - title: 'Essays + Errata'
       url: '/essay/'
+    - title: 'Blog'
+      url: '/blog/'
+
 
 
 #-------------------------------
