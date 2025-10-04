@@ -1,4 +1,4 @@
----
+<img width="800" height="1067" alt="image" src="https://github.com/user-attachments/assets/a2d821c9-2a2f-4a3d-b375-eb0b37953402" />---
 layout: page
 title: About me
 description: To get in touch, reach out to hello [at] yudhanjaya [dot] com, or contact fingan [at] zenoagency [dot] com to talk to my agent. Responses from my end may take time.
@@ -9,7 +9,6 @@ image_caption: Photo by Dirk Skiba Fotografie.
 
 
 
-I write, both as a fictioneer and a journalist; I investigate systems, pasts and futures; I program; I work with, think about, and even fictionalize artificial intelligence and machine learning; and in the middle of all this I try to learn how to make things grow. 
 
 Here's my latest bio:
 
@@ -59,6 +58,7 @@ I’ve written a number of novels (multi-book deals with HarperCollins and Aetho
 - Choir of Hatred (2025, Aethon)
 - Pilgrim Machines (2024, Aethon)
 - The Salvage Crew (2020, Aethon)
+
 ## In the Commonwealth Empires trilogy
 
 - The Inhuman War (TBD, HarperCollins India)
@@ -74,6 +74,7 @@ I also co-designed Witness: the Game (2021), a card game that puts you in charge
 
 ## Short stories
 
+<img width="800" height="1067" alt="image" src="https://github.com/user-attachments/assets/cd8fa392-bd36-4f03-912b-661083f6098b" />
 
 When I began writing short stories in 2017, I approached them primarily as a method to teach myself the craft. Rather than focusing merely on producing words, I wanted to examine ideas from different angles and learn to see the stories within them. Many of these works have now been collected in a print collection titled *The Slow Sad Suicide of Rohan Wijeratne*. 
 
@@ -95,7 +96,7 @@ When I began writing short stories in 2017, I approached them primarily as a met
 - **Ozymandias** (2019). Published in _Horizons Beyond_.
 - **Omega Point: a Short Story about God** (2018). Self-published. [Link](https://www.amazon.com/Omega-Point-short-story-about/dp/198084139X) 
 - **Dreadnought** (2017). Published in _The Expanding Universe 3_.
-- **The Slow Sad Suicide of Rohan Wijeratne** (2017). Self-published. [Link](https://www.amazon.com/Slow-Sad-Suicide-Rohan-Wijeratne-ebook/dp/B0777KJ3S2)
+- **The Slow Sad Suicide of Rohan Wijeratne** (2017). Self-published, republished in the Slow Sad Suicide (collection) by Perera Hussein and in Grimdark Issue #44. [Link](https://www.amazon.com/Slow-Sad-Suicide-Rohan-Wijeratne-ebook/dp/B0777KJ3S2)
 
 
 ## Nonfiction / academia
