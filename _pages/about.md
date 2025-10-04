@@ -1,4 +1,4 @@
-<img width="800" height="1067" alt="image" src="https://github.com/user-attachments/assets/a2d821c9-2a2f-4a3d-b375-eb0b37953402" />---
+---
 layout: page
 title: About me
 description: To get in touch, reach out to hello [at] yudhanjaya [dot] com, or contact fingan [at] zenoagency [dot] com to talk to my agent. Responses from my end may take time.
@@ -74,7 +74,7 @@ I also co-designed Witness: the Game (2021), a card game that puts you in charge
 
 ## Short stories
 
-<img width="800" height="1067" alt="image" src="https://github.com/user-attachments/assets/cd8fa392-bd36-4f03-912b-661083f6098b" />
+<img width="800" height="1067" alt="image" src="https://github.com/user-attachments/assets/a2d821c9-2a2f-4a3d-b375-eb0b37953402" />
 
 When I began writing short stories in 2017, I approached them primarily as a method to teach myself the craft. Rather than focusing merely on producing words, I wanted to examine ideas from different angles and learn to see the stories within them. Many of these works have now been collected in a print collection titled *The Slow Sad Suicide of Rohan Wijeratne*. 
 
