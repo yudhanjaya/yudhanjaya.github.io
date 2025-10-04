@@ -72,9 +72,9 @@ I also worked on a fictional, open-source city called [**Witness over at the Sci
 
 ## Games
 
-I’ve contributed to **[Neurocracy](https://www.theverge.com/2021/7/14/22577088/neurocracy-wikipedia-murder-mystery-game)** (2021), a conspiracy thriller / murder mystery set in the pages of a rapidly mutating, near-future Wikipedia. Neurocracy won the New Media Writing Prize and was nominated for the IGF Excellence in Narrative award.
-
 I also co-designed Witness: the Game (2021), a card game that puts you in charge of different societies facing a wave of Black Swan events (from pandemics to market crashes). You play policies depending on the type of society you run. For example, a capitalist cyberpunk world responds very differently to a religious autocracy. It draws from Witness and the work of the SciFi Economics Lab, and the Edgeryders research network in general. 
+
+I’ve contributed in a very minor way to [Neurocracy](https://www.theverge.com/2021/7/14/22577088/neurocracy-wikipedia-murder-mystery-game) (2021), a conspiracy thriller / murder mystery set in the pages of a rapidly mutating, near-future Wikipedia. Neurocracy won the New Media Writing Prize and was nominated for the IGF Excellence in Narrative award.
 
 ## Short stories
 
