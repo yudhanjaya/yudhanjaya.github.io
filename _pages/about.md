@@ -74,9 +74,13 @@ I also co-designed Witness: the Game (2021), a card game that puts you in charge
 
 ## Short stories
 
-<img width="800" height="1067" alt="image" src="https://github.com/user-attachments/assets/a2d821c9-2a2f-4a3d-b375-eb0b37953402" />
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/gdm44.jpg" loading="lazy" alt="The cover of Grimdark Magazine, issue #44">
+  </div>
+</div>
 
-When I began writing short stories in 2017, I approached them primarily as a method to teach myself the craft. Rather than focusing merely on producing words, I wanted to examine ideas from different angles and learn to see the stories within them. Many of these works have now been collected in a print collection titled *The Slow Sad Suicide of Rohan Wijeratne*. 
+When I began writing short stories in 2017, I approached them primarily as a method to teach myself the craft. I wanted to examine ideas from different angles and learn to see the stories within them. Many of these works have now been collected in a print collection titled *The Slow Sad Suicide of Rohan Wijeratne*. Some other stuff is on [the Moon, courtesy of the Lunar Codex](
 
 
 - **The Limits of my Language (2024).** Published by Grimdark Magazine, issue #38. [Link](https://www.grimdarkmagazine.com/product/grimdark-magazine-38/) 
