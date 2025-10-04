@@ -23,9 +23,11 @@ His fiction includes novels like Numbercaste, The Inhuman Race, The Wretched and
 
 
 
+* [Open Society Fellow, 2025](https://www.opensocietyfoundations.org/grants/open-society-fellowship). 
+
 * Appointed to Sri Lanka's National AI Advisory Committee in 2025, where I work on making it easier for citizens to interact with government via the Government Information Center, and with some ambitious dataset creation for Sinhala and Tamil - something I've been working around for a while now. 
   
-* Co-founded Dossiers, a KYC + AML solution for banks, financial institutions, and journalists. Ended up on Meta's Llama Hall of Fame, 2024, for some of the stuff we're doing with local finetuned AI models. I build hardware and models. 
+* Co-founded Dossiers, a KYC + AML solution for banks, financial institutions, and journalists. Ended up on Meta's Llama Hall of Fame, 2024, for some of the stuff we're doing with local finetuned AI models. I exited in 2025. 
   
 * Co-founded Watchdog, a nonprofit focused on data journalism and civic technology in Sri Lanka. As CEO, raised over $400k, built a multidisplicinary team of computer scientists, journalists and researchers, doing stuff like tracking 600+ projects, mapping mass graves using satellite imagery and old-school journalism, and building a simulation of the city of Colombo - probably the most ambitious build in Cities: Skylines.
   
