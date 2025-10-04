@@ -15,6 +15,7 @@ Yudhanjaya Wijeratne is an author, data scientist, and journalist from Sri Lanka
 His fiction includes novels like Numbercaste, The Wretched and the Damned, and The Salvage Crew, as well as short stories and occasional game design.
 
 His work has won the Gratiean Prize, been nominated for the Nebula and Independent Games Festival awards, appeared in publications including Wired, Foreign Policy, and Slate, and been Washington Post and Audible bestsellers.
+
 ---
 
 # CV, TLDR version:
@@ -40,6 +41,8 @@ His work has won the Gratiean Prize, been nominated for the Nebula and Independe
 * Started out working retail at Redline Technologies in a mall (Majestic City, Colombo). Learned a lot about how to build computers and how retail supply chains worked. 
   
 General: Forbes 30 Under 30 honoree, Gratiaen Prize winner for fiction, and Nebula and IGF award-nominated author, TEDx speaker. Largely self-taught.  
+
+---
 
 # Bibliography
 
@@ -106,9 +109,9 @@ When I began writing short stories in 2017, I approached them primarily as a met
 
 ## Nonfiction / academia
 
-Here’s **[my Google Scholar profile](https://scholar.google.com/citations?user=iWHwBQEAAAAJ&hl=en&oi=ao)**; it contains my academic papers. 
+The first port of call would be [**watchdog.team**](https://watchdog.team/), where our longform explains the large systems that keep things running - combining shoe-leather journalism, data science, software engineering, and a lot of shovel work. I count these two as my most important contributions to the world. 
 
-I primarily worked on natural language processing (NLP) and machine learning, with a strong focus on low-resource languages like Sinhala and Bengali. My research delves into various applications, including sentiment analysis of social media data (specifically Facebook), fake news detection and classification, and the development of language-specific resources such as corpora and sentence embeddings. 
+The second would be my academic papers. Here’s **[my Google Scholar profile](https://scholar.google.com/citations?user=iWHwBQEAAAAJ&hl=en&oi=ao)**. I primarily worked on natural language processing (NLP) and machine learning, with a strong focus on low-resource languages like Sinhala and Bengali. My research delves into various applications, including sentiment analysis of social media data (specifically Facebook), fake news detection and classification, and the development of language-specific resources such as corpora and sentence embeddings. 
 
 There are tendrils touching upon broader societal implications of AI, such as bias in machine learning, the challenges of moderating hate speech online, and the application of data analytics to understand socio-economic factors like poverty, regional connectivity, and even government operations. Underlying this all as a theme is the practical application of these technologies, often in the context of Sri Lanka and the challenges faced here.
 
@@ -133,9 +136,8 @@ In list form:
 - Wijeratne, Y., Lokanathan, S., & Samarajiva, R. (2018). Countries of a feather: Analyzing homophily and connectivity between nations through facebook data. _TPRC_.
 - Samarajiva, R., & Wijeratne, Y. (2018). Use of data analytics in understanding transport.
 
-The second port of call would be [**watchdog.team**](https://watchdog.team/), where our longform explains the large systems that keep things running - combining shoe-leather journalism, data science, software engineering, and a lot of shovel work. I count these two as my most important contributions to the world. 
 
-**Miscellaneous work:**
+Third would be my miscellaneoous long-form reports, for organizations ranging from news organizations to think tanks. 
 
 - [The Ocean of Change: An exploration of megatrends within the Asia-Pacific region](https://lirneasia.net/megatrends) A mapping of inevitable changes on a 2030 timeline; regional shifts to face the challenges presented, and wildcards that can throw monkey wrenches in the works. Based on ontent analysis on national policy documents from influential governments in the region, and futures forecasts from noted bodies, and paired with statistical projections from a range of bodies such as the APERC, the UNDP, and academics in economics. Performed by LIRNE*asia* with funding from the UNDP.
 
