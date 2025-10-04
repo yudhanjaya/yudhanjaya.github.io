@@ -15,7 +15,12 @@ menu__settings:
     - title: 'About'
       url: '/about/'
     - title: 'Books'
-      url: '/book/'
+      submenu:
+      - url: '/book/'
+        title: 'Fiction + Nonfiction'
+      - url: '/note/
+        title: 'Notes + Backmatter'
+        
 #    - title: 'Software'
 #      url: '/software/'
     - title: 'Projects'
@@ -24,8 +29,7 @@ menu__settings:
       url: '/blog/'
     - title: 'Essays + Errata'
       url: '/essay/'
-    - title: 'Notes + Backmatter'
-      url: '/note/'
+'
 
 #-------------------------------
 # Author Settings
