@@ -18,7 +18,7 @@ menu__settings:
       submenu:
       - url: '/book/'
         title: 'Fiction + Nonfiction'
-      - url: '/note/
+      - url: '/book/note/'
         title: 'Notes + Backmatter'
         
 #    - title: 'Software'

@@ -34,7 +34,7 @@ collections:
     permalink: /project/:slug
   notes:
     output: true
-    permalink: /note/:slug
+    permalink: /book/note/:slug
 #  softwares:
 #    output: true
 #    permalink: /software/:slug
