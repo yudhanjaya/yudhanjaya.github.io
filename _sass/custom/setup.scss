@@ -1,0 +1,14 @@
+// custom setup code goes here
+
+// Google Fonts — overridable from _config.yml via theme.google_fonts_url
+$import_url: "https://fonts.googleapis.com/css2?family=League+Spartan:wght@400;700&family=Lora:ital,wght@0,400;0,700;1,400&display=swap" !default;
+@import url(#{$import_url});
+
+// Font families — overridable from _config.yml via theme.heading_font / theme.body_font
+$body-font-family: 'Lora', Georgia, 'Times New Roman', serif !default;
+$heading-font-family: 'Oswald', 'Anton', system-ui, -apple-system, sans-serif !default;
+$mono-font-family: 'Courier Prime', 'SFMono-Regular', menlo, monospace !default;
+
+$root-font-size: 18px !default;
+$body-line-height: 1.6 !default;
+$amber-000: #c4a472 !default;

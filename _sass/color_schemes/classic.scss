@@ -1,0 +1,16 @@
+// Cerulean & Khaki — broadsheet colorway (Option C)
+@import "./light";
+
+$color-scheme: classic;
+
+$body-background-color: #faf5ec; // brighter, whiter cream
+$body-text-color: #1c1c1c;       // charcoal
+$body-heading-color: #1c1c1c;
+$link-color: #1565a8;             // deeper cerulean
+$amber-000: #c4a472;              // khaki (secondary accent)
+$nav-child-link-color: #eee8dc;  // slightly warmer cream for slate sidebar
+$sidebar-color: #2e3a45;          // dark slate blue
+$feedback-color: #243039;         // slightly darker slate
+$border-color: #c8b898;           // warm sepia rule
+
+@import "./vendor/accessible-pygments/github-light";

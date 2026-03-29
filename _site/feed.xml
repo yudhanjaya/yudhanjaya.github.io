@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Yudhanjaya Wijeratne — Posts</title>
+  <subtitle>The homeppage of author Yudhanjaya Wijeratne. Links, information, updates, and other writings.</subtitle>
+  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="http://localhost:4000/" rel="alternate" type="text/html"/>
+  <id>http://localhost:4000/</id>
+  <updated>2026-03-29T10:50:07+05:30</updated>
+  <author>
+    <name>Yudhanjaya Wijeratne</name>
+  </author><entry>
+    <title>Can You Vibe-Code a Novel?</title>
+    <link href="http://localhost:4000/posts/can-you-vibe-code-a-novel/" rel="alternate" type="text/html"/>
+    <id>http://localhost:4000/posts/can-you-vibe-code-a-novel/</id>
+    <published>2025-03-01T00:00:00+05:30</published>
+    <updated>2025-03-01T00:00:00+05:30</updated>
+    <summary>A 33,000-word experiment: using Claude 3.7 Sonnet and Gemini to generate a novel premise, setting, characters, and plot outline — and asking whether AI&apos;s real limitation is capability or artistic motivation.</summary>
+  </entry><entry>
+    <title>The Fate of the Gorillas</title>
+    <link href="http://localhost:4000/posts/fate-of-the-gorillas/" rel="alternate" type="text/html"/>
+    <id>http://localhost:4000/posts/fate-of-the-gorillas/</id>
+    <published>2024-08-01T00:00:00+05:30</published>
+    <updated>2024-08-01T00:00:00+05:30</updated>
+    <summary>A framework for thinking about AI: faster intelligence vs. stranger intelligence, and what superintelligence might actually look like when you look past the chatbots.</summary>
+  </entry><entry>
+    <title>My Low Power Writing Setup</title>
+    <link href="http://localhost:4000/posts/low-power-writing-setup/" rel="alternate" type="text/html"/>
+    <id>http://localhost:4000/posts/low-power-writing-setup/</id>
+    <published>2024-02-01T00:00:00+05:30</published>
+    <updated>2024-02-01T00:00:00+05:30</updated>
+    <summary>A minimalist writing station running at 24 watts: an Android gaming handheld, a wireless keyboard, and Obsidian. Built for distraction-free writing during Sri Lanka&apos;s power cuts.</summary>
+  </entry><entry>
+    <title>The Ricepunk Manifesto</title>
+    <link href="http://localhost:4000/posts/the-ricepunk-manifesto/" rel="alternate" type="text/html"/>
+    <id>http://localhost:4000/posts/the-ricepunk-manifesto/</id>
+    <published>2022-06-01T00:00:00+05:30</published>
+    <updated>2022-06-01T00:00:00+05:30</updated>
+    <summary>Towards a new theme, or a horrendously jumbled set of concerns. A framework for science fiction that centers South Asian relationships, hybrid cultures, and the shit sandwich.</summary>
+  </entry><entry>
+    <title>Mammals and Dinosaurs</title>
+    <link href="http://localhost:4000/posts/mammals-and-dinosaurs/" rel="alternate" type="text/html"/>
+    <id>http://localhost:4000/posts/mammals-and-dinosaurs/</id>
+    <published>2019-01-18T00:00:00+05:30</published>
+    <updated>2019-01-18T00:00:00+05:30</updated>
+    <summary>The Wild West of indie publishing is settling down. A look at collaborative publishers, franchise IP, and what the future of the book industry might look like.</summary>
+  </entry><entry>
+    <title>The Steam Hammer</title>
+    <link href="http://localhost:4000/posts/the-steam-hammer/" rel="alternate" type="text/html"/>
+    <id>http://localhost:4000/posts/the-steam-hammer/</id>
+    <published>2017-12-16T00:00:00+05:30</published>
+    <updated>2017-12-16T00:00:00+05:30</updated>
+    <summary>A speech given at the Arthur C Clarke Centennial, December 2017: on AI, John Henry, and whether you die with the steam hammer or learn to use it.</summary>
+  </entry>
+</feed>

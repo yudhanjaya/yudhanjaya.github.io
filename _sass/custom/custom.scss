@@ -1,0 +1,142 @@
+// custom SCSS (or CSS) goes here
+
+// Headings: use high-contrast display serif with clear size hierarchy
+h1,h2,h3,h4,h5,h6 {
+	font-family: $heading-font-family;
+	font-weight: 700;
+	letter-spacing: 0.02em;
+	line-height: 1.18;
+}
+
+h1 { font-size: 2.75rem !important; }
+h2 { font-size: 1.75rem !important; }
+h3 { font-size: 1.25rem !important; }
+h4 { font-size: 0.875rem !important; }
+h5 { font-size: 0.8rem !important; }
+h6 { font-size: 0.75rem !important; }
+
+// Body refinements
+body {
+	font-size: 1.125rem; // 18px base
+	line-height: $body-line-height;
+	color: $body-text-color;
+	background-color: $body-background-color;
+	font-family: $body-font-family;
+}
+
+// Subtle rules and blockquote treatment
+hr { background-color: $border-color; height: 1px; border: none; }
+blockquote {
+	border-left: 4px solid rgba($link-color, 0.12);
+	padding-left: $sp-4;
+	color: darken($body-text-color, 12%);
+	font-style: italic;
+}
+
+// Sidebar drop shadow
+.side-bar {
+	box-shadow: 4px 0 24px rgba(0, 0, 0, 0.18);
+}
+
+// Sidebar / navigation: cream text on charcoal masthead
+.nav-list .nav-list-link {
+	color: $nav-child-link-color !important; // cream
+}
+
+// Child nav items: khaki to show hierarchy
+.nav-list .nav-list .nav-list-link {
+	color: $amber-000 !important; // khaki
+}
+
+// Site title and nav category labels: cream
+.site-title,
+.nav-category {
+	color: $nav-child-link-color !important;
+	opacity: 0.7;
+}
+
+// Make sidebar typography match the header/heading typography
+.side-bar,
+.nav-list,
+.nav-list .nav-list-link,
+.nav-category,
+.aux-nav {
+	font-family: $heading-font-family;
+	font-weight: 700;
+	letter-spacing: 0.04em;
+}
+
+// Location tag
+.location-tag {
+	display: inline-block;
+	margin-top: 0.5rem;
+	padding: 0.2em 0.65em;
+	font-family: $heading-font-family;
+	font-size: 0.8rem;
+	font-weight: 700;
+	letter-spacing: 0.06em;
+	text-transform: uppercase;
+	color: $link-color;
+	background-color: rgba($link-color, 0.08);
+	border-radius: 3px;
+}
+
+// Drop shadow on all content images
+.main-content img {
+	box-shadow: 0 4px 24px rgba(0, 0, 0, 0.18), 0 1.5px 6px rgba(0, 0, 0, 0.10);
+	border-radius: 2px;
+}
+
+// Photo include styles
+.photo {
+	margin: $sp-4;
+
+	img {
+		max-width: 100%;
+		height: auto;
+		display: block;
+		box-shadow: 0 4px 24px rgba(0, 0, 0, 0.18), 0 1.5px 6px rgba(0, 0, 0, 0.10);
+		border-radius: 2px;
+	}
+
+	figcaption {
+		font-size: $root-font-size * 0.875;
+		color: $grey-dk-000;
+		font-style: italic;
+		margin-top: $sp-2;
+		text-align: center;
+	}
+}
+
+.photo-left {
+	float: left;
+	margin-right: $sp-4;
+	margin-bottom: $sp-4;
+	max-width: 50%;
+}
+
+.photo-center {
+	text-align: center;
+	clear: both;
+}
+
+.photo-right {
+	float: right;
+	margin-left: $sp-4;
+	margin-bottom: $sp-4;
+	max-width: 50%;
+}
+
+@media (max-width: 48rem) {
+	.photo-left,
+	.photo-right {
+		float: none;
+		max-width: 100%;
+		margin-left: 0;
+		margin-right: 0;
+		margin-bottom: $sp-4;
+	}
+}
+
+// Import shelf styles
+@import "shelf";
