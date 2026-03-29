@@ -17,7 +17,7 @@ title: Yudhanjaya Wijeratne
 description: The homeppage of author Yudhanjaya Wijeratne. Links, information, updates, and other writings.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://yudhanjaya.com" # the base hostname & protocol for your site, e.g. http://example.com
-repository: yudhanjaya/website # for github-metadata
+repository: yudhanjaya/yudhanjaya.github.io # for github-metadata
 
 permalink: pretty
 
