@@ -90,9 +90,11 @@ blockquote {
 // Photo include styles
 .photo {
 	margin: $sp-4;
+	box-sizing: border-box;
 
 	img {
 		max-width: 100%;
+		width: 100%;
 		height: auto;
 		display: block;
 		box-shadow: 0 4px 24px rgba(0, 0, 0, 0.18), 0 1.5px 6px rgba(0, 0, 0, 0.10);
