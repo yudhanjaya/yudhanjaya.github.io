@@ -1,8 +1,8 @@
 ---
 title: How to Build a House in Sri Lanka
 parent: Stonegarden
-nav_order: 5
-tags: [experiments]
+grand_parent: Experiments
+nav_order: 1
 date: 2025-01-01
 image: "/assets/images/experiments/stonegarden/how-to-house/closing.jpg"
 excerpt: "Hard-won lessons from five years of construction on a mountain in Kandy: contractors, architects, permits, costs, labour, and survival."
@@ -16,6 +16,8 @@ After five years of construction, we have finally finished our house. This is my
 
 {% include image.html image="/assets/images/experiments/stonegarden/how-to-house/opening.jpg" %}
 
+*This article updated April 1 2026: fixing grammar, spelling.*
+
 ---
 
 **On this page:**
@@ -28,7 +30,7 @@ After five years of construction, we have finally finished our house. This is my
   - [Your core features](#your-core-features)
 - [The Architect](#the-architect)
   - [Architect deliverables](#architect-deliverables)
-- [Permits](#permits)
+- [Permits, Water, Electricity](#permits-water-electricity)
 - [The Process of Construction](#the-process-of-construction)
   - [The build sequence](#the-build-sequence)
   - [The quasi-firm: what you need to know](#the-quasi-firm-what-you-need-to-know)
@@ -47,13 +49,19 @@ After five years of construction, we have finally finished our house. This is my
 
 Before we begin, you must understand one thing. There are three types of people who build houses in Sri Lanka.
 
-- **The professional high-end contractor.** These people at minimum have the correct national registrations and certifications - at minimum a CS2 grade certification from the Construction Industry Development Authority under the Ministry of Urban Development, Construction and Housing. They have architects, construction engineers, a workforce and equipment they can deploy, and project managers.
+### The professional high-end contractor.
 
-They tend to have decent websites. They may have designs on the site that you can peruse. Their staff have appropriate qualifications listed. They have publicly listed projects. Some of those projects may even be for large private or public corporations, which means you can actually go and see these things for yourself.
+These people have the correct national registrations and certifications - at minimum a CS2 grade certification from the Construction Industry Development Authority under the Ministry of Urban Development, Construction and Housing. 
 
-- **The less professional small business contractor.** These tend to be small private limited companies, usually headed by one person. Websites and public search presence are not necessarily what they're good at. They do not tend to have engineers or architects on staff. They may have some familiarity with people who can be hired for these jobs; but mostly what they are is project managers who will figure out local supply chains, find labour for your site, and handle materials, transport, and workers until the build is complete.
+They have architects, construction engineers, a workforce and equipment they can deploy, and project managers. They tend to have decent websites. They may have designs on the site that you can peruse. Their staff have appropriate qualifications listed. They have publicly listed projects. Some of those projects may even be for large private or public corporations, which means you can actually go and see these things for yourself.
 
-- **The local *baas unnahe* and his goalayo.**
+### The less professional small business contractor.
+
+These tend to be small private limited companies, usually headed by one person. Websites and public search presence are not necessarily what they're good at. They do not tend to have engineers or architects on staff. 
+
+They may have some familiarity with people who can be hired for these jobs; but mostly what they are is project managers who will figure out local supply chains, find labour for your site, and handle materials, transport, and workers until the build is complete.
+
+### The local baas unnahe and his goalayo.
 
 The reason for this division is the different cost and complexity of your involvement. The professional high-end contractor is the most expensive, but will require the least amount of time and energy on your part. The local baas is the cheapest, but will require an extraordinary amount of time, effort, and energy from your end to make sure the walls you build actually align. The small business contractor is exactly in the middle.
 
@@ -143,7 +151,7 @@ You don't necessarily have to be precise at this step or use complex software. O
 
 {% include image.html image="/assets/images/experiments/stonegarden/how-to-house/early-plans3.jpg" %}
 
-We then turned these into a Powerpoint:
+We then turned these into a PowerPoint:
 
 {% include image.html image="/assets/images/experiments/stonegarden/how-to-house/preliminary-design.png" %}
 
@@ -168,7 +176,7 @@ An architect's final job is to deliver to you a set of formal, printed building 
 
 The council plan contains the top structural view of a house, the front, the back, the sides, and importantly details of foundations, sewage, and your septic tanks. You then use these plans to apply for a Certificate of Conformity (CoC) from your local authority (Pradeshiya Sabhawa). There are of course other documents and forms involved, but this is the heart of the matter. You need a COC.
 
-A good architect will also be able to deliver a 3D render of the building, and update it as changes are required. No government approval process currently requires this three D step. But it is critical for you, the customer, to understand and visualize the site because architectural backgrounds will often not give you a very clear picture unless you're used to reading them.
+A good architect will also be able to deliver a 3D render of the building, and update it as changes are required. No government approval process currently requires this 3D step. But it is critical for you, the customer, to understand and visualize the site because architectural drawings will often not give you a very clear picture unless you're used to reading them.
 
 {% include image.html image="/assets/images/experiments/stonegarden/how-to-house/house-design2.png" %}
 
@@ -194,7 +202,7 @@ Even when architects are competent, they may not be designing with your price ta
 
 A good example is the late Geoffrey Bawa. His houses have an elegant tropical modernism about them, and yet - visit one, like Lunuganga - if you know anything about house maintenance, you will notice that keeping out insects and dust requires a great deal of labour. These designs were not built for people on a budget; they were built for people who could afford servants.
 
-Another example: Palinda Kannangara is making a name for himself espousing minimalism and closer integration with nature. I very much like his style because it's quite close to what we really like in terms of colours, textures, and how light works in that space. But you may have a maximalist style; you may want something that looks more like a Scandinavian apartment, or something that feels more like a English cottage, or even something that inherits from sort of the Dutch Sri Lankan architectural tradition that you see in Galle or in Jaffna. 
+Another example: Palinda Kannangara is making a name for himself espousing minimalism and closer integration with nature. I very much like his style because it's quite close to what we really like in terms of colours, textures, and how light works in that space. But you may have a maximalist style; you may want something that looks more like a Scandinavian apartment, or something that feels more like an English cottage, or even something that inherits from sort of the Dutch Sri Lankan architectural tradition that you see in Galle or in Jaffna. 
 
 Finally: treat your architects like doctors you don't particularly like. Get a second opinion. Once a project goes into serious planning, you are going to be stuck with that architect. We've both seen and experienced architects who don't listen to clients, vanish for months, or simply don't stick to timelines, so pick wisely.
 
@@ -206,7 +214,7 @@ In our case, my wife got so pissed off that she taught herself 3D modelling and 
 
 Pick the one you really like - ideally this is someone who works promptly and is accurate - and engage them for the final plan (which involves the chartered engineer) and the government-compliant designs. 
 
-It's absolutely critical that you get to that Council Plan stage.  Your architect tells you of these steps, you may have what feels like a very productive collaboration with your architect, only to find out they have left some very critical detail out. 
+It's absolutely critical that you get to that Council Plan stage. Even if your architect tells you of these steps, you may have what feels like a very productive collaboration with your architect, only to find out they have left some very critical detail out.
 
 In our case, for example, we had finalized the plan, so we thought everything was in tip top shape, and we actually began construction. The architect himself did regular side visits and saw no reason to inform us of any of the actual process requirements. 
 
@@ -224,11 +232,11 @@ And at which point he went, *Oh my god, you guys are completely fucked*.
 
 He was right. We were halfway through the building process. The council plans had not been submitted. We had to pay a fine for this at the end. The pain of this process is something I describe as squatting on a cactus.
 
-No, perhaps because of this back and forth, it is customary in Sri Lanka, particularly outside the cities, to hire a draftsman to take your plans, create the draft for you, sign the council plan, and get permission immediately.
+Perhaps because of this back and forth, it is customary in Sri Lanka, particularly outside the cities, to hire a draftsman to take your plans, create the draft for you, sign the council plan, and get permission immediately.
 
 I would not advise this process. Not only because it circumvents how things should be legally done, but for very practical reasons. We live in an area where this draftsman approach is quite common. What happens is that you end up spending millions on something that is substandard.
 
-We've seen multiple examples of this in our area (Galagedara): houses where beams were not built with the right thickness of concrete or the right strength of rebar, where foundations were not laid thick enough. As A result, when Cyclone Ditwa rolled around, slabs cracked under the pressure of earth and water. Many houses were completely destroyed.
+We've seen multiple examples of this in our area (Galagedara): houses where beams were not built with the right thickness of concrete or the right strength of rebar, where foundations were not laid thick enough. As a result, when Cyclone Ditwa rolled around, slabs cracked under the pressure of earth and water. Many houses were completely destroyed.
 
 {% include image.html image="/assets/images/experiments/stonegarden/how-to-house/foundations-and-beams.png" %}
 This stuff is critical.
@@ -246,7 +254,7 @@ Here's what I advise.
 
 - Lay down a concrete timeline with your architect for deliverables and the payouts. Some architects will ask for a percentage of the construction cost (3-5%). Others will work for flat fees.
 
-- A contract is important. We have seen and had many many cases of architects just vanishing or taking a whole year to send plans over. At which point the build just gets stuck in limbo.
+- A contract is important. We have seen and had many, many cases of architects just vanishing or taking a whole year to send plans over. At which point the build just gets stuck in limbo.
 
 - Read up on the relevant provincial council requirements for your area. Note that different authorities have different requirements. Read the [UDA approval process](https://www.uda.gov.lk/approval-process.html). The architect is responsible for ensuring the design adheres to planning regulations and for preparing the necessary clearances, survey plans, and deeds - but you should at least know what documents are required. If the processes for your area don't exist on the internet or are hard to find, just go to the provincial council and ask nicely. They will explain things to you and will hand over copies of forms and the whole nine yards. It will take a day out of your life, but it will save you many days of pain to come.
 
@@ -254,15 +262,15 @@ Here's what I advise.
 
 ---
 
-## Permits, Water, Electricity
+## Permits, Water, Electricity {: #permits-water-electricity}
 
 Let's assume you have a set of plans you're happy with. You've gone back and forth, moved a few bedrooms around, and now have a very good sense of what you're building.
 
 There are generally three big types of permits that you're going to have to think about.
 
-- **Approval permit** from the local provincial council or body appropriate for the task. These are the permits that allow you to actually build. Some of these may involve filling out forms for organizations that you may never have encountered. For example, we have a very nice document from the NBRO, the National Building Research Organization, that even lists our houses GPS coordinates. What the National Building Research Organization actually does, and how relevant they are to anything, I have no idea. It's a piece of paper, go get it signed.
+- **Approval permit** from the local provincial council or body appropriate for the task. These are the permits that allow you to actually build. Some of these may involve filling out forms for organizations that you may never have encountered. For example, we have a very nice document from the NBRO, the National Building Research Organization, that even lists our house's GPS coordinates. What the National Building Research Organization actually does, and how relevant they are to anything, I have no idea. It's a piece of paper, go get it signed.
 
-- **Water board.** Your second priority after getting planning permission should be getting running water to your site. Not only because you need to drink water from a tap, but because construction requires water. You will need to visit your local water board, file for permission. It may take a little bit of time. They're going to then do a site visit to decide where your meter will go. And then they will show up, dig up a piece of road, and actually you know, do the process of laying down the pipes that will go to your meter.
+- **Water board.** Your second priority after getting planning permission should be getting running water to your site. Not only because you need to drink water from a tap, but because construction requires water. You will need to visit your local water board, file for permission. It may take a little bit of time. They're going to then do a site visit to decide where your meter will go. And then they will show up, dig up a piece of road, and actually do the process of laying down the pipes that will go to your meter.
 
 - **Electricity.** Similar process as water: go to your local CEB office and they will most likely send the contractor over. In our case, the guy arrived in a truck with an electricity pole, planted the thing, filled some concrete around it, his guys went up, connected all the cables to the nearest poles, and gave us an endpoint.
 
@@ -334,7 +342,7 @@ As construction progresses your site will go from looking like a flat bit of ear
 
 In an ideal world, an SME should do a good job with you periodically checking in. In practice, project management tends to be poor. Labour will not show up. A site foreman may have an issue with certain workers. Procurement will be late, or materials will go missing. The tooling available to workers may range from excellent to stone-age. We've seen situations where five to ten thousand rupees' worth of tools - or a concrete mixer - would have significantly sped up work on a build costing multiple millions. We've had to force people to wear boots when working in mud, or gloves. And then the next day these things will be completely forgotten, and you'll be treated to the sight of an old man in a sarong bent double over a concrete slab, one-handing a circular saw with a beedi in his mouth.
 
-Obviously the fact that we can get work done this way contributes to the cheapness of labour in Sri Lanka. But it also means that standards can be bizarrely inconsistent - sometimes from slab to slab, day to day. People may get injured. You will have to put your foot down on certain things and practices. You can and should double check the angles of walls and foundations to see if they conform to the actual plan that you all agreed on.The final quality of what you expect will need a few harsh words and a site visit or three from your architect and engineer to make sure things happen as intended.
+Obviously the fact that we can get work done this way contributes to the cheapness of labour in Sri Lanka. But it also means that standards can be bizarrely inconsistent - sometimes from slab to slab, day to day. People may get injured. You will have to put your foot down on certain things and practices. You can and should double check the angles of walls and foundations to see if they conform to the actual plan that you all agreed on. The final quality of what you expect will need a few harsh words and a site visit or three from your architect and engineer to make sure things happen as intended.
 
 One more thing that nobody warns you about: materials theft. Cement bags, rebar, roofing sheets, tiles - they walk off sites. This happens more when you're not there, and more when materials are delivered and left unattended. Keep track of what was ordered, what was delivered, and what's been used. Develop the habit of counting bags and lengths. If you're using a baas, make sure someone you trust is on site when large deliveries arrive. It is not a comfortable thing to think about, but it is a very common thing.
 
@@ -352,7 +360,7 @@ Over the course of construction, you're going to have to learn a few things:
 
 ### Plumbing and wiring
 
-Over the years and the many houses we've stayed in, I've realised that most people don't actually understand how their wiring is set up. The peak of my experiences was a house where the owner assured us all the wiring had been updated. We saw a brand-new breaker board and were satisfied - until one day we plugged in a laptop at the other end of the house, leading to sparks. We then learned that side of the house was managed by an extremely old board that used an iron nail as a fuse.
+Over the years and the many houses we've stayed in, I've realised that most people don't actually understand how their wiring is set up. The peak of my experiences was a house where the owner assured us all the wiring had been updated. We saw a brand-new breaker board and were satisfied - until one day we plugged in a laptop at the other end of the house, leading to sparks. We then learned that that side of the house was managed by an extremely old board that used an iron nail as a fuse.
 
 Same house, there was a concrete water tank. Whoever had done the waterproofing had done a terrible job. The waterproofing - for reasons we don't quite understand - started to dissolve and seep through the water outlets in the bathroom and kitchen. We initially noticed the water smelled slightly oily, and then shortly afterwards we suffered severe bouts of food poisoning. Plumbers called in from outside couldn't immediately diagnose the problem because nobody knew the concrete tank existed - everyone assumed the water came from the plastic tanks on the outside of the house.
 
@@ -370,13 +378,13 @@ When done, you should have diagrams for yourself showing how the electrical circ
 
 Note that architects are not necessarily qualified to make these decisions. I would prefer to commit ritual suicide than allowing an architect to decide the flow of water and electricity. You let them figure out the placement of lights and switches - but how those things connect to the breaker box, what comes from where, what breakers are responsible for what - that has to be the province of someone who knows a thing or two about electricity loads, breakers and wiring.
 
-Good plumbers and electricians are genuinely rare to find in Sri Lanka.  This is a feature of our society and economy where jobs like these are considered low wage, unskilled or blue collar labour to be looked down on by people who sit in offices with uncomfortable shirts and ties. the reality of it is good plumbers and electricians can earn a lot of money and anyone who is good at anything eventually figures out a way to go and work in the Middle East or in countries like Israel, where they can actually earn a pretty hefty paycheck.
+Good plumbers and electricians are genuinely rare to find in Sri Lanka.  This is a feature of our society and economy where jobs like these are considered low wage, unskilled or blue collar labour to be looked down on by people who sit in offices with uncomfortable shirts and ties. The reality of it is good plumbers and electricians can earn a lot of money and anyone who is good at anything eventually figures out a way to go and work in the Middle East or in countries like Israel, where they can actually earn a pretty hefty paycheck.
 
-Again, you may be surprised here about varying degrees of competency. For our house, SME contractor had a guy who was German tech qualified and therefore supposed to be competent. He was not. Took me about a week and one burned PC to realize that this fool had not properly earthed the house. A few months later, during a heavy rain, our UPSs were tripping every five minutes, with voltages fluctuating all over the place. And this was how I figured that the electrician had left three dangling wires outside the house, for presumed further expansion, and had not worked the end of those wires properly. So with the rain seeping in, the live, the earth and the neutral were touching each other and sparking. And by the time I got to cutting out the wires, they had already sparked enough that the ends had melted together into smoking plastic mass.
+Again, you may be surprised here about varying degrees of competency. For our house, SME contractor had a guy who was German tech qualified and therefore supposed to be competent. He was not. Took me about a week and one burned PC to realise that this fool had not properly earthed the house. A few months later, during a heavy rain, our UPSs were tripping every five minutes, with voltages fluctuating all over the place. And this was how I figured that the electrician had left three dangling wires outside the house, for presumed further expansion, and had not worked the end of those wires properly. So with the rain seeping in, the live, the earth and the neutral were touching each other and sparking. And by the time I got to cutting out the wires, they had already sparked enough that the ends had melted together into smoking plastic mass.
 
 However, one guy that we brought in to do some additional concrete work turned out to be unexpectedly exceptional at both plumbing and electricity. He had no qualifications to show, but had a great deal of common sense and was able to solve a very great number of problems for us.
 
-Electricians. Well, if you're going with an SME, they should have someone on tap, but if that person turns out to be competent, you may have to find your role. one place I've seen with skilled electricians are the solar companies that are popping up all over the the place. I was extremely impressed with the company that set up our off-grid solar. These are some very young boys who did far neater work than many professionals I've seen. It may be worth seeing if you can talk to some of them - or maybe somebody inside those companies has a recommendation. 
+Electricians. Well, if you're going with an SME, they should have someone on tap, but if that person turns out to be competent, you may have to find your own. one place I've seen with skilled electricians is the solar companies that are popping up all over the place. I was extremely impressed with the company that set up our off-grid solar. These are some very young boys who did far neater work than many professionals I've seen. It may be worth seeing if you can talk to some of them - or maybe somebody inside those companies has a recommendation. 
 
 It really is worth paying extra to get good people. Do not cheap out on your plumbing environment. A failure in either of those things could mean anything from damage to your house and your belongings to outright death.
 
@@ -388,7 +396,7 @@ The typical Sri Lankan approach is a concrete septic tank with a soakaway pit. T
 
 Bad septic work is one of the most common and most unpleasant things that can go wrong with a house. Unfortunately you only figure this out after you spend some time in the house and you've had time to really take a few high quality dumps that you don't ever want to see again. 
 
-So for safety's sake, make sure that joints are sealed, that plumbing that link that leads to these things travels a safe distance away from the house. Do not keep your pits where children might play or heavy loads are going to be carried back and forth.
+So for safety's sake, make sure that joints are sealed, that plumbing that links that leads to these things travels a safe distance away from the house. Do not keep your pits where children might play or heavy loads are going to be carried back and forth.
 
 ### When you find something wrong mid-build
 
@@ -462,7 +470,7 @@ We went with the contractors to shops selling light fittings and tiles, and in e
 
 {% include image.html image="/assets/images/experiments/stonegarden/how-to-house/interior-aesthetics.jpg" %}
 
-And as for the wood elements, much of what we w needed was readily available at Dumro. We didn't have to go custom furniture. For what did require custom furniture - shelving and so on - we decided that we would make it ourselves.
+And as for the wood elements, much of what we needed was readily available at Dumro. We didn't have to go custom furniture. For what did require custom furniture - shelving and so on - we decided that we would make it ourselves.
 
 {% include image.html image="/assets/images/experiments/stonegarden/how-to-house/furniture.jpg" %}
 
@@ -591,7 +599,7 @@ Five years. More grey hairs than I can count. And at the end of it: a house on a
 
 {% include image.html image="/assets/images/experiments/stonegarden/how-to-house/closing.jpg" %}
 
-Don't let the complexity of what I've just said put you off. It is easier if you break it up into up into small chunks that we are trying to and you take it a step at a time. And at the end of it, there is something particular about living in a place you helped design. It is, ultimately, your desire you will fall.
+Don't let the complexity of what I've just said put you off. It is easier if you break it up into small chunks that we are trying to, and you take it a step at a time. And at the end of it, there is something particular about living in a place you helped design. It is, ultimately, your desire that you're bringing to life in rock and stone.
 
 Hopefully I've been able to save you some pain.
 
