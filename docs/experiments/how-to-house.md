@@ -202,7 +202,15 @@ Even when architects are competent, they may not be designing with your price ta
 
 A good example is the late Geoffrey Bawa. His houses have an elegant tropical modernism about them, and yet - visit one, like Lunuganga - if you know anything about house maintenance, you will notice that keeping out insects and dust requires a great deal of labour. These designs were not built for people on a budget; they were built for people who could afford servants.
 
-Another example: Palinda Kannangara is making a name for himself espousing minimalism and closer integration with nature. I very much like his style because it's quite close to what we really like in terms of colours, textures, and how light works in that space. But you may have a maximalist style; you may want something that looks more like a Scandinavian apartment, or something that feels more like an English cottage, or even something that inherits from sort of the Dutch Sri Lankan architectural tradition that you see in Galle or in Jaffna. 
+Another example: Palinda Kannangara is making a name for himself espousing minimalism and closer integration with nature. I very much like his style because it's quite close to what we really like in terms of colours, textures, and how light works in that space. But you may have a maximalist style; or you may want something that looks more like a Scandinavian apartment, or something that feels more like an English cottage, or even something that inherits from sort of the Dutch Sri Lankan architectural tradition that you see in Galle or in Jaffna. 
+
+If your square footage is very small, I highly recommend looking at small house designs and modern Japanese architecture, which is very space-efficient. A few things I've found interesting are [Never Too Small](https://www.nevertoosmall.com/post/japanese-style-cheat-sheet), [Tiny House Design](https://tinyhousedesign.com/) and [Gregory La Vardera's catalog] (http://www.lamidesign.com/plans/planspg.html). However,  I hate cramped spaces and have not built a tiny house, so take this recommendation with a grain of salt.
+
+You must also remember that you are in Sri Lanka. This is important. Every country develops a few architectural styles that are suited for their climate. For example, after spending a few weeks in Norway, the Norwegian style of wood, steel, lots of recessed lighting and huge panes of insulated glass made perfect sense: these people need to preserve heat and sunlight, and you need controllable lighting for those days when the sun goesd down at 1 AM. In Sri Lanka this is basically just an expensive greenhouse. We want to let heat out, not kieep it in.
+
+Likewise, Riga, Latvia, is one of the most beautiful cities I've been in. Sadly, that Art Deco / Art Nouveau hybrid style would require enormous amounts of upkeep in tropical weather. 
+
+For houses that keep cool passively, I would recommend looking at Sri Lankan walauuwa architecture, houses in Kerala, and brick construction in Iran. 
 
 Finally: treat your architects like doctors you don't particularly like. Get a second opinion. Once a project goes into serious planning, you are going to be stuck with that architect. We've both seen and experienced architects who don't listen to clients, vanish for months, or simply don't stick to timelines, so pick wisely.
 
