@@ -193,7 +193,7 @@ When Cyclone Ditwa came with landslides, it took out a couple of houses below us
 
 {% include image.html image="/assets/images/experiments/stonegarden/how-to-solar/ecoflow.jpg" caption="Excuse the clutter. I took this while cleaning the house." %}
 
-Obviously you don't have to fiddle with leftover parts. You can just buy a solar generator and panels. This will typically run a couple of bulbs, a small fridge, and keep a laptop charged. So where you can get them, I've seen them most often on Dallas. then if you can find electronic stores they should have them. It might be worth taking a trip to Unity Plaza.
+Obviously you don't have to fiddle with leftover parts. You can just buy a solar generator and panels. This will typically run a couple of bulbs, a small fridge, and keep a laptop charged. So where you can get them, I've seen them most often on Daraz. It might be worth taking a trip to Unity Plaza.
 
 I am the type of person who has backups for backups; so my Ecoflow, to this day is still charging and tops up daily; it now sits in a nice cabinet and pulls power from the same panel, except roof-mounted, and also from the mains on a schedule run by a smart plug on a timer. It is my emergency battery reserve, should one set of batteries fail. I also have a petrol generator. So there are backups for the backups for the backups.
 
