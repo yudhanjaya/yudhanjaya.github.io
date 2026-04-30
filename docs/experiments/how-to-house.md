@@ -270,7 +270,7 @@ Here's what I advise.
 
 ---
 
-## Permits, Water, Electricity {: #permits-water-electricity}
+## Permits, Water, Electricity
 
 Let's assume you have a set of plans you're happy with. You've gone back and forth, moved a few bedrooms around, and now have a very good sense of what you're building.
 
@@ -392,7 +392,7 @@ Again, you may be surprised here about varying degrees of competency. For our ho
 
 However, one guy that we brought in to do some additional concrete work turned out to be unexpectedly exceptional at both plumbing and electricity. He had no qualifications to show, but had a great deal of common sense and was able to solve a very great number of problems for us.
 
-Electricians. Well, if you're going with an SME, they should have someone on tap, but if that person turns out to be competent, you may have to find your own. one place I've seen with skilled electricians is the solar companies that are popping up all over the place. I was extremely impressed with the company that set up our off-grid solar. These are some very young boys who did far neater work than many professionals I've seen. It may be worth seeing if you can talk to some of them - or maybe somebody inside those companies has a recommendation. 
+Electricians. Well, if you're going with an SME, they should have someone on tap, but if that person turns out to be incompetent, you may have to find your own. one place I've seen with skilled electricians is the solar companies that are popping up all over the place. I was extremely impressed with the company that set up our off-grid solar. These are some very young boys who did far neater work than many professionals I've seen. It may be worth seeing if you can talk to some of them - or maybe somebody inside those companies has a recommendation. 
 
 It really is worth paying extra to get good people. Do not cheap out on your plumbing environment. A failure in either of those things could mean anything from damage to your house and your belongings to outright death.
 
