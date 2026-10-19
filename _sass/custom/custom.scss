@@ -18,18 +18,18 @@
 }
 
 :root {
-  --paper: #fcf9ee;
-  --paper-2: #f3eedd;
+  --paper: #fefefd;
+  --paper-2: #f5f5f1;
   --ink: #13263a;
   --ink-2: #46586a;
-  --rule: #cbc2a6;
+  --rule: #d2d2ca;
   --red: #c8321e;
   --teal: #0f6b6a;
-  --chip: #fffdf6;
+  --chip: #ffffff;
   --term-bg: #13263a;
   --term-fg: #dfe8e6;
   // Code blocks stay light in both palettes so the syntax colours remain legible.
-  --code-bg: #f3eedd;
+  --code-bg: #f5f5f1;
   --code-fg: #13263a;
   --mono: #{$mono-font-family};
   --head: #{$heading-font-family};
@@ -173,7 +173,7 @@ thead th {
 
 @include mq(md) {
   .side-bar { width: $nav-width; min-width: 0; align-items: stretch; box-shadow: none; }
-  .side-bar + .main { margin-left: $nav-width; max-width: none; }
+  .side-bar + .main { margin-left: $nav-width; max-width: none; border-right: 1px solid var(--ink); }
 }
 
 .site-header { border-bottom: 1px solid var(--ink); }
