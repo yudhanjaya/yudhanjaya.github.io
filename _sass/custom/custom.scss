@@ -330,7 +330,13 @@ thead th {
 // ---------------------------------------------------------------- page body
 .main-content-wrap { padding: 2rem 1.25rem 3rem; @include mq(md) { padding: 2.5rem 2.25rem 3.5rem; } }
 .main-content { max-width: 46rem; }
-.main-content-wrap--home { padding: 0; .main-content { max-width: none; } }
+.main-content-wrap--home {
+  padding: 0;
+  .main-content { max-width: none; }
+  // The footer sits outside .home-body, so give it the same inset and width.
+  .main-content > hr { max-width: 72rem; margin: 0 1.25rem; @include mq(md) { margin: 0 2.25rem; } }
+  .main-content > footer { max-width: 72rem; padding: 1rem 1.25rem 2.5rem; @include mq(md) { padding: 1rem 2.25rem 3rem; } }
+}
 
 .main-content footer, .main-content-wrap > .main-content > footer {
   font-family: var(--mono);

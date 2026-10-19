@@ -84,7 +84,7 @@
     else if(phase==='gather'){if(el>=dur('gather')){phase='hold';ps=T;setCap(true)}}
     else if(phase==='hold'){if((queue!==null&&el>700)||(!reduce&&el>dur('hold'))){phase='release';ps=T;setCap(false)}}
     else if(phase==='release'){if(el>=dur('release')){phase='drift';ps=T}}
-    draw(el);requestAnimationFrame(step)}
+    draw(T-ps);requestAnimationFrame(step)}
 
   function prog(p,el){
     if(p.ti<0)return 0;
