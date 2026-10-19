@@ -6,16 +6,6 @@ description: "Yudhanjaya Wijeratne is an award-winning author, programmer, and g
 permalink: /
 ---
 
-# Hello. I'm Yudhanjaya Wijeratne
-{: .no_toc }
-
-{: .fs-6 }
-Award-winning author, programmer, and general tinkerer.
-<span class="location-tag">Current location: Kandy, Sri Lanka</span>
-
-{% include image.html image="/assets/images/yudha.jpg" align="right" caption="Photo by Dirk Skiba Fotografie" %}
-
-
 ## Quick links
 
 - **Substack** — [subscribe here](https://yudhanjaya.substack.com)
@@ -35,6 +25,8 @@ Award-winning author, programmer, and general tinkerer.
 ## My Work
 
 Science fiction, economics, technology, politics — and the places they collide.
+
+{% include covers.html %}
 
 - ## [Novels]({% link docs/books/index.md %})
   *The Salvage Crew*, *Pilgrim Machines*, *The Wretched and the Damned*, *Numbercaste* - and more. My stories have won the Gratiaen Prize, been nominated for the Nebula, and been Washington Post and Audible bestseller. 

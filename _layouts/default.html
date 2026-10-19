@@ -18,8 +18,10 @@ layout: table_wrappers
   {% endif %}
   <div class="main" id="top">
     {% include components/header.html %}
-    <div class="main-content-wrap">
-      {% include components/breadcrumbs.html %}
+    {% if page.layout == "home" %}{% assign wrap_class = " main-content-wrap--home" %}{% else %}{% assign wrap_class = "" %}{% endif %}
+    {% if page.layout == "home" %}{% include hero.html %}{% endif %}
+    <div class="main-content-wrap{{ wrap_class }}">
+      {% unless page.layout == "home" %}{% include components/breadcrumbs.html %}{% endunless %}
       <div id="main-content" class="main-content">
         <main>
           {% if site.heading_anchors != false %}

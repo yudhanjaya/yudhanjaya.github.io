@@ -35,7 +35,7 @@
         <svg viewBox="0 0 24 24" aria-hidden="true"><use xlink:href="#svg-arrow-right"></use></svg>
       </button>
       {%- endif -%}
-      <a href="{{ node.url | relative_url }}" class="nav-list-link">{{ node.title }}</a>
+      <a href="{{ node.url | relative_url }}" class="nav-list-link">{%- assign nav_slug = node.title | append: "" | slugify -%}{%- if nav_slug.size > 4 and nav_slug contains "the-" -%}{%- assign nav_head = nav_slug | slice: 0, 4 -%}{%- if nav_head == "the-" -%}{%- assign nav_slug = nav_slug | slice: 4, 100 -%}{%- endif -%}{%- endif -%}<span aria-hidden="true">/{{ nav_slug }}</span><span class="sr-only">{{ node.title }}</span></a>
       {%- if nav_children.size >= 1 -%}
         {%- if node.child_nav_order == 'desc' or node.child_nav_order == 'reversed' -%}
           {%- assign nav_children = nav_children | reverse -%}

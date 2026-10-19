@@ -27,7 +27,7 @@ Narrated in the audiobook by Nathan Fillion, *The Salvage Crew* became an Audibl
 
 ***
 
-> "A novel of meteoric energy, flaring brighter and brighter as it falls further into its world." - Indrapamit Das, author of *The Devourers*
+> "A novel of meteoric energy, flaring brighter and brighter as it falls further into its world." - Indrapramit Das, author of *The Devourers*
 
 > “…perhaps one of the most riotously intertextual genre novels today: Wijeratne is in conversation not merely with the themes of global SF, but with its practitioners as well.- Gautam Bhatia, Himal SouthAsian 
 

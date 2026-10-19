@@ -1,0 +1,7 @@
+{%- comment -%} Cover strip for the home page: every page tagged my-books that has an image. {%- endcomment -%}
+{%- assign cover_items = site.pages | where_exp: "item", "item.path contains 'docs/'" | where_exp: "item", "item.layout != 'shelf'" | where_exp: "item", "item.tags contains 'my-books'" | where_exp: "item", "item.image" | sort: "date" | reverse -%}
+<ul class="cover-strip" aria-label="Novels">
+  {%- for item in cover_items %}
+  <li><a href="{{ item.url | relative_url }}"><img src="{{ item.image | relative_url }}" alt="Cover of {{ item.title | escape }}" loading="lazy" width="200" height="300"></a></li>
+  {%- endfor %}
+</ul>

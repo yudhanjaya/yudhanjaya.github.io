@@ -1,14 +1,20 @@
-// custom setup code goes here
+// Atlas Terminal: fonts and sizing. Set before the theme modules are imported.
 
-// Google Fonts — overridable from _config.yml via theme.google_fonts_url
-$import_url: "https://fonts.googleapis.com/css2?family=League+Spartan:wght@400;700&family=Lora:ital,wght@0,400;0,700;1,400&display=swap" !default;
+// Google Fonts. Overridable from _config.yml via design.google_fonts_url.
+$import_url: "https://fonts.googleapis.com/css2?family=Familjen+Grotesk:wght@500;700&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&family=DM+Mono:wght@400;500&display=swap" !default;
 @import url(#{$import_url});
 
-// Font families — overridable from _config.yml via theme.heading_font / theme.body_font
-$body-font-family: 'Lora', Georgia, 'Times New Roman', serif !default;
-$heading-font-family: 'Oswald', 'Anton', system-ui, -apple-system, sans-serif !default;
-$mono-font-family: 'Courier Prime', 'SFMono-Regular', menlo, monospace !default;
+$body-font-family: 'Source Serif 4', Georgia, 'Times New Roman', serif !default;
+$heading-font-family: 'Familjen Grotesk', system-ui, -apple-system, sans-serif !default;
+$mono-font-family: 'DM Mono', 'SFMono-Regular', menlo, monospace !default;
 
 $root-font-size: 18px !default;
 $body-line-height: 1.6 !default;
-$amber-000: #c4a472 !default;
+$amber-000: #46586a !default;
+
+// A narrower terminal-style sidebar and a wide main column.
+$nav-width: 14.5rem;
+$nav-width-md: 14.5rem;
+$header-height: 2.75rem;
+$content-width: 72rem;
+$gutter-spacing: 2rem;

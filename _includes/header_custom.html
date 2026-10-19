@@ -1,0 +1,5 @@
+{%- assign h = site.data.hero -%}
+<div class="statbar">
+  <span class="stat-coords">{{ h.lat_lon }} · {{ h.location }} · <b id="clk" data-tz="{{ h.timezone }}">--:--</b> {{ h.tz_label }}</span>
+  <button type="button" class="stat-btn" data-theme-toggle aria-pressed="false">Night sheet</button>
+</div>
