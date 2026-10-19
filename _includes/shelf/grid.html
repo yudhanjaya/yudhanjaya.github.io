@@ -1,6 +1,7 @@
+{%- assign shelf_tag = include.tag | default: page.shelf_tag -%}
 {%- assign sort_by = page.shelf_sort | default: 'date' -%}
 {%- assign group_by = page.shelf_group_by -%}
-{%- assign items = site.pages | where_exp: "item", "item.path contains 'docs/'" | where_exp: "item", "item.layout != 'shelf'" | where_exp: "item", "item.tags contains page.shelf_tag" | sort: sort_by -%}
+{%- assign items = site.pages | where_exp: "item", "item.path contains 'docs/'" | where_exp: "item", "item.layout != 'shelf'" | where_exp: "item", "item.tags contains shelf_tag" | sort: sort_by -%}
 {%- unless page.shelf_sort_reverse == false -%}{%- assign items = items | reverse -%}{%- endunless -%}
 
 <div class="shelf-grid">

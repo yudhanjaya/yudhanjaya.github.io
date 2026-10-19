@@ -48,5 +48,12 @@ What we ended up with is a good-sized space: multiple studios designed for creat
 - have backups for electricity (petrol generator, Ecoflow River) that function as reserves - we learned the importance of this the hard way during Cyclone Ditwah
 - have deer, monkeys, an eagle, and cats. Only the latter is by choice. The rest hang around and eat our mulberries
 
+# The guides
 
+What I learned along the way, written up:
 
+- [How to Build a House in Sri Lanka]({% link docs/experiments/how-to-house.md %}) — contractors, architects, permits, costs and survival
+- [How to Go Solar in Sri Lanka]({% link docs/experiments/how-to-solar.md %}) — panels, inverters, batteries and passive cooling
+- [My Low Power Writing Setup]({% link docs/experiments/low-power-writing-setup.md %}) — a 24-watt writing station for power cuts
+
+[All experiments →]({% link docs/experiments/index.md %})

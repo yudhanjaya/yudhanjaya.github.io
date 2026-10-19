@@ -2,6 +2,7 @@
 title: How to Build a House in Sri Lanka
 parent: Stonegarden
 grand_parent: Experiments
+tags: [stonegarden]
 nav_order: 1
 date: 2025-01-01
 image: "/assets/images/experiments/stonegarden/how-to-house/closing.jpg"

@@ -2,6 +2,7 @@
 title: How to Go Solar in Sri Lanka
 parent: Stonegarden
 grand_parent: Experiments
+tags: [stonegarden]
 nav_order: 2
 date: 2026-04-02
 image: "/assets/images/experiments/stonegarden/how-to-solar/hybrid-inverter-diagram.png"
