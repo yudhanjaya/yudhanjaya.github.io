@@ -10,7 +10,7 @@
   var g=c.getContext('2d'),cap=document.getElementById('cap'),CAP0=cap.innerHTML,site=document.documentElement;
   var reduce=matchMedia('(prefers-reduced-motion:reduce)').matches;
   function esc(s){return String(s).replace(/[&<>"]/g,function(ch){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[ch]})}
-  function css(n){return getComputedStyle(site).getPropertyValue(n).trim()}
+  function css(n){return getComputedStyle(c.parentElement).getPropertyValue(n).trim()}
   function ease(x){x=x<0?0:x>1?1:x;return x<.5?4*x*x*x:1-Math.pow(-2*x+2,3)/2}
   function mod(a,n){return((a%n)+n)%n}
   var GLYPHS='0123456789abcdefghijklmnopqrstuvwxyz0123456789,.;:',SF=12,TRAIL=90;
