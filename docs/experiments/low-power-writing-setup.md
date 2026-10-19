@@ -2,6 +2,7 @@
 title: "My Low Power Writing Setup"
 parent: Stonegarden
 grand_parent: Experiments
+tags: [stonegarden]
 nav_order: 3
 date: 2024-02-01
 image: "/assets/images/experiments/stonegarden/low-power-writing/low-power.png"

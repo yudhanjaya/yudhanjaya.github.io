@@ -1,0 +1,20 @@
+{%- comment -%}
+  The Library chart. Data: _data/quotes.yml (quotes) and _data/hero.yml (caption).
+  Needs assets/js/library.js. Without JavaScript the quotes are still readable in the list below.
+{%- endcomment -%}
+<div class="chart">
+  <canvas id="gal" aria-hidden="true"></canvas>
+  <div class="ctl" role="group" aria-label="Quote controls">
+    <button type="button" id="qp" aria-label="Previous quote">&lsaquo;</button>
+    <button type="button" id="qa" aria-pressed="false">Pause</button>
+    <button type="button" id="qn" aria-label="Next quote">&rsaquo;</button>
+  </div>
+  <div class="cap" id="cap">{{ site.data.hero.chart_caption }}</div>
+  <ul class="sr-only" id="srq">
+    {%- for q in site.data.quotes %}
+    <li>&ldquo;{{ q.text | escape }}&rdquo;, {{ q.book | escape }}, {{ q.by | escape }}</li>
+    {%- endfor %}
+  </ul>
+  <script type="application/json" id="library-quotes">{{ site.data.quotes | jsonify | replace: "<", "<" }}</script>
+</div>
+<script src="{{ '/assets/js/library.js' | relative_url }}" defer></script>

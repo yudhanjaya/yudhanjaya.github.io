@@ -177,21 +177,21 @@ color_scheme: classic
 # Hex colors must be quoted. Font stacks are CSS font-family values.
 # ---------------------------------------------------------------
 design:
-  # Colors
-  body_background: "#FAF9F6"    # page background
-  body_text:       "#1c1c1c"   # body text
-  heading_color:   "#1c1c1c"   # heading text (h1–h6); overrides body_text for headings
-  link:            "#1565a8"   # cerulean — links and accents
-  sidebar:         "#faf5ec"   #FFF5EE   #2e3a45   # nav rail background
-  border:          "#c8b898"   # rules and borders
-  nav_link:        "#1565a8"   # top-level nav text (on dark sidebar)
-  nav_child:       "#1565a8"   # child nav links (khaki)
+  # Atlas Terminal. Most colours are CSS custom properties in _sass/custom/custom.scss
+  # (light and night). These values feed the theme's own Sass variables.
+  body_background: "#fcf9ee"
+  body_text:       "#13263a"
+  heading_color:   "#13263a"
+  link:            "#0f6b6a"
+  sidebar:         "#f3eedd"
+  border:          "#cbc2a6"
+  nav_link:        "#46586a"
+  nav_child:       "#46586a"
 
-
-  # Fonts — paste a Google Fonts URL and matching font-family stacks
-  google_fonts_url: "https://fonts.googleapis.com/css2?family=League+Spartan:wght@400;700&family=Lora:ital,wght@0,400;0,700;1,400&display=swap"
-  heading_font: "'Oswald', 'Anton', system-ui, -apple-system, sans-serif"
-  body_font:    "'Lora', Georgia, 'Times New Roman', serif"
+  # Fonts
+  google_fonts_url: "https://fonts.googleapis.com/css2?family=Familjen+Grotesk:wght@500;700&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&family=DM+Mono:wght@400;500&display=swap"
+  heading_font: "'Familjen Grotesk', system-ui, -apple-system, sans-serif"
+  body_font:    "'Source Serif 4', Georgia, 'Times New Roman', serif"
 
 # When commented out, callouts_level defaults to quiet for the light scheme, and loud for dark
 # callouts_level: quiet # or loud
