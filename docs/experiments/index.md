@@ -13,8 +13,8 @@ One-off projects, art installations, organisations, and other things that don't 
 
 <!--footnote-->
 
-## Inside Stonegarden
+## Stonegarden
 
-Stonegarden is a mountainside in Kandy being turned into a home. These are the practical guides that came out of building it.
+Stonegarden is my mountain home in Kandy. These are the practical guides that came out of building it.
 
 {% include shelf/grid.html tag="stonegarden" %}

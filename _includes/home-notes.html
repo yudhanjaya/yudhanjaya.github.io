@@ -1,0 +1,22 @@
+{%- assign now_page = site.pages | where: "url", "/now/" | first -%}
+{%- assign recent = site.pages | where_exp: "p", "p.path contains 'docs/posts/'" | where_exp: "p", "p.layout != 'shelf'" | where_exp: "p", "p.date" | sort: "date" | reverse -%}
+<div class="home-two">
+  <section aria-labelledby="notes-h">
+    <h2 id="notes-h">Field notes <small>/posts</small></h2>
+    <div class="dated">
+      {%- for p in recent limit: 3 %}
+      <a href="{{ p.url | relative_url }}"><time datetime="{{ p.date | date: '%Y-%m-%d' }}">{{ p.date | date: "%b %Y" }}</time><span>{{ p.title }}</span></a>
+      {%- endfor %}
+    </div>
+  </section>
+  <section aria-labelledby="now-h">
+    <h2 id="now-h">Now <small><a href="{{ '/now/' | relative_url }}">cat now.md</a></small></h2>
+    <div class="term">
+      <div class="term-h">updated {{ now_page.snapshot_updated }}</div>
+      {%- for s in now_page.snapshot %}
+      <div><span class="y">{{ s.label }}</span> {{ s.text }}</div>
+      {%- endfor %}
+    </div>
+  </section>
+</div>
+<p class="home-elsewhere"><a href="{{ '/start-here/' | relative_url }}">Start here</a> · <a href="{{ '/press/' | relative_url }}">Press kit</a> · <a href="https://yudhanjaya.substack.com">Substack</a> · <a href="{{ '/feed.xml' | relative_url }}">RSS</a></p>
