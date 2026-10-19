@@ -350,6 +350,7 @@ thead th {
 .hero {
   display: grid;
   grid-template-columns: minmax(0, 1fr);
+  max-width: 72rem;
   border-bottom: 1px solid var(--ink);
   @media (min-width: 66rem) { grid-template-columns: minmax(0, 1.2fr) minmax(0, 0.95fr); }
 }
@@ -465,7 +466,7 @@ thead th {
 
 // ---------------------------------------------------------------- home: body
 .main-content .home-body {
-  max-width: 62rem;
+  max-width: 72rem;
   padding: 1.5rem 1.25rem 3rem;
   @include mq(md) { padding: 1.5rem 2.25rem 3.5rem; }
 
@@ -503,13 +504,7 @@ thead th {
     .dir-desc { color: var(--ink-2); line-height: 1.5; }
   }
 
-  .home-two {
-    display: grid;
-    grid-template-columns: 1.1fr 1fr;
-    gap: 0 2rem;
-    margin-top: 1rem;
-    @media (max-width: 50rem) { grid-template-columns: 1fr; }
-  }
+  .home-two { margin-top: 1rem; }
 
   .dated a {
     display: grid;
