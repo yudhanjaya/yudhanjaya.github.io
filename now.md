@@ -3,6 +3,13 @@ title: Now
 layout: default
 nav_order: 8
 permalink: /now/
+# Shown as the "Now" terminal on the home page.
+snapshot_updated: "29 mar 2026"
+snapshot:
+  - { label: writing, text: "stories after Calvino’s <i>Invisible Cities</i>" }
+  - { label: reading, text: "Brewer’s Dictionary of Phrase and Fable" }
+  - { label: building, text: "greenhouse, courtyard, mudcrete v2" }
+  - { label: heat, text: "adding shade" }
 ---
 
 # Now

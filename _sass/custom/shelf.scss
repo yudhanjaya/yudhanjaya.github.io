@@ -94,7 +94,7 @@
   padding: 0;
   list-style: none;
 
-  li { margin: 0; padding: 0; }
+  li { margin: 0; padding: 0; &::before { display: none; } }
   a { display: block; border: 1px solid var(--ink); transition: transform 0.2s, box-shadow 0.2s; &:hover { transform: translate(-3px, -3px); box-shadow: 5px 5px 0 var(--rule); } }
   img { display: block; width: 100%; height: auto; aspect-ratio: 2 / 3; object-fit: cover; border: 0; box-shadow: none; }
 }

@@ -1,0 +1,21 @@
+# The Directory table on the home page. Edit order, links and blurbs here.
+- name: Novels
+  path: /books
+  url: /docs/books/
+  blurb: "The Salvage Crew, Pilgrim Machines, The Wretched and the Damned, Numbercaste."
+- name: Short fiction
+  path: /short-fiction
+  url: /short-fiction/
+  blurb: "Wired, Big Book of Cyberpunk, ASU Future Tense, the Lancet, the Financial Times."
+- name: Nonfiction
+  path: /posts
+  url: /posts/
+  blurb: "Journalism, data science, policy research. Foreign Policy, Routledge, MIT Press."
+- name: Software
+  path: /software
+  url: /docs/software/
+  blurb: "Galaxy Generator, Mokuton, Colombo Skylines."
+- name: Experiments
+  path: /experiments
+  url: /docs/experiments/
+  blurb: "Neurocracy, Witness, Watchdog Sri Lanka, Stonegarden."

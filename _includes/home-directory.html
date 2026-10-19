@@ -1,0 +1,17 @@
+<section aria-labelledby="dir-h">
+  <h2 id="dir-h">Directory <small>{{ site.data.directory.size }} entries</small></h2>
+  <ul class="dir-list">
+    {%- for d in site.data.directory %}
+    <li>
+      <a class="dir-name" href="{{ d.url | relative_url }}">{{ d.name }}</a>
+      <span class="dir-path">{{ d.path }}</span>
+      <span class="dir-desc">{{ d.blurb | escape }}</span>
+    </li>
+    {%- endfor %}
+  </ul>
+</section>
+
+<section aria-labelledby="shelf-h">
+  <h2 id="shelf-h">The shelf <small>ls /books</small></h2>
+  {% include covers.html %}
+</section>
