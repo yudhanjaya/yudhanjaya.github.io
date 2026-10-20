@@ -5,7 +5,7 @@
     <div class="who">
       <img src="{{ h.portrait | relative_url }}" alt="{{ h.portrait_alt }}" width="190" height="190">
       <div>
-        <h1 class="no_toc">{{ h.first_name }} <span>{{ h.last_name }}</span></h1>
+        <h1 class="no_toc"><span>{{ h.first_name }}</span> {{ h.last_name }}</h1>
         <p class="lede">{{ h.lede }}{% if h.lede_italic != "" %} <i>{{ h.lede_italic }}</i>{% endif %}</p>
       </div>
     </div>
