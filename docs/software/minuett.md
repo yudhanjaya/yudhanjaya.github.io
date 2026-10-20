@@ -4,7 +4,7 @@ parent: Software
 nav_order: 2
 tags: [software]
 date: 2026-10-20
-image: "/assets/images/software/minuett/library.png"
+image: "/assets/images/software/minuett/library.jpg"
 excerpt: "A free and open source library-first music player for Linux, inspired by Winamp and RealPlayer 10. Imports playlists from YouTube and Spotify."
 ---
 
@@ -18,7 +18,7 @@ Minuett is a return to those times, in spirit. It is a library-first music playe
 
 And because this is not 2004, it allows you to import playlists pulled in from YouTube, YouTube Music or Spotify. Everything is downloaded from YouTube through yt-dlp (Spotify entries are matched to the YouTube recording), converted to `.opus`, a free and open file format, and added to your library automatically. You can also import folders as playlists.
 
-{% include image.html image="/assets/images/software/minuett/library.png" caption="Minuett — the library view" %}
+{% include image.html image="/assets/images/software/minuett/library.jpg" caption="Minuett — the library view" %}
 
 ## Rationale
 
@@ -54,11 +54,11 @@ Minuett is built for my own needs. I wanted a handy way of playing music as I wr
 - **11 built-in themes** — RealPlayer Classic (default), Dracula, Nord, Monokai Pro, Catppuccin Latte and more, all meeting WCAG AA text contrast
 - **Live CSS reloading** — edit a simple file of variables and changes apply as you save
 
-{% include image.html image="/assets/images/software/minuett/eq.png" caption="The 10-band parametric equalizer" %}
+{% include image.html image="/assets/images/software/minuett/eq.jpg" caption="The 10-band parametric equalizer" %}
 
-{% include image.html image="/assets/images/software/minuett/downloads.png" caption="Importing and downloading a playlist" %}
+{% include image.html image="/assets/images/software/minuett/downloads.jpg" caption="Importing and downloading a playlist" %}
 
-{% include image.html image="/assets/images/software/minuett/library-white.png" caption="Minuett with a light theme" %}
+{% include image.html image="/assets/images/software/minuett/library-white.jpg" caption="Minuett with a light theme" %}
 
 ## Privacy
 
