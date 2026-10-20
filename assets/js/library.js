@@ -24,7 +24,7 @@
     CS=W<500?6:8;NX=Math.ceil(W/CS);NY=Math.ceil(H/CS);var n=NX*NY;
     cur=new Uint8Array(n);nxt=new Uint8Array(n);mask=new Uint8Array(n);ch=new Array(n);
     for(var i=0;i<n;i++)if(Math.random()<.2)put(i);
-    col={ink:css('--ink'),teal:css('--teal')};layout()}
+    col={ink:css('--ink'),red:css('--red')};layout()}
 
   function rnd(n){return Math.floor(Math.random()*n)}
   /* bring cell i to life, as a random letter or digit */
@@ -123,16 +123,16 @@
     if(!W||c.width!==Math.round(c.clientWidth*Math.min(devicePixelRatio||1,2))||c.height!==Math.round(c.clientHeight*Math.min(devicePixelRatio||1,2)))geom();
     g.setTransform(1,0,0,1,0,0);g.clearRect(0,0,c.width,c.height);g.scale(D,D);
     var ta=textAlpha(el),inText=phase!=='drift',i,x,y;
-    /* soup in teal; the letters that join the quote fade out as the crisp text arrives */
+    /* soup in ink; the letters that join the quote fade out as the crisp text arrives */
     g.textAlign='center';g.textBaseline='middle';g.font='400 '+(CS+3)+'px "DM Mono",monospace';
     for(var pass=0;pass<2;pass++){
-      g.fillStyle=col.teal;g.globalAlpha=pass?.55-.47*ta:.5;
+      g.fillStyle=col.ink;g.globalAlpha=pass?.55-.47*ta:.5;
       for(i=0;i<cur.length;i++){
         if(!cur[i]||(inText&&mask[i]?1:0)!==pass)continue;
         y=(i/NX)|0;x=i-y*NX;g.fillText(ch[i],x*CS+CS/2,y*CS+CS/2)}}
     if(ta>0){
       g.font='500 '+FS+'px "DM Mono",monospace';
-      g.fillStyle=col.ink;g.globalAlpha=ta;
+      g.fillStyle=col.red;g.globalAlpha=ta;
       lines.forEach(function(l){g.fillText(l.s,W/2,l.y)})}
     g.globalAlpha=1}
 
