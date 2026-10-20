@@ -4,6 +4,10 @@
 {%- endcomment -%}
 <div class="chart">
   <canvas id="gal" aria-hidden="true"></canvas>
+  <div class="legend" aria-hidden="true">
+    <svg class="north" viewBox="0 0 8 15"><path d="M4 0 8 10 4 8 0 10Z"/><path d="M4 8v7" fill="none"/></svg>
+    <div class="scale"><div class="bar"></div><div class="tick"><span>0</span><span>1</span><span>2 km</span></div></div>
+  </div>
   <div class="ctl" role="group" aria-label="Quote controls">
     <button type="button" id="qp" aria-label="Previous quote">&lsaquo;</button>
     <button type="button" id="qa" aria-pressed="false">Pause</button>
