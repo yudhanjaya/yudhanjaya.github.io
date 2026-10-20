@@ -457,12 +457,15 @@ thead th {
 
 .chart .cap {
   position: absolute;
-  right: 0.9rem;
   bottom: 0.75rem;
-  left: 0.9rem;
+  left: 0.5rem;
+  width: fit-content;
+  max-width: calc(100% - 1rem);
   margin: 0;
+  padding: 0.1rem 0.4rem;
   font-family: var(--mono);
   font-size: 0.62rem;
+  background: var(--paper);
   line-height: 1.55;
   letter-spacing: 0.08em;
   text-transform: uppercase;

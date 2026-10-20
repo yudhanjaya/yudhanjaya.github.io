@@ -1,5 +1,6 @@
-/* The Library as a game of Life: a soup of cells runs Conway's rules on grid paper. Now and then the soup is
-   coaxed into the outline of one of the blurbs, holds while it is read, then crumbles back into soup.
+/* The Library as a game of Life: a soup of letters runs Conway's rules on grid paper. Now and then the soup is
+   coaxed into the outline of one of the blurbs, holds while it is read, then the quote's own letters spill out
+   as the seed of the next soup.
    Quotes come from _data/quotes.yml via a JSON block written by _includes/library.html.
    Controls (#qp, #qa, #qn) and the caption (#cap) are driven from here. */
 (function(){
@@ -12,24 +13,27 @@
   function css(n){return getComputedStyle(c).getPropertyValue(n).trim()}
   function ease(x){x=x<0?0:x>1?1:x;return x<.5?4*x*x*x:1-Math.pow(-2*x+2,3)/2}
 
-  /* cells are 6px (4px on phones), so four cells span one 24px square of the grid-paper background */
-  var CS=6,GEN=75,DUR={drift:3500,gather:3200,hold:6500,release:2200};
+  /* cells are 8px (6px on phones), so three or four cells span one 24px square of the grid-paper background */
+  var CS=8,GL='abcdefghijklmnopqrstuvwxyz0123456789',GEN=75,DUR={drift:3500,gather:3200,hold:6500,release:2200};
   function dur(k){return reduce?1:DUR[k]}
   var phase='drift',T=0,ps=0,qi=-1,queue=null,paused=false,acc=0,gens=0;
-  var W=0,H=0,D=1,NX=0,NY=0,cur,nxt,mask,lines=[],FS=17,col={};
+  var W=0,H=0,D=1,NX=0,NY=0,cur,nxt,ch,mask,lines=[],FS=17,col={};
 
   function geom(){
     D=Math.min(devicePixelRatio||1,2);W=c.clientWidth;H=c.clientHeight;c.width=W*D;c.height=H*D;
-    CS=W<500?4:6;NX=Math.ceil(W/CS);NY=Math.ceil(H/CS);var n=NX*NY;
-    cur=new Uint8Array(n);nxt=new Uint8Array(n);mask=new Uint8Array(n);
-    for(var i=0;i<n;i++)cur[i]=Math.random()<.2?1:0;
+    CS=W<500?6:8;NX=Math.ceil(W/CS);NY=Math.ceil(H/CS);var n=NX*NY;
+    cur=new Uint8Array(n);nxt=new Uint8Array(n);mask=new Uint8Array(n);ch=new Array(n);
+    for(var i=0;i<n;i++)if(Math.random()<.2)put(i);
     col={ink:css('--ink'),red:css('--red')};layout()}
+
+  function rnd(n){return Math.floor(Math.random()*n)}
+  /* bring cell i to life, as a random letter or digit */
+  function put(i){if(!cur[i]){cur[i]=1;ch[i]=GL.charAt(rnd(GL.length))}}
 
   /* a glider dropped at (x,y), heading along one of the four diagonals */
   function glider(x,y,dx,dy){
     [[1,0],[2,1],[0,2],[1,2],[2,2]].forEach(function(p){
-      cur[(((y+p[1]*dy)%NY+NY)%NY)*NX+((x+p[0]*dx)%NX+NX)%NX]=1})}
-  function rnd(n){return Math.floor(Math.random()*n)}
+      put((((y+p[1]*dy)%NY+NY)%NY)*NX+((x+p[0]*dx)%NX+NX)%NX)})}
 
   /* centre the current quote on lines, and mark the cells its letters cover */
   function layout(){
@@ -65,17 +69,21 @@
     if(phase==='gather'||phase==='hold')for(i=0;i<nxt.length;i++){
       if(mask[i]){if(phase==='hold'||Math.random()<.02+.5*e)nxt[i]=1}
       else if(nxt[i]&&Math.random()<.05+.6*e)nxt[i]=0}
+    /* survivors keep their letter; newborns get a fresh one */
+    for(i=0;i<nxt.length;i++)if(nxt[i]&&!cur[i])ch[i]=GL.charAt(rnd(GL.length));
     var t=cur;cur=nxt;nxt=t}
 
   function setCap(on){cap.classList.add('sw');setTimeout(function(){
     if(on&&qi>=0){var q=Q[qi];cap.innerHTML='<b>'+esc(q.book)+'</b><span class="by">'+esc(q.by)+'</span>'}else cap.innerHTML=CAP0;cap.classList.remove('sw')},reduce?0:350)}
   function begin(i){qi=(i+Q.length)%Q.length;queue=null;if(!W)geom();layout();phase='gather';ps=T}
-  function toHold(){phase='hold';ps=T;if(reduce)cur.set(mask);setCap(true)}
-  function toRelease(){
-    phase='release';ps=T;setCap(false);
-    /* a few gliders and a fresh scatter of cells to eat the text */
-    for(var k=0;k<8;k++)glider(rnd(NX),Math.random()<.5?2:NY-6,Math.random()<.5?1:-1,k%2?1:-1);
-    for(var i=0;i<cur.length;i++)if(Math.random()<.1)cur[i]=1}
+  function toHold(){phase='hold';ps=T;if(reduce)for(var i=0;i<mask.length;i++)if(mask[i])put(i);setCap(true)}
+  /* the quote's own letters are the seed of the next soup: a share of them come alive and each spills into
+     a neighbour, then Life carries them outward */
+  function spill(share){
+    for(var i=0;i<mask.length;i++)if(mask[i]&&Math.random()<share){
+      put(i);
+      if(Math.random()<.6)put(((((i/NX)|0)+rnd(5)-2+NY)%NY)*NX+(i%NX+rnd(5)-2+NX)%NX)}}
+  function toRelease(){phase='release';ps=T;setCap(false);spill(1)}
   function go(i){
     i=(i+Q.length)%Q.length;
     if(phase==='hold'){queue=i;toRelease()}else if(phase==='drift')begin(i);else queue=i}
@@ -91,8 +99,10 @@
       T+=dt;
       if(W&&!reduce){acc+=dt;
         for(var n=0;acc>=GEN&&n<3;n++){life(T-ps);acc-=GEN;
-          /* a stray glider now and then keeps the soup from settling into still lifes */
-          if(++gens%22===0&&phase!=='hold')glider(rnd(NX),rnd(NY),Math.random()<.5?1:-1,Math.random()<.5?1:-1)}
+          /* every so often, if the soup is thin, spill more of the old quote into it; otherwise send a glider */
+          if(++gens%12===0&&(phase==='drift'||phase==='release')){
+            for(var k=0,pop=0;k<cur.length;k++)pop+=cur[k];
+            if(pop<cur.length*.05)spill(.4);else glider(rnd(NX),rnd(NY),Math.random()<.5?1:-1,Math.random()<.5?1:-1)}}
         if(acc>GEN)acc=0}}
     var el=T-ps;
     if(phase==='drift'){if(el>=(qi<0?1500:dur('drift')))begin(queue!==null?queue:qi+1)}
@@ -113,14 +123,15 @@
     if(!W||c.width!==Math.round(c.clientWidth*Math.min(devicePixelRatio||1,2))||c.height!==Math.round(c.clientHeight*Math.min(devicePixelRatio||1,2)))geom();
     g.setTransform(1,0,0,1,0,0);g.clearRect(0,0,c.width,c.height);g.scale(D,D);
     var ta=textAlpha(el),inText=phase!=='drift',i,x,y;
-    /* soup in ink, the cells that are part of the quote in red */
+    /* soup in ink, the letters that are part of the quote in red */
+    g.textAlign='center';g.textBaseline='middle';g.font='400 '+(CS+3)+'px "DM Mono",monospace';
     for(var pass=0;pass<2;pass++){
-      g.fillStyle=pass?col.red:col.ink;g.globalAlpha=pass?.3+.2*ta:.4;
+      g.fillStyle=pass?col.red:col.ink;g.globalAlpha=pass?.55-.3*ta:.45;
       for(i=0;i<cur.length;i++){
         if(!cur[i]||(inText&&mask[i]?1:0)!==pass)continue;
-        y=(i/NX)|0;x=i-y*NX;g.fillRect(x*CS,y*CS,CS-1,CS-1)}}
+        y=(i/NX)|0;x=i-y*NX;g.fillText(ch[i],x*CS+CS/2,y*CS+CS/2)}}
     if(ta>0){
-      g.textAlign='center';g.textBaseline='middle';g.font='500 '+FS+'px "DM Mono",monospace';
+      g.font='500 '+FS+'px "DM Mono",monospace';
       g.fillStyle=col.ink;g.globalAlpha=ta;
       lines.forEach(function(l){g.fillText(l.s,W/2,l.y)})}
     g.globalAlpha=1}
