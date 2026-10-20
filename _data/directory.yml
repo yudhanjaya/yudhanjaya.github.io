@@ -14,7 +14,7 @@
 - name: Software
   path: /software
   url: /docs/software/
-  blurb: "Galaxy Generator, Mokuton, Colombo Skylines."
+  blurb: "Galaxy Generator, Minuett, Mokuton and others."
 - name: Experiments
   path: /experiments
   url: /docs/experiments/
