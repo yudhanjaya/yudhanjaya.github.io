@@ -178,7 +178,7 @@ color_scheme: classic
 # ---------------------------------------------------------------
 design:
   # Atlas Terminal. Most colours are CSS custom properties in _sass/custom/custom.scss
-  # (light and night). These values feed the theme's own Sass variables.
+  # (day palette only). These values feed the theme's own Sass variables.
   body_background: "#fcf9ee"
   body_text:       "#13263a"
   heading_color:   "#13263a"

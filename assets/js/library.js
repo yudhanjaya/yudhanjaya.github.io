@@ -130,6 +130,5 @@
 
   function refresh(){W=0;col={}}
   addEventListener('resize',refresh);
-  document.addEventListener('atlas:theme',refresh);
   (document.fonts&&document.fonts.ready?document.fonts.ready:Promise.resolve()).then(function(){W=0;requestAnimationFrame(step)});
 })();
