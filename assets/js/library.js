@@ -24,7 +24,7 @@
     CS=W<500?6:8;NX=Math.ceil(W/CS);NY=Math.ceil(H/CS);var n=NX*NY;
     cur=new Uint8Array(n);nxt=new Uint8Array(n);mask=new Uint8Array(n);ch=new Array(n);
     for(var i=0;i<n;i++)if(Math.random()<.2)put(i);
-    col={ink:css('--ink'),red:css('--red')};layout()}
+    col={ink:css('--ink'),teal:css('--teal')};layout()}
 
   function rnd(n){return Math.floor(Math.random()*n)}
   /* bring cell i to life, as a random letter or digit */
@@ -39,7 +39,7 @@
   function layout(){
     lines=[];mask.fill(0);if(!W||qi<0)return;
     var words=Q[qi].text.split(' '),yTop=44,yBot=H-74,f,cw,lh;
-    for(f=W<420?15:19;f>=10;f--){
+    for(f=W<420?18:25;f>=10;f--){
       g.font='500 '+f+'px "DM Mono",monospace';cw=g.measureText('M').width||f*.6;
       var cols=Math.max(12,Math.floor((W-(W<420?36:80))/cw)),ln='';lines=[];
       words.forEach(function(w){var t=ln?ln+' '+w:w;if(t.length>cols&&ln){lines.push(ln);ln=w}else ln=t});lines.push(ln);
@@ -123,10 +123,10 @@
     if(!W||c.width!==Math.round(c.clientWidth*Math.min(devicePixelRatio||1,2))||c.height!==Math.round(c.clientHeight*Math.min(devicePixelRatio||1,2)))geom();
     g.setTransform(1,0,0,1,0,0);g.clearRect(0,0,c.width,c.height);g.scale(D,D);
     var ta=textAlpha(el),inText=phase!=='drift',i,x,y;
-    /* soup in ink, the letters that are part of the quote in red */
+    /* soup in teal; the letters that join the quote fade out as the crisp text arrives */
     g.textAlign='center';g.textBaseline='middle';g.font='400 '+(CS+3)+'px "DM Mono",monospace';
     for(var pass=0;pass<2;pass++){
-      g.fillStyle=pass?col.red:col.ink;g.globalAlpha=pass?.55-.3*ta:.45;
+      g.fillStyle=col.teal;g.globalAlpha=pass?.55-.47*ta:.5;
       for(i=0;i<cur.length;i++){
         if(!cur[i]||(inText&&mask[i]?1:0)!==pass)continue;
         y=(i/NX)|0;x=i-y*NX;g.fillText(ch[i],x*CS+CS/2,y*CS+CS/2)}}
