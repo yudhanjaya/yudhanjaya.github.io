@@ -14,7 +14,7 @@
 - name: Software
   path: /software
   url: /docs/software/
-  blurb: "Galaxy Generator, Minuett, Mokuton and others."
+  blurb: "Shoggoth, Galaxy Generator, Minuett and others."
 - name: Experiments
   path: /experiments
   url: /docs/experiments/
