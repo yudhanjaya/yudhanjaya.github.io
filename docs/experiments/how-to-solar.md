@@ -70,7 +70,7 @@ Batteries store electricity for later use. They primarily come in three types:
 
 **LiFePO4 (lithium iron phosphate)** - these have lower energy density than lithium-ion, which means you need more volume to store the same amount of energy. But they have very good thermal stability (highly unlikely to overheat) and a longer cycle life; they can be charged and discharged significantly more often. Which is critical for home use. Over time, these have become the standard for home solar.
 
-When finally set up, the stuff that you interact with looks like this. This is our Deye inverter and with the Dyness PowerBrick 4.3 kWh battery.
+When finally set up, the stuff that you interact with looks like this. This is our Deye inverter and with the Dyness PowerBrick 14.3 kWh battery.
 
 {% include image.html image="/assets/images/experiments/stonegarden/how-to-solar/full-system.jpg" caption="The only actual work I did here was pasting the DON'T PANIC sticker." %}
 
