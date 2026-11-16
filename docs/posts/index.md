@@ -15,6 +15,7 @@ Nonfiction, speeches, and long-form thinking — on AI, publishing, aesthetics, 
 
 | Post | Date |
 |------|------|
+| [How Publishing Works]({% link docs/posts/publishers.md %}) | November 2026 |
 | [Can You Vibe-Code a Novel?]({% link docs/posts/can-you-vibe-code-a-novel.md %}) | March 2025 |
 | [The Fate of the Gorillas]({% link docs/posts/fate-of-the-gorillas.md %}) | August 2024 |
 | [The Ricepunk Manifesto]({% link docs/posts/the-ricepunk-manifesto.md %}) | June 2022 |
