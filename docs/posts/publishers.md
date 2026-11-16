@@ -19,7 +19,9 @@ This is a compilation of something that I end up typing out at least four to fiv
 
 I've decided to structure these conversations because I keep going over the same points.
 
-Firstly, publishing is a business. This is a harsh lesson for new authors to learn, but I do have to state it here. The publisher's costs are printing, distribution, marketing, salaries.
+## Publishing is a business
+
+This is a harsh lesson for new authors to learn, but I do have to state it here. The publisher's costs are printing, distribution, marketing, salaries.
 
 Their incentives can be purely profit-minded, or some combination of literary and social credibility; for example, some small publishers are dedicated to experimental literature, like [Galley Beggar Press](https://galleybeggar.co.uk/), the home of *Ducks, Newburyport*.
 
@@ -43,17 +45,15 @@ We may not be able to agree on what is objectively *good*; the idea of good migh
 
 Keep this in mind as we go down the list.
 
-***
-
 ## Some nomenclature
 
 First, let's get some nomenclature out of the way.
 
-1) Publishers buy the rights from you to print, distribute, and sell a work in a particular territory. These territories are divided by country or by large regional bloc. At the top level are *world* rights, in which you effectively sell the publisher the right to distribute the work anywhere in the world. At the bottom are country-level rights: i.e. you sell the right to distribute this book only in Sri Lanka. In the middle are regional rights - for example, *Indian Subcontinent Rights* means India, Pakistan, Bangladesh, Nepal and Sri Lanka.
+1) **Rights.** Publishers buy the rights from you to print, distribute, and sell a work in a particular territory. These territories are divided by country or by large regional bloc. At the top level are *world* rights, in which you effectively sell the publisher the right to distribute the work anywhere in the world. At the bottom are country-level rights: i.e. you sell the right to distribute this book only in Sri Lanka. In the middle are regional rights - for example, *Indian Subcontinent Rights* means India, Pakistan, Bangladesh, Nepal and Sri Lanka.
 
-2) Authors make money from publishers in two ways. The first and most straightforward is the royalty. Per book sold, the publisher pays you a percentage of the sticker price of that book. For paperbacks and hardcover - i.e. print books - this is usually between 8% and 12%, and 10% is very common. For ebooks, which cost less to produce, the numbers are closer to 25%. [20] If your book does well, you get 10%. If your book sells nothing, well, ten percent of zero is zero.
+2) **Royalties.** Authors make money from publishers in two ways. The first and most straightforward is the royalty. Per book sold, the publisher pays you a percentage of the sticker price of that book. For paperbacks and hardcover - i.e. print books - this is usually between 8% and 12%, and 10% is very common. For ebooks, which cost less to produce, the numbers are closer to 25%. [20] If your book does well, you get 10%. If your book sells nothing, well, ten percent of zero is zero.
 
-   The second is the advance. A publisher, upon buying the rights to your book, can give you an *advance against royalties*. This is up-front money and is counted against your royalty income. For example, if a publisher gives you $10,000, they'll recover that money from your royalties, i.e. your 10%s. Which means your book has to earn out that amount before you start seeing any royalty income.
+3) **Advances.** The second is the advance. A publisher, upon buying the rights to your book, can give you an *advance against royalties*. This is up-front money and is counted against your royalty income. For example, if a publisher gives you $10,000, they'll recover that money from your royalties, i.e. your 10%s. Which means your book has to earn out that amount before you start seeing any royalty income.
 
    Keep in mind, however, that with great advances also come great expectations. Big advances, that is to say, a hundred thousand dollars and up, are *typically* offered to celebrities who have large followings or to writers who have a strong record of sales. Typically, not always. You occasionally see a new writer being offered a huge advance, but this era of debut authors seems to have fizzled out a little, especially in light of various tragedies involving publishers betting the farm on authors who never finished their series. An advance of $10,000 to $20,000 per book in a series seems to be more normal. [20]
 
@@ -61,26 +61,28 @@ First, let's get some nomenclature out of the way.
 
 There are, broadly speaking, four types of publishers and four business models involved.
 
-1) Mainstream publishers
-2) Small presses
-3) Vanity publishing
-4) Self-publishing
+1) **Mainstream publishers**
+2) **Small presses**
+3) **Vanity publishing**
+4) **Self-publishing**
 
 {% include image.html image="/assets/images/posts/publishing/publishing-money-flow.svg" %}
 
-***
+## Mainstream publishing
 
-## Let's talk about mainstream publishing first
+### Big pockets, big money
 
 For decades, a handful of houses have controlled most of the United States trade market for books, and thus most of the anglophone world: [Penguin Random House](https://en.wikipedia.org/wiki/Penguin_Random_House), [Hachette](https://en.wikipedia.org/wiki/Hachette_Book_Group_USA), [HarperCollins](https://en.wikipedia.org/wiki/HarperCollins), [Simon & Schuster](https://en.wikipedia.org/wiki/Simon_&_Schuster), and [Macmillan](https://en.wikipedia.org/wiki/Macmillan_Publishers). When the US Department of Justice blocked Penguin Random House from buying Simon & Schuster in 2022, the court found that these Big Five held nearly 60% of the trade market and about 91% of the books that fetch advances of $250,000 or more. [1] 
 
-These, I should stress, are not quaint operations. It used to be the Big Six before Penguin and Random House merged. These are billion-dollar corporate bodies, some of which have been around for almost a century (Penguin, for example, started out in 1935). They tend to be owned by media corporations. Penguin Random House, again, is owned by the German media group Bertelsmann, which also owns a television network and a music company; [2] its former co-owner Pearson, which once did oil, electricity, finance, coal and aviation, now does education only, having sold off the Financial Times, its stake in the Economist and its share of Penguin Random House. [3] 
+These, I should stress, are not quaint operations. It used to be the Big Six before Penguin and Random House merged. These are billion-dollar corporate bodies, some of which have been around for almost a century (Penguin, for example, started out in 1935). Penguin Random House is owned by the German media group Bertelsmann, which also owns a television network and a music company. [2] Its former co-owner Pearson, which once did oil, electricity, finance, coal and aviation, now does education, having sold off the Financial Times, its stake in the Economist and its share of Penguin Random House. [3]  
 
-HarperCollins is owned by News Corp, which was run by [Rupert Murdoch](https://www.cbsnews.com/news/rupert-murdoch-stepping-down-news-corp-fox-chairman). [5] News Corp owned the Wall Street Journal, the UK's *The Sun* and *The Times*, Indian real estate, some media startups. Simon & Schuster is owned by a private equity firm, KKR. [4]
+HarperCollins is owned by News Corp, which was run by [Rupert Murdoch](https://www.cbsnews.com/news/rupert-murdoch-stepping-down-news-corp-fox-chairman). [5] News Corp owned the Wall Street Journal, the UK's *The Sun* and *The Times*, Indian real estate, some media startups. Simon & Schuster is owned by a private equity firm, KKR. [4] This is probably what passes for chess among corporate executives.
 
 Because of this, getting published by a mainstream publisher is the goal of many a novelist. Firstly, there's a lot more money involved. The advances tend to be higher. The print runs tend to be larger. And because of the long-standing relationships these companies have with media properties and booksellers and practically every corner of the world, they're capable of supercharging an author's career.
 
 If you look at the history of best-selling novelists, particularly in the last two decades, and look at the publisher logo, you will often find they are in the position that they are because behind them is a large super corporation with tendrils reaching out to practically every corner of the world.
+
+### . . . and how they stay profitable
 
 To keep these large corporations alive, the bread and butter of these large publishing corporations are romance, thrillers, and self-help books. The numbers shift with the source and the year, but romance is the clearest case: it was about 18% of adult fiction unit sales in the US in the twelve months to March 2021, second only to general adult fiction, [6] and in 2015 it made up nearly 20% of all US ebook sales. [7] Romantasy has since been the engine behind much of the recent growth in print. [8]
 
@@ -92,7 +94,7 @@ The friendly face of mainstream publishing is the imprint. An imprint is a divis
 
 Imprints can be large or small. They can specialize or overlap on each other's turf. For example, Farrar, Straus and Giroux (FSG), well-known for publishing books of great literary merit, is a division of Macmillan Publishers. [Tor](https://us.macmillan.com/torpublishinggroup/), a staple in science fiction and fantasy, is - again - Macmillan. [Orbit](https://www.hachettebookgroup.com/imprint/orbit/page/about-orbit/) is owned by Hachette.
 
-***
+### Working with mainstream publishers
 
 So how do you as an author work with mainstream publishing?
 
@@ -125,9 +127,7 @@ In turn, I recommended a few other authors to both Stevie and to Kanishka. A num
 
 I personally know people who have found success in all these methods, though.
 
-***
-
-## Now let's talk small press
+## Small press
 
 Small presses range from agile SMEs tiptoeing around the big guns, to NGO-style organizations with a mission, to more mom and pop style outfits.
 
@@ -159,15 +159,11 @@ These are two very different ways of operating. They lend themselves to very dif
 
 Notice how I haven't said much about agents in this conversation. It is generally rare for agents to be involved in the small press conversation. In my experience, the small press connection is a personal connection that you have with the people running the show. They either like your work or they don't.
 
-***
-
 ## Vanity publishing
 
 Vanity publishing is a predatory mechanism by which corporations prey on new authors' desperate desire to be acknowledged. Essentially, an author pays the publisher - instead of the other way around - to have their book printed, bound and sent out there. The Science Fiction and Fantasy Writers of America keeps a [blunt guide](https://sfwa.org/other-resources/writer-beware/vanity/) to how the model works. [18]
 
 Vanity publishing is stupid. It is also a derogatory signal in publishing circles. To me it means that not only could you not find someone who would pay for your work, but you also managed to get suckered into paying them for it.
-
-***
 
 ## Self-publishing
 
@@ -177,83 +173,116 @@ It turned out self-publishing has a rather interesting history. Self-published a
 
 Absent large commercial bodies to approve your work, self-publishing turns out to be a fairly normal default.
 
-Self-publishing really took off after 2007. There was the combination of multiple factors.
+Today's self-publishing is dominated by
 
-One, the Amazon Kindle launched in November 2007, [13] and Amazon really started putting the tools together for its KDP platform, by which an author could upload a formatted epub and PDF and go through the process of making it available.
+a) getting your local printer to print copies, and distributing them yourself 
+b) putting it up on a personal website or social media, ie: Rupi Kaur
+or
+c) Amazon, the 800-lb gorilla in the room
+
+### Printing it yourself
+
+A friend of mine does this thing where every so often he writes a book, goes to a printer, gets about 500 copies done, throws a party, hands it to whoever comes, and then spends the rest of the year trying to get rid of the excess inventory.
+
+This is one side of the print it yourself tree. The other side would be Brandon Sanderson, who did a record-breaking  $41 million Kickstarter for four books. Said books are not just ebooks, but - at the highest tier - were beautifully decorated hardcovers with bind with custom leather bindings, maps - a whole box of goodies, if you will. This meant that Sanderson essentially ended up building his own publishing company for the manufacturing, the shipping, the inventory, all of it.
+
+I used to work at tech magazines, one of which was basically just above that low end of the spectrum. Every month, I'd rush together the cover design, finalize the text, take it off to the printers, worry over bleed margins, go stock bookshops, take inventory and argue over commissions - 
+
+I'm going to be honest and say I would rather never do that again. 
+
+That being said, there are people who enjoy this sort of thing. A friend of mine does fonts. Do it if this appeals to you. 
+
+### Amazon
+
+Self-publishing really took off somewhere around 2009-2010. There was the combination of multiple factors.
+
+One, the Amazon Kindle launched in November 2007. [13]  Amazon had started putting the tools together for its KDP platform, by which an author could upload a formatted epub and PDF and go through the process of making it available. Over the years, they made this tooling better.
 
 Two, social media really started to take off. Thus, a portion of the marketing power that was traditionally available only to large organizations paying for ads in newspapers and in Times Square billboards fell into the hands of authors.
 
-So, from this era, you have juggernauts such as Hugh Howey, Amanda Hocking, Colleen Hoover, Michael J Sullivan and so on. Spurred on by these successes, many authors began to essentially throw out everything and the kitchen sink onto Amazon. There's a whole history behind this; look up the Kindle Gold Rush.
+So, from this era, you have juggernauts such as Hugh Howey, Amanda Hocking, Colleen Hoover, Michael J Sullivan and so on. Spurred on by these successes, many authors began to essentially everything but kitchen sink onto Amazon. Some took off to wild success (there was a veritable storm of paranormal and urban fantasy at some point) and some . . . did not (ie: a lot of poets, people trying to bring back 'hard' scifi from the 70s).
 
-By the time I arrived on the scene things were becoming a lot more professional; or rather, writers were beginning to act more like organized marketing bodies. Much data had been collected. People had noticed that the stuff that sold were the same kind of things that the big publishers put out: romance, thrillers, science fiction and fantasy.
+By the time I arrived on the scene things were becoming a lot more professional; writers were beginning to act more like organized businesses. Much data had been collected. People had noticed that the stuff that sold were the same kind of things that the big publishers put out: romance, thrillers, science fiction and fantasy.
 
-Self-publishing underwent a further mutation when people started putting their stories online in platforms. People putting stories online is not a new thing; Literotica and various fanfiction sites have been around for a long time.
+Writers who were doing well were spending thousands of dollars on cover art editing -  and indeed, some writers had already morphed into pseudo-publishing operations.
 
-But companies like Wattpad, Royal Road and so on began to notice rising trends, particularly in countries like China, Japan, and South Korea, of people reading chapter by chapter on their phones. Simultaneously, a few authors like John McCrae, also known as WildBow, began to publish multi-volume epics like *Worm* online using WordPress sites. Andy Weir started writing *The Martian* online. [15]
+Amazon has a second ace up its sleeve, the so-called Kindle Unlimited Reading Program, which kind of acts like a Netflix subscription, but for books. Writers get paid per page read, but critically, you can't participate in this program if your book is available for sale as an e-book elsewhere.
 
-Over the next few years, an ecosystem coalesced: websites that would easily allow non-technical authors to publish their work in a chapter-by-chapter fashion, very Dickensian, as well as crowdfunding sites like Kickstarter and Patreon, where an author who had many readers come to their web serials could direct readers and say, Hey, support me for the low, low price of a dollar or five dollars a month.
+To the best of my knowledge, all other attempts to make e book ecosystems have simply failed to match Amazon's sheer weight. Google Play, Apple Books, Lulu and a dozen other names have come up, but I don't see them being talked about by actual authors.
+
+### Websites and serials
+
+People putting stories online is not a new thing; Literotica and various fanfiction sites have been around for a long time.
+
+A few authors like John McCrae, also known as WildBow, began to publish multi-volume epics like *Worm* online using WordPress sites. Andy Weir started writing *The Martian* online. [15] And companies like Wattpad, Royal Road and so on began to notice rising trends, particularly in countries like China, Japan, and South Korea, of people reading chapter by chapter on their phones, and decided this was a business model.
+
+Thus, while some writers threw themselves into the Kindle ecosystem, over the next few years a different self-publishing ecosystem coalesced: websites that would easily allow non-technical authors to publish their work in a chapter-by-chapter fashion, very Dickensian, as well as crowdfunding sites like Kickstarter and Patreon, where an author who had many readers come to their web serials could direct readers and say, Hey, support me for the low, low price of a dollar or five dollars a month.
 
 Today the largest works of fantasy, for example, are not published through traditional large publishing houses. This year alone, I've read *A Practical Guide to Evil*, *The Calamitous Bob*, *Vigor Mortis*, *He Who Fights with Monsters*, *Industrial Strength Magic*.
 
 These are works large enough that they would take up several shelves; it is not uncommon in this space for the average successful work of fiction to span well ahead of a million words. In fact, I lost count of Pirateaba's *The Wandering Inn* when it passed 14 million words. I think it's now considerably longer. [17]
 
-This is an altogether different publishing model and for those who make it work it is very successful. Authors at the top routinely report anywhere between $10,000 to $50,000 a month in earnings. They are essentially working in a style similar to a TV series: putting out multiple chapters a week, large arcs, and overall, a world and characters and a story in which people can be immersed for a while.
+This is an altogether different publishing model, and for those who make it work, it is very successful. Authors at the top routinely report anywhere between $10,000 to $50,000 a month in earnings. They are essentially working in a style similar to a TV series: putting out multiple chapters a week, large arcs, and overall, a world and characters and a story in which people can be immersed for a while. 
 
-Note that the novel and manuscript workflow is not the keystone here. They rarely have the luxury of writing an 80,000 word manuscript and then going back and editing and redrafting and waiting for a few years for it to come out. This is much more *live*.
+Often, successful authors will then either self publish completed works as volumes on Amazon or receive publishing offers. 
+
+Note that the novel and manuscript workflow is not the keystone here. These writers rarely have the luxury of writing an 80,000 word manuscript and then going back and editing and redrafting and waiting for a few years for it to come out. This is much more *live*. 
 
 There's also a noticeable tilt in the types of fiction that become popular here, whereas traditional publishing seems to have tilted towards merging romance and fantasy, hence the *romantasy* genre (do you want to *ride* your dragon?). Web serials seem to overwhelmingly tend towards *progression fantasy*. Journal analysis will have to be a later post - we're already running too long as is - but different types of readers are drawn to different media.
 
 This is something you as an author have to be aware of.
 
-There's a general idea that I've seen on forums that as a self-publisher you have to be doing a great deal of marketing.
+### A General Note on Marketing
+
+There's a general idea that I've seen on forums that as a self-publisher you have to be doing a great deal of marketing yourself.
 
 This is true, but note: you have to be doing a great deal of marketing regardless of which publishing option you pick, unless you happen to be one of the blessed few that Penguin Random House or HarperCollins decides to sink a seven-figure publishing deal into - at which point your life will be orchestrated by an entire marketing department *who will make you promote* whether you want to or not.
 
 I'm not even remotely in the same league and I still have to pay attention to marketing's emails on when to reveal covers, what promos to push where, and so on.
 
-***
+## So what do you do as a writer?
 
-## What do you do as a writer?
+Well,  first, write your story. 
 
-Well, it goes without saying. First, write your story. I say this because I have been contacted by many would-be authors who start worrying about these distribution problems before they do the most critical component. You need something to show people. You need to write.
+I say this because I have been contacted by many would-be authors who start worrying about these distribution problems before they do the most critical component. You need something to show people. You need to write.
 
-Then take off your artist hat; put your business hat on and start thinking about where your ideal reader is going to be. For example, if you, like me, have written a very Sri Lankan novel about Sri Lankan politics, that is full of very Sri Lankan references, then it follows that your audience is going to be Sri Lankans. If it is written in English, then it follows that your audience is going to be Sri Lankans who read English novels. Therefore, it follows that working with the Sri Lankan press and with Sri Lankan bookstores where English readers come to makes a great deal of sense.
+Then take off your artist hat; put your business hat on and start thinking about where your ideal reader is going to be. 
 
-You will need to do this on a per-project basis. Let's take, for example, my science fiction like the Salvage Crew. The Salvage Crew is a series of technical experiments as well as being experiments in writing and exploring apophenia for myself. It inhabits an awkward space, exactly midway between "spaceship go boom" and "existentialist cosmic intelligence re-engineers Buddhism from first principles."
+For example, if you, like me, have written a very Sri Lankan novel about Sri Lankan politics, that is full of very Sri Lankan references, then it follows that your audience is going to be Sri Lankans. If it is written in English, then it follows that your audience is going to be Sri Lankans who read English novels. Therefore, it follows that working with the Sri Lankan press and with Sri Lankan bookstores where English readers come to makes a great deal of sense.
+
+You will need to do this on a per-project basis. Let's take, for example, my science fiction, like the Salvage Crew. The Salvage Crew is a series of technical experiments, and I'm essentially exploring my own apophenia; it inhabits an awkward space, exactly midway between "spaceship go boom" and "existentialist cosmic intelligence re-engineers Buddhism from first principles."
 
 This is the kind of thing that there is a readership in the US and the UK for, but not the kind of thing that a large publisher will want to take a gambit on. Therefore, it made sense to work with a small agile press that could take risks.
 
-Now let's look at my upcoming fantasy novels with Tor and Erewhon. My fantasy work is deliberately inspired by my favourite writers: Terry Pratchett, Diana Wynne Jones, and others. The story is something that both my agent and Diana Pho (my editor at Erewhon, who saw this novel when it was just a short story in an anthology) saw a great deal of potential in. They figured that it fit well in the rising popularity of more cozy fantasy - but at the edges, with a little bit of that sharp humor in it. That fit the profile of what I thought my book was about, and so I gave it to the people who could get that book in front of the readers I want.
+Now let's look at my upcoming fantasy novels with Tor and Erewhon. My fantasy work is inspired by my favourite writers: Terry Pratchett, Diana Wynne Jones, and others. The story is something that both my agent and Diana Pho (my editor at Erewhon, who saw this novel when it was just a short story in an anthology) saw a great deal of potential in. They figured that it fit well in the rising popularity of more cozy fantasy - but at the edges, with a little bit of sharp humor in it. 
 
-Other books that I have planned explicitly do not fit into this style, so who knows where they will go to? Who knows who'll be interested? I'll have to write the book and then put on my business hat and see.
+That fit the profile of what I thought my book was about, and so I gave it to the people who could get that book in front of the readers I want.
 
-In fact, I use the frame *projects* because sometimes thinking of books is a limiting frame. For example, one of my largest projects was something called [Witness]({% link docs/experiments/witness.md %}), a sort of solar-punk-climate-and-economic-futures project that involved co-designing a fictional floating city in which you could test any given social contract to see if it could actually be viable.
+Other books that I have planned explicitly do not fit into this style, so who knows where they will go to? 
 
-And so we have theocratic *ora et labora* societies informed by Benedictine monasteries; we have Hayekian capitalist spaces where even money is deregulated; we have anarchist communes - and all of this is really a sprawling mess of forum posts, invented histories, maps, games played in real spaces - and it was of interest to a coalition of European researchers and European grant funding.
+Who knows.  I'll have to write the book and then put on my business hat and see.
+
+In fact, I use the frame *projects* because sometimes thinking of books is a limiting frame. For example, one of my largest projects was something called [Witness]({% link docs/experiments/witness.md %}), a sort of solar-punk-climate-and-economic-futures project that involved co-designing a fictional floating city in which you could test any given social contract to see if it could actually be viable. And so we have theocratic *ora et labora* societies informed by Benedictine monasteries; we have Hayekian capitalist spaces where even money is deregulated; we have anarchist communes - and all of this is really a sprawling mess of forum posts, invented histories, maps, games played in real spaces - and it was of interest to a coalition of European researchers and European grant funding.
 
 {% include image.html image="/assets/images/posts/publishing/publishing-decision-map.svg" %}
 
-I can't give you a game plan without knowing the precise details of what you intend to do. But I can share a few tips and tricks that will help:
+## In the end
 
-1) Set up a portfolio website. For the love of all the gods, please have a website. In this day and age, you need a way for someone who's never heard your name before to Google it and come to a place that is nicely organized, preferably with your writing first. Not your Twitter, not your Facebook. Nobody wants to scroll through a dozen cat memes before they get to the stuff that they actually want to contact you about. If you don't want to pay for hosting, you can set up a nice website with [GitHub Pages](https://pages.github.com/) and just pay for a domain.
+Most of this comes down to the first thing I said: publishing is a business. Work out who your readers are, find the people who can put the book in front of them. Then write the next one. Repeat as long as you can afford to.
 
-   So many of the best opportunities that have come my way - from invitations to anthologies to well-paid writing and analysis gigs to research collaborations - have come through my website.
+Let me share a few tips and tricks that will help in this field:
 
-   Note that I say website, not a blog. Whoever pushed the idea that all writers should be blogging like some sort of demented SEO marketer should be shot in the head. A portfolio is what you need: a showcase of your best work, an about page, a few good photos so that anyone who's looking to write an article about you can easily grab the relevant information.
-
-   Make it easy for people to find you and contact you in a professional capacity.
-
-2) Once you have decided on an audience, read widely the kind of writing that you expect your audience to read. I am always surprised by how few writers actually do this. A book is constructed in your mind, but its reconstruction happens in the readers; and thus the story exists midway between yours and theirs. You need to be aware of this relationship, because it shapes how people see your writing.
+1. **Once you have decided on an audience, read widely the kind of writing that you expect your audience to read.** I am always surprised by how few writers actually do this. A book is constructed in your mind, but its reconstruction happens in the readers; and thus the story exists midway between yours and theirs. You need to be aware of this relationship, because it shapes how people see your writing.
 
    For example, I've always had a good overlap with the kind of people who read my books - futurists, economists, programmers, journalists and other science fiction writers - because I *am* one of those people. And so I'm always happy when someone emails me saying they found the Solaris joke buried three references deep or asking whether I've played Rimworld.
 
    But if I were to write, say, a memoir, I would look for people who read memoirs religiously (I am not one of them, though I do love Robert Caro's work, and Tracy Kidder's *The Soul of a New Machine* is magnificent). I would read their recommendations. I'd familiarize myself with the kind of tone and pacing they like. What I write might be completely different, but at least, if I'm going to break a form, I'm going to know it intimately first.
 
-3) Get an agent. Get someone who is willing to bet on you and is genuinely enthusiastic about the kind of work you want to do. This is oftentimes more important than the perceived prestige of the agent. While prestige matters, my personal preference is to have a good long-term working relationship with someone - especially when that someone is operating as a forward base with people you may never meet face to face. Note that getting an agent requires having something to show.
+2. **Get an agent.** Get someone who is willing to bet on you and is genuinely enthusiastic about the kind of work you want to do. This is oftentimes more important than the perceived prestige of the agent. While prestige matters, my personal preference is to have a good long-term working relationship with someone - especially when that someone is operating as a forward base with people you may never meet face to face. Note that getting an agent requires having something to show.
 
-4) With the exception of vanity publishing, evaluate each option on a per-project basis. Again, some works are best left done with small presses; some works are things that you want to see take off commercially and might require a large publisher with marketing dollars; some are things that you may want to self-publish, because it's either too strange to fit, or because you want to experiment, or perhaps because you know you have a readership and want more control over the process. Both Michael J Sullivan, who self-published the Riyria Revelations before Orbit picked them up, and Brandon Sanderson, whose 2022 Kickstarter raised over $41 million, are good examples of this. [16]
+3. **With the exception of vanity publishing, evaluate each option on a per-project basis.** Again, some works are best left done with small presses; some works are things that you want to see take off commercially and might require a large publisher with marketing dollars; some are things that you may want to self-publish, because it's either too strange to fit, or because you want to experiment, or perhaps because you know you have a readership and want more control over the process. Both Michael J Sullivan, who self-published the Riyria Revelations before Orbit picked them up, and Brandon Sanderson, whose 2022 Kickstarter raised over $41 million, are good examples of this. [16]
 
-5) Please hustle *less* on social media; or at least, hustle with intent, and not too often. Over the years I've seen many author friends turn their social media and newsletters into what is effectively a gigantic billboard for their books.
+4. **Please hustle *less* on social media; or at least, hustle with intent.** Over the years I've seen many author friends turn their social media and newsletters into what is effectively a gigantic billboard for their books.
 
    This works, for a time.
 
@@ -261,17 +290,19 @@ I can't give you a game plan without knowing the precise details of what you int
 
    Yes, I am aware that it is counterintuitive, but in a world where everything and everyone is screaming for some attention, be the one who is giving that attention.
 
-   Many of the newsletters that I actually open with joy, like [Samuel Arbesman's](https://buttondown.com/ayjay/archive/a-newsletter-of-newsletters) or [Robin Sloan's](https://www.robinsloan.com/newsletters/), are those that are going to provide me with some interesting information, and if occasionally I see a "hey, please buy my book" in there, that's a valid tradeoff.
+   Many of the newsletters that I actually open with joy, like [Samuel Arbesman's](https://buttondown.com/ayjay/archive/a-newsletter-of-newsletters) or [Robin Sloan's](https://www.robinsloan.com/newsletters/), are those that are going to provide me with some interesting information, and if occasionally I see a "hey, please buy my book" in there, that's a valid tradeoff. [Cory Doctorow](https://pluralistic.net/), for example, talks a great deal about very pertinent issues involving technology, rights and society; occasionally you're made aware that you should keep this guy going by buying his work.
 
-   [Cory Doctorow](https://pluralistic.net/), for example, talks a great deal about very pertinent issues involving technology, rights and society; occasionally you're made aware that you should keep this guy going by buying his work.
+5. **Set up a portfolio website.** For the love of all the gods, please have a website. In this day and age, you need a way for someone to Google your name and come to a place that is nicely organized, preferably with your writing first. So many of the best opportunities that have come my way - from invitations to anthologies to well-paid writing and analysis gigs to research collaborations - have come through my website.
 
-***
+   Not your Twitter, not your Facebook, and not LinkedIn. Nobody wants to scroll through a dozen cat memes and cringe-inducing #thoughtleadership posts before they get to the stuff that they actually want to contact you about. If you don't want to pay for hosting, you can set up a nice website with [GitHub Pages](https://pages.github.com/) and just pay for a domain.
 
-## In the end
+   Note that I say website, not a blog. Whoever pushed the idea that all writers should be blogging like some sort of demented SEO marketer should be shot in the head. A portfolio is what you need: a showcase of your best work, an about page, a few good photos so that anyone who's looking to write an article about you can easily grab the relevant information.
 
-Most of this comes down to the first thing I said: publishing is a business, and every option on this list is a different business with a different customer. Work out who your readers are, find the people who can put the book in front of them, and be honest about whether the book is any good. Then write the next one.
+   Make it easy for people to find you and contact you in a professional capacity.
 
-**References:**
+   
+
+## **References:**
 
 [1] Publishers Weekly, judge's written opinion blocking the PRH and S&S merger: https://www.publishersweekly.com/pw/print/20221114/90880-in-written-opinion-judge-florence-pan-shreds-blocked-prh-s-s-merger.html
 
