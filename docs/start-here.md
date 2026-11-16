@@ -39,7 +39,7 @@ Start with the **essays**.
 
 [The Steam Hammer]({% link docs/posts/the-steam-hammer.md %}) is a speech about AI and what it means to make things in the age of thinking machines. Short, pointed, delivered at the Arthur C. Clarke centennial.
 
-[The Fate of the Gorillas]({% link docs/posts/fate-of-the-gorillas.md %}) is the most recent long essay - on superintelligence, the limits of our frameworks for thinking about it, and what we might be missing.
+[The Fate of the Gorillas]({% link docs/posts/fate-of-the-gorillas.md %}) is a long essay - on superintelligence, the limits of our frameworks for thinking about it, and what we might be missing.
 
 ---
 
