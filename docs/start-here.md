@@ -31,18 +31,6 @@ It's the most grounded of my novels: recognisable cities, recognisable anxieties
 
 ---
 
-## If you want to start small
-
-Start with the **essays**.
-
-[The Ricepunk Manifesto]({% link docs/posts/the-ricepunk-manifesto.md %}) is the clearest statement of where I'm coming from aesthetically - tropical science fiction, post-colonial futures, technology as it's actually experienced outside the global north.
-
-[The Steam Hammer]({% link docs/posts/the-steam-hammer.md %}) is a speech about AI and what it means to make things in the age of thinking machines. Short, pointed, delivered at the Arthur C. Clarke centennial.
-
-[The Fate of the Gorillas]({% link docs/posts/fate-of-the-gorillas.md %}) is a long essay - on superintelligence, the limits of our frameworks for thinking about it, and what we might be missing.
-
----
-
 ## If you want a short story first
 
 Two stories are freely readable online and work as standalone entries:
