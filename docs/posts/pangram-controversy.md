@@ -34,9 +34,9 @@ In the case of the Caine Prize even their statement on Instagram seemed to be AI
 
 There are two problems here.
 
-The first is that the people who are rightfully opposed to AI in writing seem to have absolutely no critical engagement with the technologies involved and therefore no real understanding of current generation capabilities, writing styles or patterns.
+The first is that the people who are rightfully opposed to AI in writing seem to have absolutely no critical engagement with the technologies involved, and therefore no real understanding of current generation capabilities, writing styles or patterns.
 
-The third, amplifying these two, is that humans are notoriously bad at recognizing AI-generated text. To quote [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing):
+We already know that untrained humans are notoriously bad at recognizing AI-generated text. To quote [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing):
 
 > *Do not rely too much on your own judgment. Humans are notoriously bad at distinguishing human and LLM-generated text. While research on humans' abilities to detect AI-generated text is still limited, a 2025 study has shown that human ability to distinguish LLM text from human is no better than random chance. Another 2025 study on German theses has shown that humans managed a "recognition rate of 57 % for AI texts and 64 % for human-generated texts".*
 >
@@ -44,13 +44,17 @@ The third, amplifying these two, is that humans are notoriously bad at recognizi
 >
 > *Note, also, that human speech and writing is being influenced by LLMs, and thus they are becoming more similar. This was already evident in 2024, as shown by a study that detected a significant LLM influence in spoken content (e.g. conversational podcasts). Further studies seem to confirm this influence on language, including semantics and word choices. However, this is a lagging and patchwork process, and the reverse is not true: LLM output is not becoming more similar to that of human writing.*
 
-In short, unless you know AI tells, you tend to be pretty bad at recognizing it. One would assume that judges of literary awards and literary merit, fundamentally human aspect of writing and the community would at least be technically competent enough to distinguish machine writing from human, or at least have trained themselves in that regard.
+Unless you know AI tells, you tend to be pretty bad at recognizing it. 
 
-This argument is [explored rather eloquently](https://www.theargumentmag.com/p/the-literary-world-is-sleepwalking).
+One would assume that judges of literary awards and literary merit - fundamentally human aspect of writing and the community - would at least be technically competent enough to distinguish machine writing from human, or at least have trained themselves in that regard, but well, one assumes wrong. In fact, the [literary world is sleepwalking into a crisis, as Kelsey Piper so forcefully points out](https://www.theargumentmag.com/p/the-literary-world-is-sleepwalking).
 
-The second, which complicates the matter, is the fact that writing from the global south seems to be expected to be this tortured, heavy, and quite frankly, bizarre strain of navel gazing. Actual readable writing seems to be left to the Anglosphere. From the rest of us, it seems the world expects endless meditations using analogies and metaphors that only make sense if you put on some heavy Orientalist glasses and say, oh, but they're so brown and exotic, their worldviews are so alien.
+The second, which complicates the matter, is the fact that writing from the global south seems to be expected to be this tortured, heavy, and quite frankly, bizarre strain of navel gazing. Actual readable writing seems to be left to the Anglosphere. 
 
-As if somehow we were a different species of humans altogether, as if we did not use the internet or everyday applications, as if we did not understand Microsoft Word, or have access to thesauruses and dictionaries; as if it is simply not possible to convey our social media without doing the literary equivalent of beating up a thesaurus in an empty parking lot.
+From the rest of us, it seems the world expects endless meditations using analogies and metaphors that only make sense if you put on some heavy Orientalist glasses and say, oh, *but they're so brown and exotic, their worldviews are so alien*. As if somehow we were a different species of humans altogether, as if we did not use the internet or everyday applications, as if we did not understand Microsoft Word, or have access to thesauruses and dictionaries; as if it is simply not possible to convey our social media without doing the literary equivalent of beating up a thesaurus in an empty parking lot.
+
+***
+
+Let's revisit the case of Jamir Nazir.
 
 ![Image](https://pbs.twimg.com/media/HIqCs9wbMAAthLQ?format=jpg&name=large)
 
@@ -94,7 +98,9 @@ It would be fabulous indeed to believe that all these different writers from dif
 
 However, one is an interesting anecdote. Two is the start of a suspicious pattern and multiple is a problem.
 
-Using cries of racism to cover up crap like this is in fact racist in itself. It is the assumption that writers for whom English is a second language cannot be competent enough to write a sentence that makes sense to another human being. It also infantilizes writers as if we are some sort of strange beings who are not capable of being liars, cheats, thieves or assholes (when in fact a cursory history of interesting writers will show you the very opposite: one only needs to start from Marlowe and go down from there, perhaps stopping ).
+Using cries of racism to cover up crap like this is in fact racist in itself. 
+
+It is the assumption that writers for whom English is a second language cannot be competent enough to write a sentence that makes sense to another human being. It also infantilizes writers, as if we are some sort of strange beings who are not capable of being liars, cheats, thieves or assholes (when in fact a cursory history of interesting writers will show you the very opposite).
 
 Now, no model is 100% accurate.  I have a statistics and machine learning background: it's a very common aphorism in statistical modeling that if your model is very accurate, then all you've got is an overfit.
 
@@ -170,11 +176,13 @@ In 2018, I wrote a story for Brian Walton called *The Writing Contest*. In it, a
 
 This is the future that we are in; this is the future that we have been heading into for some time. What I find extremely unpalatable is that the people who desperately want to be guardians of certified organic human written literature are the people least competent at detecting it.
 
+In 2019 I [co-founded a fact checker and grew that into a data journalism lab](https://www.niemanlab.org/2022/06/meet-the-fact-checkers-decoding-sri-lankas-meltdown/). One of the things we learned the very hard way was Brandolini's law: *it takes an order of magnitude more effort to refute bullshit than to produce it.*
+
+Whether you like it or not, the problem is at a scale and at a volume that simply cannot be dealt with by people who *aren't* experts at both human and machine constructions.
+
 I honestly think it's about high time that we have more Pangrams. Perhaps each literary prize should in fact concoct, if not a statistical tool, at least a tree of decisions that they can follow to understand whether something is human or not.
 
-Perhaps they should conduct their own independent audits and have a whole host of tools that they use, similar to how universities use automated tools to flag plagiarism.
-
-Whether you like it or not, the problem is at a scale and at a volume that simply cannot be dealt with by people who aren't experts at both human and machine constructions.
+Perhaps they should conduct their own independent audits on tools. Perhaps they should have not one, but many, similar to how universities use automated tools to flag plagiarism. Perhaps these tools should be private, so as to prevent future LLMs from learning to game them.
 
 It won't last long. As I always say, if you think you can detect AI writing, that's because you're looking at unsophisticated users. But we do collectively need to start holding ourselves to standards if we are to be serious about this whole business of prizes and literary merit.
 
