@@ -108,17 +108,17 @@ But in my opinion, any fool should be able to see the value in using these tools
 
 If it's not clear, I'm on the side of Pangram here. People have tested Pangram ([medium post](https://medium.com/@veryfineprint5597/scanning-for-pangram-errors-00033d003246)), [on Twitter](https://x.com/JohnHolbein1/status/2121454993039298813). And not just on Twitter or medium post by random people, there have been [actual studies on the subject](https://statmodeling.stat.columbia.edu/2026/11/17/the-2026-pangram-social-justice-misinformation-wars-collective-understanding-of-binary-classification-takes-a-hit/).
 
-In fact let me name a few people who are actually studying this. Tuhin Chakrabaty, an assistant professor at Stony Brook University, has studied books that get flagged by Pangram (that is to say 14,419 self published fiction books sold on Amazon from 2023 to 2026 March https://arxiv.org/pdf/2607.20349) with Paramveer Dhillon of the University of Michigan, Xinyue Liu of Stony Brooke, and Jane Ginsberg at Columbia Law.
+In fact let me name a few people who are actually studying this. Tuhin Chakrabaty, an assistant professor at Stony Brook University, has studied books that get flagged by Pangram (that is to say 14,419 self published fiction books sold on Amazon from 2023 to 2026 March: see their paper at https://arxiv.org/pdf/2607.20349) with Paramveer Dhillon of the University of Michigan, Xinyue Liu of Stony Brooke, and Jane Ginsberg at Columbia Law.
 
-He also ran one hundred and eighty six African novels through Pangram (https://tuhinchakrabarty.substack.com/p/are-ai-detectors-really-racist-or). 
+He also ran [(]one hundred and eighty six African novels through Pangram]([)https://tuhinchakrabarty.substack.com/p/are-ai-detectors-really-racist-or).  You won't know what he found? Pangram isn't racist towards African writing. There's zero indicator that Pancram sees African writing and starts screaming.
 
-You won't know what the found? Pangram isn't racist towards African writing. Pengram is in fact very good at detecting AI slop. If something shows up as 2% AI on Pangram, that can be dismissed as statistical noise if something registers as a hundred percent - well that's time to sit up and pay attention.
+Pengram is in fact very good at detecting AI slop. If something shows up as 2% AI on Pangram, that can be dismissed as statistical noise if something registers as a hundred percent - well that's time to sit up and pay attention.
 
-Critically, despite Pangram having a open bounty for pre-LLM writing that detects as AI, it has nobody has so far managed to find such a thing. The only thing so far that the Internet has dredged up is a joke poem where the same 6 words are repeated four thousand times.
+Critically, despite Pangram having a open bounty for pre-LLM writing that detects as AI, nobody has so far managed to find such a thing. The only thing so far that the Internet has dredged up is a joke poem where the same 6 words are repeated four thousand times.
 
-The best we seem to have were Timnit Gebru's "trust me, bro," levels of claims that she has spoken to students who've said they've been unfairly flagged for AI writing.
+Meanwhile, on the other side - aka "pangram is evil" - the best we seem to have were Timnit Gebru's "trust me, bro," claims that she has spoken to students who've said they've been unfairly flagged for AI writing.
 
-There's a common counterclaim that forms a strawman argument by saying statistical tools like this have been pretty bad, and some have even flagged the US Constitution as AI written. Indeed. But are they the same statistical tool? Is a hammer like a spade?
+The slightly more coherent  counterclaim is a strawman argument: saying statistical tools like this have been pretty bad, and some have even flagged the US Constitution as AI written. Indeed. But are they the same statistical tool? Is a hammer like a spade? 
 
 Look, let me do a Gebru. I know my shit on this. In fact, since 2019, I've been training machine learning models, I've been building my own large language models, and I run AI locally for programming, data extraction and policy research. Hell, I think OpenAI and Anthropic are unambiguously evil, but I'm a massive advocate of open source AI that everyone has access to. 
 
