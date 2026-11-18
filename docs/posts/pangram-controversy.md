@@ -13,9 +13,9 @@ permalink: /posts/pangram-controversy/
 
 *November 2026*
 
-Recently there have been a number of controversies involving the Ai-writing detector [Pangram](https://www.pangram.com) and prize-winning novels.
+Recently there have been a number of controversies involving the Ai-writing detector [Pangram](https://www.pangram.com) and prize-winning stories.
 
-- In May 2026, Pangram reported that 100% of Jamir Nazir’s Caribbean regional winner, *"The Serpent in the Grove"* was AI-written.
+- In May 2026, Pangram reported that 100% of Jamir Nazir’s story, *"The Serpent in the Grove"*, which won the Commonwealth Prize, was AI-written.
 - In November 2026, Vauhini Vara, writing for the Atlantic, used Pangram to point out that [winner of the Caine Prize](https://www.caineprize.com) - "*the Blue Fighter*" by Simbarashe Steyn Kundizeza - seems to be an AI-written story.
 
 In both cases, the outcry has been bizarre. Despite Jamir Nazir's story having *obvious* AI tells such as a women who "had the kind of walking that made benches become men" or “smiled like sunrise over a sink” -  both prizes doubled down.
