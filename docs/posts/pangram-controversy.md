@@ -11,14 +11,14 @@ permalink: /posts/pangram-controversy/
 # In Defense of Pangram
 {: .no_toc }
 
-*October 2026*
+*November 2026*
 
-Recently there have been a number of controversies involving the AI-writing detector [Pangram](https://www.pangram.com) and prize-winning novels.
+Recently there have been a number of controversies involving the Ai-writing detector [Pangram](https://www.pangram.com) and prize-winning novels.
 
 - In May 2026, Pangram reported that 100% of Jamir Nazir’s Caribbean regional winner, *"The Serpent in the Grove"* was AI-written.
-- In October 2026, Vauhini Vara, writing for the [Atlantic](https://theatlantic.com/books/2026/10/caine-prize-winning-short-story-seems-be-ai/688967), used Pangram to point out that [winner of the Caine Prize](https://www.caineprize.com) - "*the Blue Fighter*" by Simbarashe Steyn Kundizeza - seems to be an AI-written story.
+- In November 2026, Vauhini Vara, writing for the Atlantic, used Pangram to point out that [winner of the Caine Prize](https://www.caineprize.com) - "*the Blue Fighter*" by Simbarashe Steyn Kundizeza - seems to be an AI-written story.
 
-In both cases, the outcry has been bizarre. Despite Jamir Nazir's story having *obvious* AI tells such as a woman who "had the kind of walking that made benches become men" or “smiled like sunrise over a sink” -  both prizes doubled down.
+In both cases, the outcry has been bizarre. Despite Jamir Nazir's story having *obvious* AI tells such as a women who "had the kind of walking that made benches become men" or “smiled like sunrise over a sink” -  both prizes doubled down.
 
 Internet commentators cried that this statistical detection of AI writing is somehow racist. There have been claims that AI writes in these stilted patterns precisely because it ingested the writing of black and brown authors from the global south, not that authors have used AI.
 
@@ -64,7 +64,7 @@ There is a [very fine article](https://africasacountry.com/2026/05/how-to-read-p
 
 ***
 
-Let's revisit the case of Jamir Nazir.
+Let's revisit the case of Jameer Nazir.
 
 Like, look, this shit is bad writing. It is objectively terrible. And it is AI. You don't need a pangram to understand how bizarre some of these metaphors and sentence structures are.
 
@@ -102,13 +102,13 @@ But in my opinion, any fool should be able to see the value in using these tools
 
 If it's not clear, I'm on the side of Pangram here. People have tested Pangram ([medium post](https://medium.com/@veryfineprint5597/scanning-for-pangram-errors-00033d003246)), [on Twitter](https://x.com/JohnHolbein1/status/2121454993039298813). And not just on Twitter or medium post by random people, there have been [actual studies on the subject](https://statmodeling.stat.columbia.edu/2026/11/17/the-2026-pangram-social-justice-misinformation-wars-collective-understanding-of-binary-classification-takes-a-hit/).
 
-In fact let me name a few people who are actually studying this. Tuhin Chakrabarty, an assistant professor at Stony Brook University, has [studied books that get flagged by Pangram](https://arxiv.org/pdf/2607.20349) (that is to say 14,419 self published fiction books sold on Amazon from 2023 to 2026 March) with Paramveer Dhillon of the University of Michigan, Xinyue Liu of Stony Brook, and Jane Ginsberg at Columbia Law.
+In fact let me name a few people who are actually studying this. Tuhin Chakrabaty, an assistant professor at Stony Brook University, has studied books that get flagged by Pangram (that is to say 14,419 self published fiction books sold on Amazon from 2023 to 2026 March https://arxiv.org/pdf/2607.20349) with Paramveer Dhillon of the University of Michigan, Xinyue Liu of Stony Brooke, and Jane Ginsberg at Columbia Law.
 
-He also [ran one hundred and eighty six African novels through Pangram](https://tuhinchakrabarty.substack.com/p/are-ai-detectors-really-racist-or).
+He also ran one hundred and eighty six African novels through Pangram (https://tuhinchakrabarty.substack.com/p/are-ai-detectors-really-racist-or). 
 
-You won't know what they found? Pangram isn't racist towards African writing. Pangram is in fact very good at detecting AI slop. If something shows up as 2% AI on Pangram, that can be dismissed as statistical noise if something registers as a hundred percent - well that's time to sit up and pay attention.
+You won't know what the found? Pangram isn't racist towards African writing. Pengram is in fact very good at detecting AI slop. If something shows up as 2% AI on Pangram, that can be dismissed as statistical noise if something registers as a hundred percent - well that's time to sit up and pay attention.
 
-Critically, despite Pangram having an [open bounty](https://x.com/max_spero_/status/2122506119033852202) for pre-LLM writing that detects as AI, nobody has so far managed to find such a thing. The only thing so far that the Internet has dredged up is a joke poem where the same 6 words are repeated four thousand times.
+Critically, despite Pangram having a open bounty for pre-LLM writing that detects as AI, it has nobody has so far managed to find such a thing. The only thing so far that the Internet has dredged up is a joke poem where the same 6 words are repeated four thousand times.
 
 The best we seem to have were Timnit Gebru's "trust me, bro," levels of claims that she has spoken to students who've said they've been unfairly flagged for AI writing.
 
@@ -116,7 +116,7 @@ There's a common counterclaim that forms a strawman argument by saying statistic
 
 Look, let me do a Gebru. I know my shit on this. In fact, since 2019, I've been training machine learning models, I've been building my own large language models, and I run AI locally for programming, data extraction and policy research. Hell, I think OpenAI and Anthropic are unambiguously evil, but I'm a massive advocate of open source AI that everyone has access to. 
 
-Hell, I've done this before. I have a post on this site ([Can You Vibe-Code A Novel]({% link docs/posts/can-you-vibe-code-a-novel.md %})) in which I specifically had Claude generate a 50,000+ word "novel" just to evaluate how far the public interfaces for these tools have come. 
+Hell, I've done this before. I have a post on this site (Can You Vibe-Code A Novel) in which I specifically had Claude generate a 50,000+ word "novel" just to evaluate how far the public interfaces for these tools have come. 
 
 I even have a series of novels, *The Salvage Crew* series, where I deliberately set myself the challenge of using local AI in interestingly oddball ways that I explain in needless detail in the forewords and afterwards. I don't pretend it's high literature, but critically, I'm not trying to fool people.  If I can figure out how to use a tool in an unconventional way, I'm going to talk about it.
 
@@ -124,7 +124,7 @@ TL;DR I cannot tell you how many hundreds of thousands of chats I have seen, the
 
 So trust me, bro. 
 
- If this is what wins awards, then we should perhaps shut the awards down and go home - because Claude and ChatGPT and Qwen 3.8 flash next and GLM 5.3 and DeepSeek 4.1 and whatever else I've forgotten to mention here -
+ If this is what wins awards, then we should perhaps shut the awards down and go home - because Claude and ChatGPT and Quen 3.8 flash next and GLM 5.3 and DeepSeek 4.1 and whatever else I've forgotten to mention here -
 
 they've already won.
 
@@ -132,9 +132,9 @@ they've already won.
 
 But let's explore this racism allegation a bit further. A critical part of the racism allegation is that it is anti-black and or anti-African.
 
-James Yu, who makes money by selling AI software that specifically writes stories for authors, has been [keeping track of competitions where AI use was suspected](https://jamesyu.org/award-winning-ai-literature/).
+James Yu, who makes money by selling AI software that specifically writes stories for authors, has been keeping track of competitions where AI use was suspected: https://jamesyu.org/award-winning-ai-literature/.
 
-Now, I assume he does this because it is relevant to his business somehow. I find that particular business banal, but I'm going to appropriate his table to point out something. Look at the list of countries:
+Now, I assume you does this because it is relevant to his business somehow. I find that particular business banal, but I'm going to appropriate his table to point out something. Look at the list of countries:
 
 | Country          | Work                                                         | Creator                                      | Prize                                                        | Status                                    | Notes                                                        |
 | ---------------- | ------------------------------------------------------------ | -------------------------------------------- | ------------------------------------------------------------ | ----------------------------------------- | ------------------------------------------------------------ |
@@ -166,7 +166,7 @@ South Korea, UK, Brazil, New Zealand, Japan. You have to really, really ignore t
 
 Look, I find this whole thing ironic.
 
-In 2018, I wrote a story for Brian Walton called *[The Writing Contest](https://www.goodreads.com/series/260715-future-visions)*. In it, a poor writer enters a writing contest. The writer is poor and he desperately needs money for his mother's care. In a spate of uncertainty, he spins up an AI model and enters like a dozen more entries. And he is utterly crushed when it is the AI-written story that wins.
+In 2018, I wrote a story for Brian Walton called *The Writing Contest*. In it, a poor writer enters a writing contest. The writer desperately needs money for his mother's care. In a spate of uncertainty, he spins up an AI model and enters like a dozen more entries. And he is utterly crushed when it is the AI-written story that wins.
 
 This is the future that we are in; this is the future that we have been heading into for some time. What I find extremely unpalatable is that the people who desperately want to be guardians of certified organic human written literature are the people least competent at detecting it.
 
