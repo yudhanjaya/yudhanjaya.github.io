@@ -13,7 +13,7 @@ Nonfiction, speeches, and long-form thinking — on AI, publishing, aesthetics, 
 
 ---
 
-{%- assign posts = site.pages | where_exp: "p", "p.path contains 'docs/posts/'" | where_exp: "p", "p.name != 'index.md'" | where_exp: "p", "p.date" | sort: "date" | reverse -%}
+{% assign posts = site.pages | where_exp: "p", "p.path contains 'docs/posts/'" | where_exp: "p", "p.name != 'index.md'" | where_exp: "p", "p.date" | sort: "date" | reverse %}
 
 | Post | Date |
 |------|------|
