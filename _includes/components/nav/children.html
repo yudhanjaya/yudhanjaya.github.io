@@ -46,3 +46,10 @@
 
 {%- include components/nav/sorted.html pages=nav_children -%}
 {%- assign nav_children = nav_sorted -%}
+
+{%- comment -%}
+  Posts are listed by publish date, newest first, so nav_order is not needed for them.
+{%- endcomment -%}
+{%- if include.node.title == "Posts" -%}
+  {%- assign nav_children = nav_children | sort: "date" | reverse -%}
+{%- endif -%}

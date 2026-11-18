@@ -13,10 +13,10 @@ Nonfiction, speeches, and long-form thinking — on AI, publishing, aesthetics, 
 
 ---
 
+{%- assign posts = site.pages | where_exp: "p", "p.path contains 'docs/posts/'" | where_exp: "p", "p.name != 'index.md'" | where_exp: "p", "p.date" | sort: "date" | reverse -%}
+
 | Post | Date |
 |------|------|
-| [How Publishing Works]({% link docs/posts/publishers.md %}) | November 2026 |
-| [Can You Vibe-Code a Novel?]({% link docs/posts/can-you-vibe-code-a-novel.md %}) | March 2025 |
-| [The Ricepunk Manifesto]({% link docs/posts/the-ricepunk-manifesto.md %}) | June 2022 |
-| [Mammals and Dinosaurs]({% link docs/posts/mammals-and-dinosaurs.md %}) | January 2019 |
-| [The Steam Hammer]({% link docs/posts/the-steam-hammer.md %}) | December 2017 |
+{% for p in posts -%}
+| [{{ p.title }}]({{ p.url | relative_url }}) | {{ p.date | date: "%B %Y" }} |
+{% endfor %}
