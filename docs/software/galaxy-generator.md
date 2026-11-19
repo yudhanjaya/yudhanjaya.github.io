@@ -4,7 +4,7 @@ parent: Software
 nav_order: 3
 tags: [software]
 date: 2025-04-24
-image: "/assets/images/software/starmap/screenshot-stars.png"
+image: "/assets/images/software/galaxy-generator/featured.png"
 excerpt: "An interactive procedural galaxy generator — stars, planets, and civilizations in an explorable 3D universe, built for a keynote and useful for fiction."
 ---
 

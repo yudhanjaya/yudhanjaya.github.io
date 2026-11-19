@@ -4,7 +4,7 @@ parent: Software
 nav_order: 8
 tags: [software]
 date: 2023-08-21
-image: "/assets/images/software/pseudowrite/pseudowrite.jpg"
+image: "/assets/images/software/pseudowrite/featured.png"
 excerpt: "A story outlining tool that converts rough ideas into structured act outlines and chapter notes using iterative AI refinement."
 ---
 

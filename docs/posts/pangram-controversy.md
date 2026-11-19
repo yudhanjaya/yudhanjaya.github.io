@@ -5,6 +5,7 @@ parent: Posts
 nav_order: 0
 date: 2026-11-18
 excerpt: "Two prize-winning stories flagged by the AI-writing detector Pangram, the backlash against it, and why statistical detection matters."
+image: "/assets/images/posts/pangram-controversy/featured.png"
 permalink: /posts/pangram-controversy/
 ---
 

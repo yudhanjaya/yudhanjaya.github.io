@@ -4,7 +4,7 @@ parent: Experiments
 nav_order: 3
 tags: [experiments]
 date: 2019-04-01
-image: "/assets/images/watchdog/watchdogbanner16x9.jpg"
+image: "/assets/images/experiments/watchdog-sri-lanka/featured.png"
 excerpt: "A factchecker, data journalism operation, public software builder, and open-source research collective. Founded after the 2019 Easter Sunday bombings."
 ---
 

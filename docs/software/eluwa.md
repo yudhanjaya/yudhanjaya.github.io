@@ -4,7 +4,7 @@ parent: Software
 nav_order: 10
 tags: [software]
 date: 2023-04-01
-image: "/assets/images/software/eluwa/logo.jpg"
+image: "/assets/images/software/eluwa/featured.png"
 excerpt: "A family of fine-tuned LoRA models on Facebook's OPT architecture — more conversational, more imaginative, trained on the Stanford Alpaca dataset."
 ---
 

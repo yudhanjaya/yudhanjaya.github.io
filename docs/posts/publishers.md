@@ -5,6 +5,7 @@ parent: Posts
 nav_order: 0
 date: 2026-11-16
 excerpt: "A plain account of how publishing works for new novelists: mainstream houses, agents, small presses, vanity publishing and self-publishing, and how to decide between them project by project."
+image: "/assets/images/posts/publishers/featured.png"
 permalink: /posts/how-publishing-works/
 ---
 

@@ -4,7 +4,7 @@ parent: Software
 nav_order: 6
 tags: [software]
 date: 2023-05-01
-image: "/assets/images/software/antilibrary/screenshot.png"
+image: "/assets/images/software/antilibrary/featured.png"
 excerpt: "Ask questions of your PDFs, EPUBs, Word docs, and text files — a local RAG tool built on langchain and gradio."
 ---
 

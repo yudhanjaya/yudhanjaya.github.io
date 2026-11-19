@@ -4,7 +4,7 @@ parent: Software
 nav_order: 4
 tags: [software]
 date: 2019-04-01
-image: "/assets/images/osun/osun-banner.jpg"
+image: "/assets/images/software/osun/featured.png"
 excerpt: "A poetry generator trained on Tang Dynasty poetry. My experiment with GPT-2 that ended up on the Moon."
 ---
 

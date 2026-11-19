@@ -4,7 +4,7 @@ parent: Software
 nav_order: 5
 tags: [software]
 date: 2024-09-06
-image: "/assets/images/software/colombo-skylines/cities-banner.jpg"
+image: "/assets/images/software/colombo-skylines/featured.png"
 excerpt: "A nearly 1:1 replica of the city of Colombo in Cities: Skylines, built for transport policy visualization."
 ---
 

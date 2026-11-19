@@ -4,7 +4,7 @@ parent: Experiments
 nav_order: 4
 tags: [experiments]
 date: 2021-11-01
-image: "/assets/images/experiments/witness.png"
+image: "/assets/images/experiments/witness/featured.png"
 excerpt: "A worldbuilding project and card game about governing imaginary societies through Black Swan crises - built the SciFi Economics Lab's research into alternate economies."
 ---
 

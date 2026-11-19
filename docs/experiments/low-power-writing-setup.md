@@ -5,7 +5,7 @@ grand_parent: Experiments
 tags: [stonegarden]
 nav_order: 3
 date: 2024-02-01
-image: "/assets/images/experiments/stonegarden/low-power-writing/low-power.png"
+image: "/assets/images/experiments/low-power-writing-setup/featured.png"
 excerpt: "A minimalist writing station running at 24 watts: an Android gaming handheld, a wireless keyboard, and Obsidian. Built for distraction-free writing during Sri Lanka's power cuts."
 ---
 

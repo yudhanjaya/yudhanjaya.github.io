@@ -5,7 +5,7 @@ grand_parent: Experiments
 tags: [stonegarden]
 nav_order: 1
 date: 2025-01-01
-image: "/assets/images/experiments/stonegarden/how-to-house/closing.jpg"
+image: "/assets/images/experiments/how-to-house/featured.png"
 excerpt: "Hard-won lessons from five years of construction on a mountain in Kandy: contractors, architects, permits, costs, labour, and survival."
 ---
 

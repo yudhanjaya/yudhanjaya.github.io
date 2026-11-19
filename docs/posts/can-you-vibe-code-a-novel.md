@@ -5,6 +5,7 @@ parent: Posts
 nav_order: 1
 date: 2025-03-01
 excerpt: "A 33,000-word experiment: using Claude 3.7 Sonnet and Gemini to generate a novel premise, setting, characters, and plot outline — and asking whether AI's real limitation is capability or artistic motivation."
+image: "/assets/images/posts/can-you-vibe-code-a-novel/featured.png"
 permalink: /posts/can-you-vibe-code-a-novel/
 ---
 

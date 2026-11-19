@@ -4,7 +4,7 @@ parent: Software
 nav_order: 1
 tags: [software]
 date: 2024-08-31
-image: "/assets/images/software/geodog/geodog-banner.jpg"
+image: "/assets/images/software/geodog/featured.png"
 excerpt: "A Python library for processing images for GIS work: converting images to geo-referenced points, polygons, and shapefiles."
 ---
 

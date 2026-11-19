@@ -4,7 +4,7 @@ parent: Software
 nav_order: 2
 tags: [software]
 date: 2026-10-20
-image: "/assets/images/software/minuett/library.jpg"
+image: "/assets/images/software/minuett/featured.png"
 excerpt: "A free and open source library-first music player for Linux, inspired by Winamp and RealPlayer 10. Imports playlists from YouTube and Spotify."
 ---
 

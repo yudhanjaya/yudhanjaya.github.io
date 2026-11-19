@@ -4,7 +4,7 @@ parent: Software
 nav_order: 2
 tags: [software]
 date: 2026-02-18
-image: "/assets/images/software/mokuton/screenshot-light.jpg"
+image: "/assets/images/software/mokuton/featured.png"
 excerpt: "A simple single-file HTML word processor and markdown editor. Runs in your browser, saves to cache, exports to Markdown."
 ---
 

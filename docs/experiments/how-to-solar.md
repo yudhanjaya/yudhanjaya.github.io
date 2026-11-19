@@ -5,7 +5,7 @@ grand_parent: Experiments
 tags: [stonegarden]
 nav_order: 2
 date: 2026-04-02
-image: "/assets/images/experiments/stonegarden/how-to-solar/hybrid-inverter-diagram.png"
+image: "/assets/images/experiments/how-to-solar/featured.png"
 excerpt: "A simple guide to solar panels, inverters, batteries, and passive cooling - for anyone trying to cut free from Sri Lanka's troubled electricity grid."
 ---
 

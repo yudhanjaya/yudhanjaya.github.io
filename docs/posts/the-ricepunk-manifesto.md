@@ -5,6 +5,7 @@ parent: Posts
 nav_order: 4
 date: 2022-06-01
 excerpt: "Towards a new theme, or a horrendously jumbled set of concerns. A framework for science fiction that centers South Asian relationships, hybrid cultures, and the shit sandwich."
+image: "/assets/images/posts/the-ricepunk-manifesto/featured.png"
 permalink: /posts/the-ricepunk-manifesto/
 ---
 

@@ -4,7 +4,7 @@ parent: Software
 nav_order: 1
 tags: [software]
 date: 2026-11-01
-image: "/assets/images/software/shoggoth/chat.jpg"
+image: "/assets/images/software/shoggoth/featured.png"
 excerpt: "One download that runs open-weights language models on your own Linux machine. Chat, draw diagrams, write documents, or let a model work on the files in a folder."
 ---
 

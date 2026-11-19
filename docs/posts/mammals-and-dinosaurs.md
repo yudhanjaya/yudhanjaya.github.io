@@ -5,6 +5,7 @@ parent: Posts
 nav_order: 5
 date: 2019-01-18
 excerpt: "The Wild West of indie publishing is settling down. A look at collaborative publishers, franchise IP, and what the future of the book industry might look like."
+image: "/assets/images/posts/mammals-and-dinosaurs/featured.png"
 permalink: /posts/mammals-and-dinosaurs/
 ---
 

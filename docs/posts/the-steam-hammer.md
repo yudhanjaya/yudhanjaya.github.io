@@ -5,6 +5,7 @@ parent: Posts
 nav_order: 6
 date: 2017-12-16
 excerpt: "A speech given at the Arthur C Clarke Centennial, December 2017: on AI, John Henry, and whether you die with the steam hammer or learn to use it."
+image: "/assets/images/posts/the-steam-hammer/featured.png"
 permalink: /posts/the-steam-hammer/
 ---
 

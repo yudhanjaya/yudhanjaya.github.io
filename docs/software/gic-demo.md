@@ -4,7 +4,7 @@ parent: Software
 nav_order: 7
 tags: [software]
 date: 2025-02-25
-image: "/assets/images/software/gic-demo/screenshot-1.png"
+image: "/assets/images/software/gic-demo/featured.png"
 excerpt: "A prototype government information portal with AI-assisted RAG search, built to show what a better public information system could look like."
 ---
 

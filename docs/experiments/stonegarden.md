@@ -4,7 +4,7 @@ parent: Experiments
 nav_order: 2
 tags: [experiments]
 date: 2020-04-01
-image: "/assets/images/experiments/house-banner.jpg"
+image: "/assets/images/experiments/stonegarden/featured.png"
 excerpt: "186 perches of mountainside in Kandy, being turned into a sustainable home."
 ---
 

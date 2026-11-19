@@ -4,7 +4,7 @@ parent: Experiments
 nav_order: 1
 tags: [experiments]
 date: 2021-11-01
-image: "/assets/images/experiments/deconfinemain.png"
+image: "/assets/images/experiments/auto-biography/featured.png"
 excerpt: "AI-generated fake author biographies, exhibited at deconfine 2021 — a glimpse at how generative AI could be weaponised for identity fabrication."
 ---
 
