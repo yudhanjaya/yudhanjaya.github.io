@@ -331,7 +331,7 @@ What the hell do you do with a model like this? Well, in my case, I have it runn
 
 This, incidentally, makes my plans of world domination much easier.
 
-{% include image.html image="/assets/images/experiments/local-llms-experiments/cameraman-jonathan.jpg" caption="Cameraman Jonathan is ready for work." %}
+{% include image.html image="/assets/images/experiments/local-llms-experiments/cameraman-jonathan.jpg" caption="An early prototype from November 2023." %}
 
 ## How do I set this shit up?
 
