@@ -331,6 +331,8 @@ What the hell do you do with a model like this? Well, in my case, I have it runn
 
 This, incidentally, makes my plans of world domination much easier.
 
+{% include image.html image="/assets/images/experiments/local-llms-experiments/cameraman-jonathan.jpg" caption="Cameraman Jonathan is ready for work." %}
+
 ## How do I set this shit up?
 
 ### If you want a one-and-done simple setup, a sort of replacement for Claude Desktop that runs locally: 
