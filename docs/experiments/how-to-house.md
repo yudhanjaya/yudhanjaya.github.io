@@ -216,6 +216,7 @@ For houses that keep cool passively, I would recommend looking at Sri Lankan wal
 Finally: treat your architects like doctors you don't particularly like. Get a second opinion. Once a project goes into serious planning, you are going to be stuck with that architect. We've both seen and experienced architects who don't listen to clients, vanish for months, or simply don't stick to timelines, so pick wisely.
 
 Break your deliverables into an initial design stage - get an initial 2D plan and a 3D model from one or more architects. 
+{: #architect-deliverables}
 
 {% include image.html image="/assets/images/experiments/stonegarden/how-to-house/3d-modelling.png" %}
 

@@ -8,6 +8,12 @@ image: "/assets/images/experiments/stonegarden/featured.png"
 excerpt: "186 perches of mountainside in Kandy, being turned into a sustainable home."
 ---
 
+**On this page:**
+- [The beginnings](#the-beginnings)
+- [The building](#the-building)
+- [The Present](#the-present)
+- [The guides](#the-guides)
+
 # The beginnings
 
 When I was 15 I decided that I would one day build a cottage somewhere far away and fuck off into a world where I didn't have to worry about rent. I had Rs 200 in my account. My back-of-the-school-notebook projections were to hit this phase by the time I was 55. By the end of 2019, I had enough to buy 186 perches (1.16 acres) of mountainside in Kandy. Thanks to my writing, I've been able to beat my own deadline by 25 years, with house money to spare.

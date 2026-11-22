@@ -46,6 +46,13 @@ This is my solution:
 
 Putting it all together requires plugging in some wires. Odin to dock via USB-C. Monitor to dock via HDMI. A charger providing USB power to the dock. That's about it.
 
+**On this page:**
+- [A gaming console for writing](#a-gaming-console-for-writing)
+- [Alternative hardware](#alternative-hardware)
+- [Software](#software)
+- [The skull?](#the-skull)
+- [Notes](#notes)
+
 ### A gaming console for writing
 
 Over the last few years there's been an explosion of small-form factor handheld gaming machines. The most famous, of course, is the Steam Deck, and indeed the Steam Deck is a fantastic PC. There're even more expensive machines (the ROG Ally, the AYA Neo 2S, the One XFly, the GPD Win 4) that use much faster processors to play modern games, and even ship with Windows.

@@ -18,6 +18,11 @@ What followed was several years of work I'm proud of - and also the primary sour
 
 {% include image.html image="/assets/images/watchdog/watchdogbanner16x9.jpg" %}
 
+**On this page:**
+- [Three incarnations](#three-incarnations)
+- [What we investigated](#what-we-investigated)
+- [Tools](#tools)
+
 ## Three incarnations
 
 **The first** was Watchdog as a pure fact-checker, scaling up and down with election cycles, run largely on volunteer labour and Nisal and my own finances.

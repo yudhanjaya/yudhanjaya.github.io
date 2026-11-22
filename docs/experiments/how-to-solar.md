@@ -20,7 +20,7 @@ Recently I posted some photos of our solar setup and installation. I was surpris
 - [Connection Types and Capacity](#connection-types-and-capacity)
 - [Choosing Installers and Components](#choosing-installers-and-components)
 - [Budget and DIY Alternatives](#budget-and-diy-alternatives)
-- [Cooling and Aircon Strategy](#cooling-and-aircon-strategy)
+- [Cooling and Aircon Strategy](#but-i-need-aircon)
 - [Economic Returns](#economic-returns)
 
 
